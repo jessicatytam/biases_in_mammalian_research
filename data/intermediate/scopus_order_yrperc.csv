@@ -1,0 +1,2252 @@
+"","clade","order","year","count","sum","perc"
+"1","Afrotheria","Afrosoricida",1937,1,19,5.26315789473684
+"2","Afrotheria","Afrosoricida",1949,2,43,4.65116279069767
+"3","Afrotheria","Afrosoricida",1959,2,125,1.6
+"4","Afrotheria","Afrosoricida",1960,3,138,2.17391304347826
+"5","Afrotheria","Afrosoricida",1962,1,176,0.568181818181818
+"6","Afrotheria","Afrosoricida",1964,7,185,3.78378378378378
+"7","Afrotheria","Afrosoricida",1965,1,255,0.392156862745098
+"8","Afrotheria","Afrosoricida",1970,1,379,0.263852242744063
+"9","Afrotheria","Afrosoricida",1971,2,417,0.479616306954436
+"10","Afrotheria","Afrosoricida",1972,1,441,0.226757369614512
+"11","Afrotheria","Afrosoricida",1973,1,457,0.218818380743982
+"12","Afrotheria","Afrosoricida",1974,5,465,1.0752688172043
+"13","Afrotheria","Afrosoricida",1977,1,503,0.198807157057654
+"14","Afrotheria","Afrosoricida",1978,1,524,0.190839694656489
+"15","Afrotheria","Afrosoricida",1980,1,572,0.174825174825175
+"16","Afrotheria","Afrosoricida",1981,2,589,0.33955857385399
+"17","Afrotheria","Afrosoricida",1982,1,719,0.139082058414465
+"18","Afrotheria","Afrosoricida",1983,1,693,0.144300144300144
+"19","Afrotheria","Afrosoricida",1984,2,708,0.282485875706215
+"20","Afrotheria","Afrosoricida",1985,2,729,0.274348422496571
+"21","Afrotheria","Afrosoricida",1986,4,699,0.572246065808298
+"22","Afrotheria","Afrosoricida",1988,2,835,0.239520958083832
+"23","Afrotheria","Afrosoricida",1989,1,817,0.122399020807834
+"24","Afrotheria","Afrosoricida",1990,5,924,0.541125541125541
+"25","Afrotheria","Afrosoricida",1991,3,874,0.34324942791762
+"26","Afrotheria","Afrosoricida",1992,2,857,0.233372228704784
+"27","Afrotheria","Afrosoricida",1993,6,947,0.633579725448786
+"28","Afrotheria","Afrosoricida",1994,9,954,0.943396226415094
+"29","Afrotheria","Afrosoricida",1995,3,1034,0.290135396518375
+"30","Afrotheria","Afrosoricida",1996,3,1123,0.267141585040071
+"31","Afrotheria","Afrosoricida",1997,6,1247,0.481154771451484
+"32","Afrotheria","Afrosoricida",1998,2,1244,0.160771704180064
+"33","Afrotheria","Afrosoricida",1999,2,1319,0.151630022744503
+"34","Afrotheria","Afrosoricida",2000,6,1331,0.450788880540947
+"35","Afrotheria","Afrosoricida",2001,6,1428,0.420168067226891
+"36","Afrotheria","Afrosoricida",2002,5,1381,0.362056480811006
+"37","Afrotheria","Afrosoricida",2003,3,1494,0.200803212851406
+"38","Afrotheria","Afrosoricida",2004,2,1557,0.128452151573539
+"39","Afrotheria","Afrosoricida",2005,5,1557,0.321130378933847
+"40","Afrotheria","Afrosoricida",2006,12,1655,0.725075528700906
+"41","Afrotheria","Afrosoricida",2007,7,1629,0.429711479435236
+"42","Afrotheria","Afrosoricida",2008,10,1675,0.597014925373134
+"43","Afrotheria","Afrosoricida",2009,5,1690,0.29585798816568
+"44","Afrotheria","Afrosoricida",2010,8,1895,0.422163588390501
+"45","Afrotheria","Afrosoricida",2011,6,1876,0.319829424307036
+"46","Afrotheria","Afrosoricida",2012,5,1886,0.265111346765642
+"47","Afrotheria","Afrosoricida",2013,10,1865,0.536193029490617
+"48","Afrotheria","Afrosoricida",2014,6,1930,0.310880829015544
+"49","Afrotheria","Afrosoricida",2015,8,1947,0.410888546481767
+"50","Afrotheria","Afrosoricida",2016,8,2018,0.396432111000991
+"51","Afrotheria","Afrosoricida",2017,3,2003,0.149775336994508
+"52","Afrotheria","Afrosoricida",2018,13,1990,0.653266331658292
+"53","Afrotheria","Afrosoricida",2019,3,1993,0.150526843953838
+"54","Afrotheria","Afrosoricida",2020,6,2044,0.293542074363992
+"55","Afrotheria","Afrosoricida",2021,3,1234,0.243111831442464
+"56","Afrotheria","Afrosoricida",NA,27,2276,1.18629173989455
+"57","Afrotheria","Hyracoidea",1865,1,8,12.5
+"58","Afrotheria","Hyracoidea",1922,1,10,10
+"59","Afrotheria","Hyracoidea",1941,1,26,3.84615384615385
+"60","Afrotheria","Hyracoidea",1946,1,33,3.03030303030303
+"61","Afrotheria","Hyracoidea",1948,1,47,2.12765957446809
+"62","Afrotheria","Hyracoidea",1958,1,109,0.917431192660551
+"63","Afrotheria","Hyracoidea",1960,1,138,0.72463768115942
+"64","Afrotheria","Hyracoidea",1961,1,141,0.709219858156028
+"65","Afrotheria","Hyracoidea",1962,1,176,0.568181818181818
+"66","Afrotheria","Hyracoidea",1963,1,183,0.546448087431694
+"67","Afrotheria","Hyracoidea",1965,1,255,0.392156862745098
+"68","Afrotheria","Hyracoidea",1967,1,306,0.326797385620915
+"69","Afrotheria","Hyracoidea",1968,1,323,0.309597523219814
+"70","Afrotheria","Hyracoidea",1969,2,333,0.600600600600601
+"71","Afrotheria","Hyracoidea",1970,1,379,0.263852242744063
+"72","Afrotheria","Hyracoidea",1971,3,417,0.719424460431655
+"73","Afrotheria","Hyracoidea",1972,1,441,0.226757369614512
+"74","Afrotheria","Hyracoidea",1973,2,457,0.437636761487965
+"75","Afrotheria","Hyracoidea",1975,3,478,0.627615062761506
+"76","Afrotheria","Hyracoidea",1976,1,529,0.189035916824197
+"77","Afrotheria","Hyracoidea",1977,1,503,0.198807157057654
+"78","Afrotheria","Hyracoidea",1978,3,524,0.572519083969466
+"79","Afrotheria","Hyracoidea",1979,2,543,0.368324125230203
+"80","Afrotheria","Hyracoidea",1980,1,572,0.174825174825175
+"81","Afrotheria","Hyracoidea",1981,4,589,0.67911714770798
+"82","Afrotheria","Hyracoidea",1982,4,719,0.556328233657858
+"83","Afrotheria","Hyracoidea",1983,2,693,0.288600288600289
+"84","Afrotheria","Hyracoidea",1984,2,708,0.282485875706215
+"85","Afrotheria","Hyracoidea",1985,3,729,0.411522633744856
+"86","Afrotheria","Hyracoidea",1986,2,699,0.286123032904149
+"87","Afrotheria","Hyracoidea",1987,1,743,0.134589502018843
+"88","Afrotheria","Hyracoidea",1988,1,835,0.119760479041916
+"89","Afrotheria","Hyracoidea",1989,3,817,0.367197062423501
+"90","Afrotheria","Hyracoidea",1991,1,874,0.11441647597254
+"91","Afrotheria","Hyracoidea",1992,2,857,0.233372228704784
+"92","Afrotheria","Hyracoidea",1993,1,947,0.105596620908131
+"93","Afrotheria","Hyracoidea",1994,2,954,0.209643605870021
+"94","Afrotheria","Hyracoidea",1995,4,1034,0.386847195357834
+"95","Afrotheria","Hyracoidea",1996,3,1123,0.267141585040071
+"96","Afrotheria","Hyracoidea",1997,2,1247,0.160384923817161
+"97","Afrotheria","Hyracoidea",1998,3,1244,0.241157556270096
+"98","Afrotheria","Hyracoidea",1999,2,1319,0.151630022744503
+"99","Afrotheria","Hyracoidea",2000,4,1331,0.300525920360631
+"100","Afrotheria","Hyracoidea",2001,5,1428,0.350140056022409
+"101","Afrotheria","Hyracoidea",2002,2,1381,0.144822592324403
+"102","Afrotheria","Hyracoidea",2003,1,1494,0.0669344042838019
+"103","Afrotheria","Hyracoidea",2004,1,1557,0.0642260757867694
+"104","Afrotheria","Hyracoidea",2005,1,1557,0.0642260757867694
+"105","Afrotheria","Hyracoidea",2006,1,1655,0.0604229607250755
+"106","Afrotheria","Hyracoidea",2007,2,1629,0.122774708410068
+"107","Afrotheria","Hyracoidea",2008,1,1675,0.0597014925373134
+"108","Afrotheria","Hyracoidea",2009,2,1690,0.118343195266272
+"109","Afrotheria","Hyracoidea",2010,2,1895,0.105540897097625
+"110","Afrotheria","Hyracoidea",2011,1,1876,0.0533049040511727
+"111","Afrotheria","Hyracoidea",2012,2,1886,0.106044538706257
+"112","Afrotheria","Hyracoidea",2013,1,1865,0.0536193029490617
+"113","Afrotheria","Hyracoidea",2014,2,1930,0.103626943005181
+"114","Afrotheria","Hyracoidea",2015,3,1947,0.154083204930663
+"115","Afrotheria","Hyracoidea",2016,1,2018,0.0495540138751239
+"116","Afrotheria","Hyracoidea",2017,2,2003,0.0998502246630055
+"117","Afrotheria","Hyracoidea",2018,2,1990,0.100502512562814
+"118","Afrotheria","Hyracoidea",2019,3,1993,0.150526843953838
+"119","Afrotheria","Hyracoidea",2020,1,2044,0.0489236790606654
+"120","Afrotheria","Hyracoidea",2021,1,1234,0.0810372771474878
+"121","Afrotheria","Hyracoidea",NA,22,2276,0.966608084358524
+"122","Afrotheria","Macroscelidea",1944,1,27,3.7037037037037
+"123","Afrotheria","Macroscelidea",1950,1,49,2.04081632653061
+"124","Afrotheria","Macroscelidea",1963,1,183,0.546448087431694
+"125","Afrotheria","Macroscelidea",1968,1,323,0.309597523219814
+"126","Afrotheria","Macroscelidea",1969,1,333,0.3003003003003
+"127","Afrotheria","Macroscelidea",1971,3,417,0.719424460431655
+"128","Afrotheria","Macroscelidea",1972,2,441,0.453514739229025
+"129","Afrotheria","Macroscelidea",1977,2,503,0.397614314115308
+"130","Afrotheria","Macroscelidea",1980,1,572,0.174825174825175
+"131","Afrotheria","Macroscelidea",1981,1,589,0.169779286926995
+"132","Afrotheria","Macroscelidea",1982,1,719,0.139082058414465
+"133","Afrotheria","Macroscelidea",1983,2,693,0.288600288600289
+"134","Afrotheria","Macroscelidea",1984,2,708,0.282485875706215
+"135","Afrotheria","Macroscelidea",1985,1,729,0.137174211248285
+"136","Afrotheria","Macroscelidea",1987,3,743,0.403768506056528
+"137","Afrotheria","Macroscelidea",1988,2,835,0.239520958083832
+"138","Afrotheria","Macroscelidea",1989,6,817,0.734394124847001
+"139","Afrotheria","Macroscelidea",1990,3,924,0.324675324675325
+"140","Afrotheria","Macroscelidea",1992,2,857,0.233372228704784
+"141","Afrotheria","Macroscelidea",1994,3,954,0.314465408805031
+"142","Afrotheria","Macroscelidea",1995,8,1034,0.773694390715667
+"143","Afrotheria","Macroscelidea",1996,7,1123,0.6233303650935
+"144","Afrotheria","Macroscelidea",1997,3,1247,0.240577385725742
+"145","Afrotheria","Macroscelidea",1998,2,1244,0.160771704180064
+"146","Afrotheria","Macroscelidea",1999,1,1319,0.0758150113722517
+"147","Afrotheria","Macroscelidea",2001,3,1428,0.210084033613445
+"148","Afrotheria","Macroscelidea",2002,3,1381,0.217233888486604
+"149","Afrotheria","Macroscelidea",2003,4,1494,0.267737617135207
+"150","Afrotheria","Macroscelidea",2004,4,1557,0.256904303147078
+"151","Afrotheria","Macroscelidea",2005,4,1557,0.256904303147078
+"152","Afrotheria","Macroscelidea",2006,5,1655,0.302114803625378
+"153","Afrotheria","Macroscelidea",2007,3,1629,0.184162062615101
+"154","Afrotheria","Macroscelidea",2008,3,1675,0.17910447761194
+"155","Afrotheria","Macroscelidea",2009,4,1690,0.236686390532544
+"156","Afrotheria","Macroscelidea",2010,5,1895,0.263852242744063
+"157","Afrotheria","Macroscelidea",2011,7,1876,0.373134328358209
+"158","Afrotheria","Macroscelidea",2012,5,1886,0.265111346765642
+"159","Afrotheria","Macroscelidea",2013,5,1865,0.268096514745308
+"160","Afrotheria","Macroscelidea",2014,5,1930,0.259067357512953
+"161","Afrotheria","Macroscelidea",2015,3,1947,0.154083204930663
+"162","Afrotheria","Macroscelidea",2016,5,2018,0.247770069375619
+"163","Afrotheria","Macroscelidea",2017,5,2003,0.249625561657514
+"164","Afrotheria","Macroscelidea",2018,6,1990,0.301507537688442
+"165","Afrotheria","Macroscelidea",2019,1,1993,0.0501756146512795
+"166","Afrotheria","Macroscelidea",2020,5,2044,0.244618395303327
+"167","Afrotheria","Macroscelidea",2021,4,1234,0.324149108589951
+"168","Afrotheria","Macroscelidea",NA,23,2276,1.01054481546573
+"169","Afrotheria","Proboscidea",1914,1,9,11.1111111111111
+"170","Afrotheria","Proboscidea",1919,1,8,12.5
+"171","Afrotheria","Proboscidea",1926,1,21,4.76190476190476
+"172","Afrotheria","Proboscidea",1928,1,18,5.55555555555556
+"173","Afrotheria","Proboscidea",1929,1,17,5.88235294117647
+"174","Afrotheria","Proboscidea",1937,1,19,5.26315789473684
+"175","Afrotheria","Proboscidea",1943,1,22,4.54545454545455
+"176","Afrotheria","Proboscidea",1945,1,28,3.57142857142857
+"177","Afrotheria","Proboscidea",1951,1,78,1.28205128205128
+"178","Afrotheria","Proboscidea",1954,1,81,1.23456790123457
+"179","Afrotheria","Proboscidea",1955,1,82,1.21951219512195
+"180","Afrotheria","Proboscidea",1956,2,107,1.86915887850467
+"181","Afrotheria","Proboscidea",1958,2,109,1.8348623853211
+"182","Afrotheria","Proboscidea",1960,1,138,0.72463768115942
+"183","Afrotheria","Proboscidea",1961,2,141,1.41843971631206
+"184","Afrotheria","Proboscidea",1962,1,176,0.568181818181818
+"185","Afrotheria","Proboscidea",1963,2,183,1.09289617486339
+"186","Afrotheria","Proboscidea",1964,1,185,0.540540540540541
+"187","Afrotheria","Proboscidea",1965,2,255,0.784313725490196
+"188","Afrotheria","Proboscidea",1966,2,257,0.778210116731518
+"189","Afrotheria","Proboscidea",1967,2,306,0.65359477124183
+"190","Afrotheria","Proboscidea",1968,1,323,0.309597523219814
+"191","Afrotheria","Proboscidea",1969,2,333,0.600600600600601
+"192","Afrotheria","Proboscidea",1970,2,379,0.527704485488127
+"193","Afrotheria","Proboscidea",1971,2,417,0.479616306954436
+"194","Afrotheria","Proboscidea",1972,2,441,0.453514739229025
+"195","Afrotheria","Proboscidea",1973,2,457,0.437636761487965
+"196","Afrotheria","Proboscidea",1974,2,465,0.43010752688172
+"197","Afrotheria","Proboscidea",1975,2,478,0.418410041841004
+"198","Afrotheria","Proboscidea",1976,2,529,0.378071833648393
+"199","Afrotheria","Proboscidea",1977,2,503,0.397614314115308
+"200","Afrotheria","Proboscidea",1978,2,524,0.381679389312977
+"201","Afrotheria","Proboscidea",1979,2,543,0.368324125230203
+"202","Afrotheria","Proboscidea",1980,2,572,0.34965034965035
+"203","Afrotheria","Proboscidea",1981,2,589,0.33955857385399
+"204","Afrotheria","Proboscidea",1982,2,719,0.278164116828929
+"205","Afrotheria","Proboscidea",1983,2,693,0.288600288600289
+"206","Afrotheria","Proboscidea",1984,3,708,0.423728813559322
+"207","Afrotheria","Proboscidea",1985,2,729,0.274348422496571
+"208","Afrotheria","Proboscidea",1986,2,699,0.286123032904149
+"209","Afrotheria","Proboscidea",1987,2,743,0.269179004037685
+"210","Afrotheria","Proboscidea",1988,2,835,0.239520958083832
+"211","Afrotheria","Proboscidea",1989,2,817,0.244798041615667
+"212","Afrotheria","Proboscidea",1990,2,924,0.216450216450216
+"213","Afrotheria","Proboscidea",1991,2,874,0.22883295194508
+"214","Afrotheria","Proboscidea",1992,2,857,0.233372228704784
+"215","Afrotheria","Proboscidea",1993,2,947,0.211193241816262
+"216","Afrotheria","Proboscidea",1994,2,954,0.209643605870021
+"217","Afrotheria","Proboscidea",1995,2,1034,0.193423597678917
+"218","Afrotheria","Proboscidea",1996,2,1123,0.178094390026714
+"219","Afrotheria","Proboscidea",1997,2,1247,0.160384923817161
+"220","Afrotheria","Proboscidea",1998,2,1244,0.160771704180064
+"221","Afrotheria","Proboscidea",1999,3,1319,0.227445034116755
+"222","Afrotheria","Proboscidea",2000,3,1331,0.225394440270473
+"223","Afrotheria","Proboscidea",2001,4,1428,0.280112044817927
+"224","Afrotheria","Proboscidea",2002,3,1381,0.217233888486604
+"225","Afrotheria","Proboscidea",2003,3,1494,0.200803212851406
+"226","Afrotheria","Proboscidea",2004,3,1557,0.192678227360308
+"227","Afrotheria","Proboscidea",2005,3,1557,0.192678227360308
+"228","Afrotheria","Proboscidea",2006,3,1655,0.181268882175227
+"229","Afrotheria","Proboscidea",2007,3,1629,0.184162062615101
+"230","Afrotheria","Proboscidea",2008,3,1675,0.17910447761194
+"231","Afrotheria","Proboscidea",2009,3,1690,0.177514792899408
+"232","Afrotheria","Proboscidea",2010,3,1895,0.158311345646438
+"233","Afrotheria","Proboscidea",2011,3,1876,0.159914712153518
+"234","Afrotheria","Proboscidea",2012,3,1886,0.159066808059385
+"235","Afrotheria","Proboscidea",2013,3,1865,0.160857908847185
+"236","Afrotheria","Proboscidea",2014,3,1930,0.155440414507772
+"237","Afrotheria","Proboscidea",2015,3,1947,0.154083204930663
+"238","Afrotheria","Proboscidea",2016,4,2018,0.198216055500496
+"239","Afrotheria","Proboscidea",2017,3,2003,0.149775336994508
+"240","Afrotheria","Proboscidea",2018,3,1990,0.150753768844221
+"241","Afrotheria","Proboscidea",2019,3,1993,0.150526843953838
+"242","Afrotheria","Proboscidea",2020,3,2044,0.146771037181996
+"243","Afrotheria","Proboscidea",2021,3,1234,0.243111831442464
+"244","Afrotheria","Proboscidea",NA,4,2276,0.175746924428822
+"245","Afrotheria","Sirenia",1938,1,45,2.22222222222222
+"246","Afrotheria","Sirenia",1960,1,138,0.72463768115942
+"247","Afrotheria","Sirenia",1966,1,257,0.389105058365759
+"248","Afrotheria","Sirenia",1967,1,306,0.326797385620915
+"249","Afrotheria","Sirenia",1968,2,323,0.619195046439629
+"250","Afrotheria","Sirenia",1969,1,333,0.3003003003003
+"251","Afrotheria","Sirenia",1971,1,417,0.239808153477218
+"252","Afrotheria","Sirenia",1972,2,441,0.453514739229025
+"253","Afrotheria","Sirenia",1973,1,457,0.218818380743982
+"254","Afrotheria","Sirenia",1974,2,465,0.43010752688172
+"255","Afrotheria","Sirenia",1975,3,478,0.627615062761506
+"256","Afrotheria","Sirenia",1976,2,529,0.378071833648393
+"257","Afrotheria","Sirenia",1977,2,503,0.397614314115308
+"258","Afrotheria","Sirenia",1978,2,524,0.381679389312977
+"259","Afrotheria","Sirenia",1979,3,543,0.552486187845304
+"260","Afrotheria","Sirenia",1980,2,572,0.34965034965035
+"261","Afrotheria","Sirenia",1981,3,589,0.509337860780985
+"262","Afrotheria","Sirenia",1982,3,719,0.417246175243394
+"263","Afrotheria","Sirenia",1983,4,693,0.577200577200577
+"264","Afrotheria","Sirenia",1984,4,708,0.564971751412429
+"265","Afrotheria","Sirenia",1985,2,729,0.274348422496571
+"266","Afrotheria","Sirenia",1986,3,699,0.429184549356223
+"267","Afrotheria","Sirenia",1987,2,743,0.269179004037685
+"268","Afrotheria","Sirenia",1988,3,835,0.359281437125749
+"269","Afrotheria","Sirenia",1989,2,817,0.244798041615667
+"270","Afrotheria","Sirenia",1990,2,924,0.216450216450216
+"271","Afrotheria","Sirenia",1991,3,874,0.34324942791762
+"272","Afrotheria","Sirenia",1992,3,857,0.350058343057176
+"273","Afrotheria","Sirenia",1993,2,947,0.211193241816262
+"274","Afrotheria","Sirenia",1994,3,954,0.314465408805031
+"275","Afrotheria","Sirenia",1995,3,1034,0.290135396518375
+"276","Afrotheria","Sirenia",1996,3,1123,0.267141585040071
+"277","Afrotheria","Sirenia",1997,2,1247,0.160384923817161
+"278","Afrotheria","Sirenia",1998,3,1244,0.241157556270096
+"279","Afrotheria","Sirenia",1999,3,1319,0.227445034116755
+"280","Afrotheria","Sirenia",2000,3,1331,0.225394440270473
+"281","Afrotheria","Sirenia",2001,3,1428,0.210084033613445
+"282","Afrotheria","Sirenia",2002,4,1381,0.289645184648805
+"283","Afrotheria","Sirenia",2003,4,1494,0.267737617135207
+"284","Afrotheria","Sirenia",2004,2,1557,0.128452151573539
+"285","Afrotheria","Sirenia",2005,3,1557,0.192678227360308
+"286","Afrotheria","Sirenia",2006,4,1655,0.241691842900302
+"287","Afrotheria","Sirenia",2007,4,1629,0.245549416820135
+"288","Afrotheria","Sirenia",2008,3,1675,0.17910447761194
+"289","Afrotheria","Sirenia",2009,4,1690,0.236686390532544
+"290","Afrotheria","Sirenia",2010,3,1895,0.158311345646438
+"291","Afrotheria","Sirenia",2011,4,1876,0.213219616204691
+"292","Afrotheria","Sirenia",2012,4,1886,0.212089077412513
+"293","Afrotheria","Sirenia",2013,4,1865,0.214477211796247
+"294","Afrotheria","Sirenia",2014,3,1930,0.155440414507772
+"295","Afrotheria","Sirenia",2015,4,1947,0.205444273240883
+"296","Afrotheria","Sirenia",2016,3,2018,0.148662041625372
+"297","Afrotheria","Sirenia",2017,3,2003,0.149775336994508
+"298","Afrotheria","Sirenia",2018,3,1990,0.150753768844221
+"299","Afrotheria","Sirenia",2019,4,1993,0.200702458605118
+"300","Afrotheria","Sirenia",2020,3,2044,0.146771037181996
+"301","Afrotheria","Sirenia",2021,4,1234,0.324149108589951
+"302","Afrotheria","Sirenia",NA,1,2276,0.0439367311072056
+"303","Afrotheria","Tubulidentata",1924,1,14,7.14285714285714
+"304","Afrotheria","Tubulidentata",1925,1,13,7.69230769230769
+"305","Afrotheria","Tubulidentata",1926,1,21,4.76190476190476
+"306","Afrotheria","Tubulidentata",1938,1,45,2.22222222222222
+"307","Afrotheria","Tubulidentata",1946,1,33,3.03030303030303
+"308","Afrotheria","Tubulidentata",1969,1,333,0.3003003003003
+"309","Afrotheria","Tubulidentata",1970,1,379,0.263852242744063
+"310","Afrotheria","Tubulidentata",1976,1,529,0.189035916824197
+"311","Afrotheria","Tubulidentata",1977,1,503,0.198807157057654
+"312","Afrotheria","Tubulidentata",1980,1,572,0.174825174825175
+"313","Afrotheria","Tubulidentata",1981,1,589,0.169779286926995
+"314","Afrotheria","Tubulidentata",1983,1,693,0.144300144300144
+"315","Afrotheria","Tubulidentata",1984,1,708,0.141242937853107
+"316","Afrotheria","Tubulidentata",1985,1,729,0.137174211248285
+"317","Afrotheria","Tubulidentata",1986,1,699,0.143061516452074
+"318","Afrotheria","Tubulidentata",1987,1,743,0.134589502018843
+"319","Afrotheria","Tubulidentata",1988,1,835,0.119760479041916
+"320","Afrotheria","Tubulidentata",1991,1,874,0.11441647597254
+"321","Afrotheria","Tubulidentata",1992,1,857,0.116686114352392
+"322","Afrotheria","Tubulidentata",1994,1,954,0.10482180293501
+"323","Afrotheria","Tubulidentata",1996,1,1123,0.0890471950133571
+"324","Afrotheria","Tubulidentata",1997,1,1247,0.0801924619085806
+"325","Afrotheria","Tubulidentata",1998,1,1244,0.0803858520900322
+"326","Afrotheria","Tubulidentata",1999,1,1319,0.0758150113722517
+"327","Afrotheria","Tubulidentata",2000,1,1331,0.0751314800901578
+"328","Afrotheria","Tubulidentata",2001,1,1428,0.0700280112044818
+"329","Afrotheria","Tubulidentata",2002,1,1381,0.0724112961622013
+"330","Afrotheria","Tubulidentata",2003,1,1494,0.0669344042838019
+"331","Afrotheria","Tubulidentata",2004,1,1557,0.0642260757867694
+"332","Afrotheria","Tubulidentata",2005,1,1557,0.0642260757867694
+"333","Afrotheria","Tubulidentata",2006,1,1655,0.0604229607250755
+"334","Afrotheria","Tubulidentata",2007,1,1629,0.0613873542050338
+"335","Afrotheria","Tubulidentata",2008,1,1675,0.0597014925373134
+"336","Afrotheria","Tubulidentata",2009,1,1690,0.0591715976331361
+"337","Afrotheria","Tubulidentata",2010,1,1895,0.0527704485488127
+"338","Afrotheria","Tubulidentata",2011,1,1876,0.0533049040511727
+"339","Afrotheria","Tubulidentata",2012,1,1886,0.0530222693531283
+"340","Afrotheria","Tubulidentata",2013,1,1865,0.0536193029490617
+"341","Afrotheria","Tubulidentata",2014,1,1930,0.0518134715025907
+"342","Afrotheria","Tubulidentata",2015,1,1947,0.0513610683102209
+"343","Afrotheria","Tubulidentata",2016,1,2018,0.0495540138751239
+"344","Afrotheria","Tubulidentata",2017,1,2003,0.0499251123315027
+"345","Afrotheria","Tubulidentata",2018,1,1990,0.050251256281407
+"346","Afrotheria","Tubulidentata",2019,1,1993,0.0501756146512795
+"347","Afrotheria","Tubulidentata",2020,1,2044,0.0489236790606654
+"348","Afrotheria","Tubulidentata",2021,1,1234,0.0810372771474878
+"349","Euarchontoglires","Dermoptera",1959,1,125,0.8
+"350","Euarchontoglires","Dermoptera",1967,1,306,0.326797385620915
+"351","Euarchontoglires","Dermoptera",1983,1,693,0.144300144300144
+"352","Euarchontoglires","Dermoptera",1986,2,699,0.286123032904149
+"353","Euarchontoglires","Dermoptera",1989,1,817,0.122399020807834
+"354","Euarchontoglires","Dermoptera",1991,1,874,0.11441647597254
+"355","Euarchontoglires","Dermoptera",1992,1,857,0.116686114352392
+"356","Euarchontoglires","Dermoptera",1994,1,954,0.10482180293501
+"357","Euarchontoglires","Dermoptera",1998,2,1244,0.160771704180064
+"358","Euarchontoglires","Dermoptera",1999,1,1319,0.0758150113722517
+"359","Euarchontoglires","Dermoptera",2000,2,1331,0.150262960180316
+"360","Euarchontoglires","Dermoptera",2002,1,1381,0.0724112961622013
+"361","Euarchontoglires","Dermoptera",2003,2,1494,0.133868808567604
+"362","Euarchontoglires","Dermoptera",2006,1,1655,0.0604229607250755
+"363","Euarchontoglires","Dermoptera",2008,2,1675,0.119402985074627
+"364","Euarchontoglires","Dermoptera",2009,2,1690,0.118343195266272
+"365","Euarchontoglires","Dermoptera",2010,2,1895,0.105540897097625
+"366","Euarchontoglires","Dermoptera",2011,1,1876,0.0533049040511727
+"367","Euarchontoglires","Dermoptera",2012,1,1886,0.0530222693531283
+"368","Euarchontoglires","Dermoptera",2013,1,1865,0.0536193029490617
+"369","Euarchontoglires","Dermoptera",2014,1,1930,0.0518134715025907
+"370","Euarchontoglires","Dermoptera",2015,1,1947,0.0513610683102209
+"371","Euarchontoglires","Dermoptera",2016,1,2018,0.0495540138751239
+"372","Euarchontoglires","Dermoptera",2017,2,2003,0.0998502246630055
+"373","Euarchontoglires","Dermoptera",2018,1,1990,0.050251256281407
+"374","Euarchontoglires","Dermoptera",2019,1,1993,0.0501756146512795
+"375","Euarchontoglires","Dermoptera",2020,2,2044,0.0978473581213307
+"376","Euarchontoglires","Dermoptera",NA,2,2276,0.0878734622144112
+"377","Euarchontoglires","Lagomorpha",1869,1,11,9.09090909090909
+"378","Euarchontoglires","Lagomorpha",1881,1,5,20
+"379","Euarchontoglires","Lagomorpha",1898,1,7,14.2857142857143
+"380","Euarchontoglires","Lagomorpha",1902,2,13,15.3846153846154
+"381","Euarchontoglires","Lagomorpha",1918,1,5,20
+"382","Euarchontoglires","Lagomorpha",1921,1,16,6.25
+"383","Euarchontoglires","Lagomorpha",1924,1,14,7.14285714285714
+"384","Euarchontoglires","Lagomorpha",1927,1,15,6.66666666666667
+"385","Euarchontoglires","Lagomorpha",1932,1,21,4.76190476190476
+"386","Euarchontoglires","Lagomorpha",1933,1,12,8.33333333333333
+"387","Euarchontoglires","Lagomorpha",1936,1,24,4.16666666666667
+"388","Euarchontoglires","Lagomorpha",1938,1,45,2.22222222222222
+"389","Euarchontoglires","Lagomorpha",1939,2,33,6.06060606060606
+"390","Euarchontoglires","Lagomorpha",1940,1,26,3.84615384615385
+"391","Euarchontoglires","Lagomorpha",1943,2,22,9.09090909090909
+"392","Euarchontoglires","Lagomorpha",1944,2,27,7.40740740740741
+"393","Euarchontoglires","Lagomorpha",1947,2,43,4.65116279069767
+"394","Euarchontoglires","Lagomorpha",1948,1,47,2.12765957446809
+"395","Euarchontoglires","Lagomorpha",1949,1,43,2.32558139534884
+"396","Euarchontoglires","Lagomorpha",1951,1,78,1.28205128205128
+"397","Euarchontoglires","Lagomorpha",1952,3,77,3.8961038961039
+"398","Euarchontoglires","Lagomorpha",1953,2,75,2.66666666666667
+"399","Euarchontoglires","Lagomorpha",1954,1,81,1.23456790123457
+"400","Euarchontoglires","Lagomorpha",1955,3,82,3.65853658536585
+"401","Euarchontoglires","Lagomorpha",1956,2,107,1.86915887850467
+"402","Euarchontoglires","Lagomorpha",1957,2,103,1.94174757281553
+"403","Euarchontoglires","Lagomorpha",1958,2,109,1.8348623853211
+"404","Euarchontoglires","Lagomorpha",1959,5,125,4
+"405","Euarchontoglires","Lagomorpha",1960,5,138,3.6231884057971
+"406","Euarchontoglires","Lagomorpha",1961,4,141,2.83687943262411
+"407","Euarchontoglires","Lagomorpha",1962,2,176,1.13636363636364
+"408","Euarchontoglires","Lagomorpha",1963,5,183,2.73224043715847
+"409","Euarchontoglires","Lagomorpha",1964,2,185,1.08108108108108
+"410","Euarchontoglires","Lagomorpha",1965,6,255,2.35294117647059
+"411","Euarchontoglires","Lagomorpha",1966,7,257,2.72373540856031
+"412","Euarchontoglires","Lagomorpha",1967,6,306,1.96078431372549
+"413","Euarchontoglires","Lagomorpha",1968,3,323,0.928792569659443
+"414","Euarchontoglires","Lagomorpha",1969,6,333,1.8018018018018
+"415","Euarchontoglires","Lagomorpha",1970,7,379,1.84696569920844
+"416","Euarchontoglires","Lagomorpha",1971,10,417,2.39808153477218
+"417","Euarchontoglires","Lagomorpha",1972,8,441,1.8140589569161
+"418","Euarchontoglires","Lagomorpha",1973,15,457,3.28227571115974
+"419","Euarchontoglires","Lagomorpha",1974,9,465,1.93548387096774
+"420","Euarchontoglires","Lagomorpha",1975,9,478,1.88284518828452
+"421","Euarchontoglires","Lagomorpha",1976,7,529,1.32325141776938
+"422","Euarchontoglires","Lagomorpha",1977,12,503,2.38568588469185
+"423","Euarchontoglires","Lagomorpha",1978,10,524,1.90839694656489
+"424","Euarchontoglires","Lagomorpha",1979,10,543,1.84162062615101
+"425","Euarchontoglires","Lagomorpha",1980,13,572,2.27272727272727
+"426","Euarchontoglires","Lagomorpha",1981,15,589,2.54668930390492
+"427","Euarchontoglires","Lagomorpha",1982,13,719,1.80806675938804
+"428","Euarchontoglires","Lagomorpha",1983,34,693,4.90620490620491
+"429","Euarchontoglires","Lagomorpha",1984,16,708,2.25988700564972
+"430","Euarchontoglires","Lagomorpha",1985,15,729,2.05761316872428
+"431","Euarchontoglires","Lagomorpha",1986,17,699,2.43204577968526
+"432","Euarchontoglires","Lagomorpha",1987,14,743,1.8842530282638
+"433","Euarchontoglires","Lagomorpha",1988,13,835,1.55688622754491
+"434","Euarchontoglires","Lagomorpha",1989,17,817,2.08078335373317
+"435","Euarchontoglires","Lagomorpha",1990,18,924,1.94805194805195
+"436","Euarchontoglires","Lagomorpha",1991,20,874,2.2883295194508
+"437","Euarchontoglires","Lagomorpha",1992,14,857,1.63360560093349
+"438","Euarchontoglires","Lagomorpha",1993,16,947,1.68954593453009
+"439","Euarchontoglires","Lagomorpha",1994,17,954,1.78197064989518
+"440","Euarchontoglires","Lagomorpha",1995,18,1034,1.74081237911025
+"441","Euarchontoglires","Lagomorpha",1996,26,1123,2.31522707034728
+"442","Euarchontoglires","Lagomorpha",1997,28,1247,2.24538893344026
+"443","Euarchontoglires","Lagomorpha",1998,18,1244,1.44694533762058
+"444","Euarchontoglires","Lagomorpha",1999,21,1319,1.59211523881729
+"445","Euarchontoglires","Lagomorpha",2000,22,1331,1.65289256198347
+"446","Euarchontoglires","Lagomorpha",2001,22,1428,1.5406162464986
+"447","Euarchontoglires","Lagomorpha",2002,27,1381,1.95510499637944
+"448","Euarchontoglires","Lagomorpha",2003,28,1494,1.87416331994645
+"449","Euarchontoglires","Lagomorpha",2004,45,1557,2.89017341040462
+"450","Euarchontoglires","Lagomorpha",2005,31,1557,1.99100834938985
+"451","Euarchontoglires","Lagomorpha",2006,39,1655,2.35649546827795
+"452","Euarchontoglires","Lagomorpha",2007,36,1629,2.20994475138122
+"453","Euarchontoglires","Lagomorpha",2008,28,1675,1.67164179104478
+"454","Euarchontoglires","Lagomorpha",2009,30,1690,1.77514792899408
+"455","Euarchontoglires","Lagomorpha",2010,40,1895,2.11081794195251
+"456","Euarchontoglires","Lagomorpha",2011,36,1876,1.91897654584222
+"457","Euarchontoglires","Lagomorpha",2012,41,1886,2.17391304347826
+"458","Euarchontoglires","Lagomorpha",2013,26,1865,1.3941018766756
+"459","Euarchontoglires","Lagomorpha",2014,39,1930,2.02072538860104
+"460","Euarchontoglires","Lagomorpha",2015,41,1947,2.10580380071905
+"461","Euarchontoglires","Lagomorpha",2016,39,2018,1.93260654112983
+"462","Euarchontoglires","Lagomorpha",2017,51,2003,2.54618072890664
+"463","Euarchontoglires","Lagomorpha",2018,42,1990,2.1105527638191
+"464","Euarchontoglires","Lagomorpha",2019,43,1993,2.15755143000502
+"465","Euarchontoglires","Lagomorpha",2020,41,2044,2.00587084148728
+"466","Euarchontoglires","Lagomorpha",2021,25,1234,2.0259319286872
+"467","Euarchontoglires","Lagomorpha",NA,54,2276,2.3725834797891
+"468","Euarchontoglires","Primates",1836,1,1,100
+"469","Euarchontoglires","Primates",1839,1,1,100
+"470","Euarchontoglires","Primates",1844,1,1,100
+"471","Euarchontoglires","Primates",1846,1,2,50
+"472","Euarchontoglires","Primates",1850,1,1,100
+"473","Euarchontoglires","Primates",1852,1,1,100
+"474","Euarchontoglires","Primates",1853,1,1,100
+"475","Euarchontoglires","Primates",1856,1,1,100
+"476","Euarchontoglires","Primates",1857,2,3,66.6666666666667
+"477","Euarchontoglires","Primates",1861,1,1,100
+"478","Euarchontoglires","Primates",1862,2,4,50
+"479","Euarchontoglires","Primates",1863,1,3,33.3333333333333
+"480","Euarchontoglires","Primates",1865,2,8,25
+"481","Euarchontoglires","Primates",1866,1,1,100
+"482","Euarchontoglires","Primates",1867,2,4,50
+"483","Euarchontoglires","Primates",1868,1,2,50
+"484","Euarchontoglires","Primates",1869,1,11,9.09090909090909
+"485","Euarchontoglires","Primates",1870,1,3,33.3333333333333
+"486","Euarchontoglires","Primates",1871,4,5,80
+"487","Euarchontoglires","Primates",1872,1,4,25
+"488","Euarchontoglires","Primates",1873,1,3,33.3333333333333
+"489","Euarchontoglires","Primates",1874,1,3,33.3333333333333
+"490","Euarchontoglires","Primates",1875,1,3,33.3333333333333
+"491","Euarchontoglires","Primates",1877,2,2,100
+"492","Euarchontoglires","Primates",1878,1,6,16.6666666666667
+"493","Euarchontoglires","Primates",1880,1,4,25
+"494","Euarchontoglires","Primates",1881,1,5,20
+"495","Euarchontoglires","Primates",1882,1,6,16.6666666666667
+"496","Euarchontoglires","Primates",1883,1,3,33.3333333333333
+"497","Euarchontoglires","Primates",1884,2,6,33.3333333333333
+"498","Euarchontoglires","Primates",1885,1,3,33.3333333333333
+"499","Euarchontoglires","Primates",1886,1,6,16.6666666666667
+"500","Euarchontoglires","Primates",1887,3,7,42.8571428571429
+"501","Euarchontoglires","Primates",1888,1,2,50
+"502","Euarchontoglires","Primates",1890,1,1,100
+"503","Euarchontoglires","Primates",1891,2,4,50
+"504","Euarchontoglires","Primates",1892,1,4,25
+"505","Euarchontoglires","Primates",1893,1,2,50
+"506","Euarchontoglires","Primates",1894,1,4,25
+"507","Euarchontoglires","Primates",1895,1,4,25
+"508","Euarchontoglires","Primates",1897,1,5,20
+"509","Euarchontoglires","Primates",1898,2,7,28.5714285714286
+"510","Euarchontoglires","Primates",1899,2,2,100
+"511","Euarchontoglires","Primates",1900,1,3,33.3333333333333
+"512","Euarchontoglires","Primates",1901,4,5,80
+"513","Euarchontoglires","Primates",1902,4,13,30.7692307692308
+"514","Euarchontoglires","Primates",1903,1,2,50
+"515","Euarchontoglires","Primates",1904,2,9,22.2222222222222
+"516","Euarchontoglires","Primates",1905,3,7,42.8571428571429
+"517","Euarchontoglires","Primates",1906,1,6,16.6666666666667
+"518","Euarchontoglires","Primates",1907,1,4,25
+"519","Euarchontoglires","Primates",1908,3,4,75
+"520","Euarchontoglires","Primates",1909,1,8,12.5
+"521","Euarchontoglires","Primates",1910,2,7,28.5714285714286
+"522","Euarchontoglires","Primates",1911,4,6,66.6666666666667
+"523","Euarchontoglires","Primates",1912,2,14,14.2857142857143
+"524","Euarchontoglires","Primates",1915,1,10,10
+"525","Euarchontoglires","Primates",1917,1,5,20
+"526","Euarchontoglires","Primates",1920,2,5,40
+"527","Euarchontoglires","Primates",1921,9,16,56.25
+"528","Euarchontoglires","Primates",1922,2,10,20
+"529","Euarchontoglires","Primates",1923,2,5,40
+"530","Euarchontoglires","Primates",1924,4,14,28.5714285714286
+"531","Euarchontoglires","Primates",1926,3,21,14.2857142857143
+"532","Euarchontoglires","Primates",1927,2,15,13.3333333333333
+"533","Euarchontoglires","Primates",1928,2,18,11.1111111111111
+"534","Euarchontoglires","Primates",1929,3,17,17.6470588235294
+"535","Euarchontoglires","Primates",1930,2,16,12.5
+"536","Euarchontoglires","Primates",1931,5,21,23.8095238095238
+"537","Euarchontoglires","Primates",1932,4,21,19.047619047619
+"538","Euarchontoglires","Primates",1933,4,12,33.3333333333333
+"539","Euarchontoglires","Primates",1934,4,22,18.1818181818182
+"540","Euarchontoglires","Primates",1935,6,20,30
+"541","Euarchontoglires","Primates",1936,5,24,20.8333333333333
+"542","Euarchontoglires","Primates",1937,3,19,15.7894736842105
+"543","Euarchontoglires","Primates",1938,10,45,22.2222222222222
+"544","Euarchontoglires","Primates",1939,6,33,18.1818181818182
+"545","Euarchontoglires","Primates",1940,4,26,15.3846153846154
+"546","Euarchontoglires","Primates",1941,6,26,23.0769230769231
+"547","Euarchontoglires","Primates",1942,4,25,16
+"548","Euarchontoglires","Primates",1943,5,22,22.7272727272727
+"549","Euarchontoglires","Primates",1944,6,27,22.2222222222222
+"550","Euarchontoglires","Primates",1945,6,28,21.4285714285714
+"551","Euarchontoglires","Primates",1946,8,33,24.2424242424242
+"552","Euarchontoglires","Primates",1947,12,43,27.906976744186
+"553","Euarchontoglires","Primates",1948,7,47,14.8936170212766
+"554","Euarchontoglires","Primates",1949,10,43,23.2558139534884
+"555","Euarchontoglires","Primates",1950,8,49,16.3265306122449
+"556","Euarchontoglires","Primates",1951,12,78,15.3846153846154
+"557","Euarchontoglires","Primates",1952,12,77,15.5844155844156
+"558","Euarchontoglires","Primates",1953,11,75,14.6666666666667
+"559","Euarchontoglires","Primates",1954,16,81,19.7530864197531
+"560","Euarchontoglires","Primates",1955,15,82,18.2926829268293
+"561","Euarchontoglires","Primates",1956,13,107,12.1495327102804
+"562","Euarchontoglires","Primates",1957,18,103,17.4757281553398
+"563","Euarchontoglires","Primates",1958,15,109,13.7614678899083
+"564","Euarchontoglires","Primates",1959,18,125,14.4
+"565","Euarchontoglires","Primates",1960,16,138,11.5942028985507
+"566","Euarchontoglires","Primates",1961,22,141,15.6028368794326
+"567","Euarchontoglires","Primates",1962,27,176,15.3409090909091
+"568","Euarchontoglires","Primates",1963,30,183,16.3934426229508
+"569","Euarchontoglires","Primates",1964,37,185,20
+"570","Euarchontoglires","Primates",1965,40,255,15.6862745098039
+"571","Euarchontoglires","Primates",1966,52,257,20.2334630350195
+"572","Euarchontoglires","Primates",1967,51,306,16.6666666666667
+"573","Euarchontoglires","Primates",1968,50,323,15.4798761609907
+"574","Euarchontoglires","Primates",1969,56,333,16.8168168168168
+"575","Euarchontoglires","Primates",1970,60,379,15.8311345646438
+"576","Euarchontoglires","Primates",1971,65,417,15.5875299760192
+"577","Euarchontoglires","Primates",1972,73,441,16.5532879818594
+"578","Euarchontoglires","Primates",1973,84,457,18.3807439824945
+"579","Euarchontoglires","Primates",1974,72,465,15.4838709677419
+"580","Euarchontoglires","Primates",1975,76,478,15.8995815899582
+"581","Euarchontoglires","Primates",1976,75,529,14.1776937618147
+"582","Euarchontoglires","Primates",1977,77,503,15.3081510934394
+"583","Euarchontoglires","Primates",1978,87,524,16.6030534351145
+"584","Euarchontoglires","Primates",1979,72,543,13.2596685082873
+"585","Euarchontoglires","Primates",1980,84,572,14.6853146853147
+"586","Euarchontoglires","Primates",1981,87,589,14.7707979626486
+"587","Euarchontoglires","Primates",1982,104,719,14.4645340751043
+"588","Euarchontoglires","Primates",1983,95,693,13.7085137085137
+"589","Euarchontoglires","Primates",1984,88,708,12.4293785310734
+"590","Euarchontoglires","Primates",1985,99,729,13.5802469135802
+"591","Euarchontoglires","Primates",1986,100,699,14.3061516452074
+"592","Euarchontoglires","Primates",1987,113,743,15.2086137281292
+"593","Euarchontoglires","Primates",1988,121,835,14.4910179640719
+"594","Euarchontoglires","Primates",1989,114,817,13.953488372093
+"595","Euarchontoglires","Primates",1990,113,924,12.2294372294372
+"596","Euarchontoglires","Primates",1991,111,874,12.7002288329519
+"597","Euarchontoglires","Primates",1992,124,857,14.4690781796966
+"598","Euarchontoglires","Primates",1993,126,947,13.3051742344245
+"599","Euarchontoglires","Primates",1994,118,954,12.3689727463312
+"600","Euarchontoglires","Primates",1995,140,1034,13.5396518375242
+"601","Euarchontoglires","Primates",1996,134,1123,11.9323241317898
+"602","Euarchontoglires","Primates",1997,152,1247,12.1892542101043
+"603","Euarchontoglires","Primates",1998,158,1244,12.7009646302251
+"604","Euarchontoglires","Primates",1999,151,1319,11.44806671721
+"605","Euarchontoglires","Primates",2000,159,1331,11.9459053343351
+"606","Euarchontoglires","Primates",2001,156,1428,10.9243697478992
+"607","Euarchontoglires","Primates",2002,162,1381,11.7306299782766
+"608","Euarchontoglires","Primates",2003,167,1494,11.1780455153949
+"609","Euarchontoglires","Primates",2004,185,1557,11.8818240205523
+"610","Euarchontoglires","Primates",2005,184,1557,11.8175979447656
+"611","Euarchontoglires","Primates",2006,186,1655,11.238670694864
+"612","Euarchontoglires","Primates",2007,183,1629,11.2338858195212
+"613","Euarchontoglires","Primates",2008,191,1675,11.4029850746269
+"614","Euarchontoglires","Primates",2009,204,1690,12.0710059171598
+"615","Euarchontoglires","Primates",2010,230,1895,12.1372031662269
+"616","Euarchontoglires","Primates",2011,208,1876,11.0874200426439
+"617","Euarchontoglires","Primates",2012,201,1886,10.6574761399788
+"618","Euarchontoglires","Primates",2013,225,1865,12.0643431635389
+"619","Euarchontoglires","Primates",2014,217,1930,11.2435233160622
+"620","Euarchontoglires","Primates",2015,219,1947,11.2480739599384
+"621","Euarchontoglires","Primates",2016,237,2018,11.7443012884044
+"622","Euarchontoglires","Primates",2017,257,2003,12.8307538691962
+"623","Euarchontoglires","Primates",2018,242,1990,12.1608040201005
+"624","Euarchontoglires","Primates",2019,272,1993,13.647767185148
+"625","Euarchontoglires","Primates",2020,239,2044,11.692759295499
+"626","Euarchontoglires","Primates",2021,163,1234,13.2090761750405
+"627","Euarchontoglires","Primates",NA,112,2276,4.92091388400703
+"628","Euarchontoglires","Rodentia",1862,1,4,25
+"629","Euarchontoglires","Rodentia",1863,2,3,66.6666666666667
+"630","Euarchontoglires","Rodentia",1869,2,11,18.1818181818182
+"631","Euarchontoglires","Rodentia",1870,1,3,33.3333333333333
+"632","Euarchontoglires","Rodentia",1873,1,3,33.3333333333333
+"633","Euarchontoglires","Rodentia",1881,1,5,20
+"634","Euarchontoglires","Rodentia",1882,1,6,16.6666666666667
+"635","Euarchontoglires","Rodentia",1884,1,6,16.6666666666667
+"636","Euarchontoglires","Rodentia",1886,1,6,16.6666666666667
+"637","Euarchontoglires","Rodentia",1887,1,7,14.2857142857143
+"638","Euarchontoglires","Rodentia",1892,1,4,25
+"639","Euarchontoglires","Rodentia",1893,1,2,50
+"640","Euarchontoglires","Rodentia",1894,2,4,50
+"641","Euarchontoglires","Rodentia",1897,4,5,80
+"642","Euarchontoglires","Rodentia",1898,1,7,14.2857142857143
+"643","Euarchontoglires","Rodentia",1902,2,13,15.3846153846154
+"644","Euarchontoglires","Rodentia",1904,2,9,22.2222222222222
+"645","Euarchontoglires","Rodentia",1905,2,7,28.5714285714286
+"646","Euarchontoglires","Rodentia",1906,1,6,16.6666666666667
+"647","Euarchontoglires","Rodentia",1907,2,4,50
+"648","Euarchontoglires","Rodentia",1910,3,7,42.8571428571429
+"649","Euarchontoglires","Rodentia",1911,1,6,16.6666666666667
+"650","Euarchontoglires","Rodentia",1912,3,14,21.4285714285714
+"651","Euarchontoglires","Rodentia",1914,2,9,22.2222222222222
+"652","Euarchontoglires","Rodentia",1915,2,10,20
+"653","Euarchontoglires","Rodentia",1916,2,5,40
+"654","Euarchontoglires","Rodentia",1917,1,5,20
+"655","Euarchontoglires","Rodentia",1918,2,5,40
+"656","Euarchontoglires","Rodentia",1919,3,8,37.5
+"657","Euarchontoglires","Rodentia",1920,1,5,20
+"658","Euarchontoglires","Rodentia",1921,2,16,12.5
+"659","Euarchontoglires","Rodentia",1923,1,5,20
+"660","Euarchontoglires","Rodentia",1924,1,14,7.14285714285714
+"661","Euarchontoglires","Rodentia",1925,3,13,23.0769230769231
+"662","Euarchontoglires","Rodentia",1926,5,21,23.8095238095238
+"663","Euarchontoglires","Rodentia",1927,4,15,26.6666666666667
+"664","Euarchontoglires","Rodentia",1928,4,18,22.2222222222222
+"665","Euarchontoglires","Rodentia",1929,4,17,23.5294117647059
+"666","Euarchontoglires","Rodentia",1930,5,16,31.25
+"667","Euarchontoglires","Rodentia",1931,5,21,23.8095238095238
+"668","Euarchontoglires","Rodentia",1932,3,21,14.2857142857143
+"669","Euarchontoglires","Rodentia",1933,2,12,16.6666666666667
+"670","Euarchontoglires","Rodentia",1934,9,22,40.9090909090909
+"671","Euarchontoglires","Rodentia",1935,6,20,30
+"672","Euarchontoglires","Rodentia",1936,7,24,29.1666666666667
+"673","Euarchontoglires","Rodentia",1937,4,19,21.0526315789474
+"674","Euarchontoglires","Rodentia",1938,14,45,31.1111111111111
+"675","Euarchontoglires","Rodentia",1939,6,33,18.1818181818182
+"676","Euarchontoglires","Rodentia",1940,8,26,30.7692307692308
+"677","Euarchontoglires","Rodentia",1941,11,26,42.3076923076923
+"678","Euarchontoglires","Rodentia",1942,10,25,40
+"679","Euarchontoglires","Rodentia",1943,9,22,40.9090909090909
+"680","Euarchontoglires","Rodentia",1944,7,27,25.9259259259259
+"681","Euarchontoglires","Rodentia",1945,8,28,28.5714285714286
+"682","Euarchontoglires","Rodentia",1946,9,33,27.2727272727273
+"683","Euarchontoglires","Rodentia",1947,7,43,16.2790697674419
+"684","Euarchontoglires","Rodentia",1948,13,47,27.6595744680851
+"685","Euarchontoglires","Rodentia",1949,5,43,11.6279069767442
+"686","Euarchontoglires","Rodentia",1950,17,49,34.6938775510204
+"687","Euarchontoglires","Rodentia",1951,29,78,37.1794871794872
+"688","Euarchontoglires","Rodentia",1952,23,77,29.8701298701299
+"689","Euarchontoglires","Rodentia",1953,26,75,34.6666666666667
+"690","Euarchontoglires","Rodentia",1954,30,81,37.037037037037
+"691","Euarchontoglires","Rodentia",1955,24,82,29.2682926829268
+"692","Euarchontoglires","Rodentia",1956,32,107,29.9065420560748
+"693","Euarchontoglires","Rodentia",1957,41,103,39.8058252427184
+"694","Euarchontoglires","Rodentia",1958,32,109,29.3577981651376
+"695","Euarchontoglires","Rodentia",1959,45,125,36
+"696","Euarchontoglires","Rodentia",1960,42,138,30.4347826086957
+"697","Euarchontoglires","Rodentia",1961,46,141,32.6241134751773
+"698","Euarchontoglires","Rodentia",1962,55,176,31.25
+"699","Euarchontoglires","Rodentia",1963,53,183,28.9617486338798
+"700","Euarchontoglires","Rodentia",1964,54,185,29.1891891891892
+"701","Euarchontoglires","Rodentia",1965,77,255,30.1960784313725
+"702","Euarchontoglires","Rodentia",1966,71,257,27.6264591439689
+"703","Euarchontoglires","Rodentia",1967,100,306,32.6797385620915
+"704","Euarchontoglires","Rodentia",1968,104,323,32.1981424148607
+"705","Euarchontoglires","Rodentia",1969,90,333,27.027027027027
+"706","Euarchontoglires","Rodentia",1970,119,379,31.3984168865435
+"707","Euarchontoglires","Rodentia",1971,132,417,31.6546762589928
+"708","Euarchontoglires","Rodentia",1972,120,441,27.2108843537415
+"709","Euarchontoglires","Rodentia",1973,138,457,30.1969365426696
+"710","Euarchontoglires","Rodentia",1974,145,465,31.1827956989247
+"711","Euarchontoglires","Rodentia",1975,154,478,32.2175732217573
+"712","Euarchontoglires","Rodentia",1976,173,529,32.703213610586
+"713","Euarchontoglires","Rodentia",1977,153,503,30.4174950298211
+"714","Euarchontoglires","Rodentia",1978,149,524,28.4351145038168
+"715","Euarchontoglires","Rodentia",1979,165,543,30.3867403314917
+"716","Euarchontoglires","Rodentia",1980,179,572,31.2937062937063
+"717","Euarchontoglires","Rodentia",1981,171,589,29.0322580645161
+"718","Euarchontoglires","Rodentia",1982,222,719,30.8762169680111
+"719","Euarchontoglires","Rodentia",1983,206,693,29.7258297258297
+"720","Euarchontoglires","Rodentia",1984,213,708,30.0847457627119
+"721","Euarchontoglires","Rodentia",1985,230,729,31.5500685871056
+"722","Euarchontoglires","Rodentia",1986,221,699,31.6165951359084
+"723","Euarchontoglires","Rodentia",1987,223,743,30.0134589502019
+"724","Euarchontoglires","Rodentia",1988,244,835,29.2215568862275
+"725","Euarchontoglires","Rodentia",1989,241,817,29.4981640146879
+"726","Euarchontoglires","Rodentia",1990,299,924,32.3593073593074
+"727","Euarchontoglires","Rodentia",1991,270,874,30.8924485125858
+"728","Euarchontoglires","Rodentia",1992,253,857,29.5215869311552
+"729","Euarchontoglires","Rodentia",1993,296,947,31.2565997888068
+"730","Euarchontoglires","Rodentia",1994,281,954,29.4549266247379
+"731","Euarchontoglires","Rodentia",1995,327,1034,31.6247582205029
+"732","Euarchontoglires","Rodentia",1996,352,1123,31.3446126447017
+"733","Euarchontoglires","Rodentia",1997,368,1247,29.5108259823577
+"734","Euarchontoglires","Rodentia",1998,387,1244,31.1093247588424
+"735","Euarchontoglires","Rodentia",1999,431,1319,32.6762699014405
+"736","Euarchontoglires","Rodentia",2000,449,1331,33.7340345604808
+"737","Euarchontoglires","Rodentia",2001,454,1428,31.7927170868347
+"738","Euarchontoglires","Rodentia",2002,413,1381,29.9058653149891
+"739","Euarchontoglires","Rodentia",2003,467,1494,31.2583668005355
+"740","Euarchontoglires","Rodentia",2004,456,1557,29.2870905587669
+"741","Euarchontoglires","Rodentia",2005,504,1557,32.3699421965318
+"742","Euarchontoglires","Rodentia",2006,484,1655,29.2447129909366
+"743","Euarchontoglires","Rodentia",2007,504,1629,30.939226519337
+"744","Euarchontoglires","Rodentia",2008,549,1675,32.7761194029851
+"745","Euarchontoglires","Rodentia",2009,493,1690,29.1715976331361
+"746","Euarchontoglires","Rodentia",2010,582,1895,30.712401055409
+"747","Euarchontoglires","Rodentia",2011,603,1876,32.1428571428571
+"748","Euarchontoglires","Rodentia",2012,619,1886,32.8207847295864
+"749","Euarchontoglires","Rodentia",2013,557,1865,29.8659517426273
+"750","Euarchontoglires","Rodentia",2014,600,1930,31.0880829015544
+"751","Euarchontoglires","Rodentia",2015,569,1947,29.2244478685157
+"752","Euarchontoglires","Rodentia",2016,596,2018,29.5341922695738
+"753","Euarchontoglires","Rodentia",2017,593,2003,29.6055916125811
+"754","Euarchontoglires","Rodentia",2018,605,1990,30.4020100502513
+"755","Euarchontoglires","Rodentia",2019,587,1993,29.4530858003011
+"756","Euarchontoglires","Rodentia",2020,607,2044,29.6966731898239
+"757","Euarchontoglires","Rodentia",2021,295,1234,23.9059967585089
+"758","Euarchontoglires","Rodentia",2022,3,3,100
+"759","Euarchontoglires","Rodentia",NA,762,2276,33.4797891036907
+"760","Euarchontoglires","Scandentia",1879,1,3,33.3333333333333
+"761","Euarchontoglires","Scandentia",1924,1,14,7.14285714285714
+"762","Euarchontoglires","Scandentia",1926,1,21,4.76190476190476
+"763","Euarchontoglires","Scandentia",1954,1,81,1.23456790123457
+"764","Euarchontoglires","Scandentia",1958,1,109,0.917431192660551
+"765","Euarchontoglires","Scandentia",1959,1,125,0.8
+"766","Euarchontoglires","Scandentia",1960,1,138,0.72463768115942
+"767","Euarchontoglires","Scandentia",1962,1,176,0.568181818181818
+"768","Euarchontoglires","Scandentia",1963,1,183,0.546448087431694
+"769","Euarchontoglires","Scandentia",1964,1,185,0.540540540540541
+"770","Euarchontoglires","Scandentia",1965,3,255,1.17647058823529
+"771","Euarchontoglires","Scandentia",1966,1,257,0.389105058365759
+"772","Euarchontoglires","Scandentia",1967,2,306,0.65359477124183
+"773","Euarchontoglires","Scandentia",1968,3,323,0.928792569659443
+"774","Euarchontoglires","Scandentia",1969,4,333,1.2012012012012
+"775","Euarchontoglires","Scandentia",1970,2,379,0.527704485488127
+"776","Euarchontoglires","Scandentia",1971,2,417,0.479616306954436
+"777","Euarchontoglires","Scandentia",1972,4,441,0.90702947845805
+"778","Euarchontoglires","Scandentia",1973,3,457,0.656455142231947
+"779","Euarchontoglires","Scandentia",1974,3,465,0.645161290322581
+"780","Euarchontoglires","Scandentia",1975,3,478,0.627615062761506
+"781","Euarchontoglires","Scandentia",1976,4,529,0.756143667296786
+"782","Euarchontoglires","Scandentia",1977,4,503,0.795228628230616
+"783","Euarchontoglires","Scandentia",1978,3,524,0.572519083969466
+"784","Euarchontoglires","Scandentia",1979,4,543,0.736648250460405
+"785","Euarchontoglires","Scandentia",1980,4,572,0.699300699300699
+"786","Euarchontoglires","Scandentia",1981,3,589,0.509337860780985
+"787","Euarchontoglires","Scandentia",1982,3,719,0.417246175243394
+"788","Euarchontoglires","Scandentia",1983,4,693,0.577200577200577
+"789","Euarchontoglires","Scandentia",1984,3,708,0.423728813559322
+"790","Euarchontoglires","Scandentia",1985,2,729,0.274348422496571
+"791","Euarchontoglires","Scandentia",1986,3,699,0.429184549356223
+"792","Euarchontoglires","Scandentia",1987,2,743,0.269179004037685
+"793","Euarchontoglires","Scandentia",1988,1,835,0.119760479041916
+"794","Euarchontoglires","Scandentia",1989,3,817,0.367197062423501
+"795","Euarchontoglires","Scandentia",1990,4,924,0.432900432900433
+"796","Euarchontoglires","Scandentia",1991,4,874,0.45766590389016
+"797","Euarchontoglires","Scandentia",1992,2,857,0.233372228704784
+"798","Euarchontoglires","Scandentia",1993,2,947,0.211193241816262
+"799","Euarchontoglires","Scandentia",1994,5,954,0.524109014675052
+"800","Euarchontoglires","Scandentia",1995,2,1034,0.193423597678917
+"801","Euarchontoglires","Scandentia",1996,2,1123,0.178094390026714
+"802","Euarchontoglires","Scandentia",1997,4,1247,0.320769847634322
+"803","Euarchontoglires","Scandentia",1998,3,1244,0.241157556270096
+"804","Euarchontoglires","Scandentia",1999,4,1319,0.303260045489007
+"805","Euarchontoglires","Scandentia",2000,10,1331,0.751314800901578
+"806","Euarchontoglires","Scandentia",2001,6,1428,0.420168067226891
+"807","Euarchontoglires","Scandentia",2002,5,1381,0.362056480811006
+"808","Euarchontoglires","Scandentia",2003,7,1494,0.468540829986613
+"809","Euarchontoglires","Scandentia",2004,5,1557,0.321130378933847
+"810","Euarchontoglires","Scandentia",2005,3,1557,0.192678227360308
+"811","Euarchontoglires","Scandentia",2006,5,1655,0.302114803625378
+"812","Euarchontoglires","Scandentia",2007,5,1629,0.306936771025169
+"813","Euarchontoglires","Scandentia",2008,6,1675,0.358208955223881
+"814","Euarchontoglires","Scandentia",2009,7,1690,0.414201183431953
+"815","Euarchontoglires","Scandentia",2010,5,1895,0.263852242744063
+"816","Euarchontoglires","Scandentia",2011,7,1876,0.373134328358209
+"817","Euarchontoglires","Scandentia",2012,4,1886,0.212089077412513
+"818","Euarchontoglires","Scandentia",2013,3,1865,0.160857908847185
+"819","Euarchontoglires","Scandentia",2014,5,1930,0.259067357512953
+"820","Euarchontoglires","Scandentia",2015,4,1947,0.205444273240883
+"821","Euarchontoglires","Scandentia",2016,4,2018,0.198216055500496
+"822","Euarchontoglires","Scandentia",2017,6,2003,0.299550673989016
+"823","Euarchontoglires","Scandentia",2018,5,1990,0.251256281407035
+"824","Euarchontoglires","Scandentia",2019,8,1993,0.401404917210236
+"825","Euarchontoglires","Scandentia",2020,10,2044,0.489236790606654
+"826","Euarchontoglires","Scandentia",2021,5,1234,0.405186385737439
+"827","Euarchontoglires","Scandentia",NA,13,2276,0.571177504393673
+"828","Laurasiatheria","Artiodactyla",1843,1,1,100
+"829","Laurasiatheria","Artiodactyla",1860,1,1,100
+"830","Laurasiatheria","Artiodactyla",1862,1,4,25
+"831","Laurasiatheria","Artiodactyla",1865,4,8,50
+"832","Laurasiatheria","Artiodactyla",1867,1,4,25
+"833","Laurasiatheria","Artiodactyla",1868,1,2,50
+"834","Laurasiatheria","Artiodactyla",1869,2,11,18.1818181818182
+"835","Laurasiatheria","Artiodactyla",1874,2,3,66.6666666666667
+"836","Laurasiatheria","Artiodactyla",1875,1,3,33.3333333333333
+"837","Laurasiatheria","Artiodactyla",1876,5,8,62.5
+"838","Laurasiatheria","Artiodactyla",1878,1,6,16.6666666666667
+"839","Laurasiatheria","Artiodactyla",1879,2,3,66.6666666666667
+"840","Laurasiatheria","Artiodactyla",1880,2,4,50
+"841","Laurasiatheria","Artiodactyla",1881,1,5,20
+"842","Laurasiatheria","Artiodactyla",1882,1,6,16.6666666666667
+"843","Laurasiatheria","Artiodactyla",1883,1,3,33.3333333333333
+"844","Laurasiatheria","Artiodactyla",1884,1,6,16.6666666666667
+"845","Laurasiatheria","Artiodactyla",1885,2,3,66.6666666666667
+"846","Laurasiatheria","Artiodactyla",1886,1,6,16.6666666666667
+"847","Laurasiatheria","Artiodactyla",1887,2,7,28.5714285714286
+"848","Laurasiatheria","Artiodactyla",1891,1,4,25
+"849","Laurasiatheria","Artiodactyla",1895,2,4,50
+"850","Laurasiatheria","Artiodactyla",1898,1,7,14.2857142857143
+"851","Laurasiatheria","Artiodactyla",1900,1,3,33.3333333333333
+"852","Laurasiatheria","Artiodactyla",1902,3,13,23.0769230769231
+"853","Laurasiatheria","Artiodactyla",1904,1,9,11.1111111111111
+"854","Laurasiatheria","Artiodactyla",1905,1,7,14.2857142857143
+"855","Laurasiatheria","Artiodactyla",1906,2,6,33.3333333333333
+"856","Laurasiatheria","Artiodactyla",1909,2,8,25
+"857","Laurasiatheria","Artiodactyla",1910,1,7,14.2857142857143
+"858","Laurasiatheria","Artiodactyla",1911,1,6,16.6666666666667
+"859","Laurasiatheria","Artiodactyla",1912,4,14,28.5714285714286
+"860","Laurasiatheria","Artiodactyla",1914,1,9,11.1111111111111
+"861","Laurasiatheria","Artiodactyla",1915,4,10,40
+"862","Laurasiatheria","Artiodactyla",1917,1,5,20
+"863","Laurasiatheria","Artiodactyla",1918,1,5,20
+"864","Laurasiatheria","Artiodactyla",1919,4,8,50
+"865","Laurasiatheria","Artiodactyla",1920,1,5,20
+"866","Laurasiatheria","Artiodactyla",1922,3,10,30
+"867","Laurasiatheria","Artiodactyla",1923,1,5,20
+"868","Laurasiatheria","Artiodactyla",1924,1,14,7.14285714285714
+"869","Laurasiatheria","Artiodactyla",1925,2,13,15.3846153846154
+"870","Laurasiatheria","Artiodactyla",1926,3,21,14.2857142857143
+"871","Laurasiatheria","Artiodactyla",1927,1,15,6.66666666666667
+"872","Laurasiatheria","Artiodactyla",1928,1,18,5.55555555555556
+"873","Laurasiatheria","Artiodactyla",1929,4,17,23.5294117647059
+"874","Laurasiatheria","Artiodactyla",1930,3,16,18.75
+"875","Laurasiatheria","Artiodactyla",1931,6,21,28.5714285714286
+"876","Laurasiatheria","Artiodactyla",1932,6,21,28.5714285714286
+"877","Laurasiatheria","Artiodactyla",1933,3,12,25
+"878","Laurasiatheria","Artiodactyla",1934,5,22,22.7272727272727
+"879","Laurasiatheria","Artiodactyla",1935,4,20,20
+"880","Laurasiatheria","Artiodactyla",1936,4,24,16.6666666666667
+"881","Laurasiatheria","Artiodactyla",1937,5,19,26.3157894736842
+"882","Laurasiatheria","Artiodactyla",1938,6,45,13.3333333333333
+"883","Laurasiatheria","Artiodactyla",1939,5,33,15.1515151515152
+"884","Laurasiatheria","Artiodactyla",1940,7,26,26.9230769230769
+"885","Laurasiatheria","Artiodactyla",1941,1,26,3.84615384615385
+"886","Laurasiatheria","Artiodactyla",1942,2,25,8
+"887","Laurasiatheria","Artiodactyla",1943,3,22,13.6363636363636
+"888","Laurasiatheria","Artiodactyla",1944,2,27,7.40740740740741
+"889","Laurasiatheria","Artiodactyla",1945,1,28,3.57142857142857
+"890","Laurasiatheria","Artiodactyla",1946,5,33,15.1515151515152
+"891","Laurasiatheria","Artiodactyla",1947,2,43,4.65116279069767
+"892","Laurasiatheria","Artiodactyla",1948,9,47,19.1489361702128
+"893","Laurasiatheria","Artiodactyla",1949,4,43,9.30232558139535
+"894","Laurasiatheria","Artiodactyla",1950,5,49,10.2040816326531
+"895","Laurasiatheria","Artiodactyla",1951,11,78,14.1025641025641
+"896","Laurasiatheria","Artiodactyla",1952,8,77,10.3896103896104
+"897","Laurasiatheria","Artiodactyla",1953,9,75,12
+"898","Laurasiatheria","Artiodactyla",1954,7,81,8.64197530864197
+"899","Laurasiatheria","Artiodactyla",1955,9,82,10.9756097560976
+"900","Laurasiatheria","Artiodactyla",1956,14,107,13.0841121495327
+"901","Laurasiatheria","Artiodactyla",1957,13,103,12.621359223301
+"902","Laurasiatheria","Artiodactyla",1958,22,109,20.1834862385321
+"903","Laurasiatheria","Artiodactyla",1959,14,125,11.2
+"904","Laurasiatheria","Artiodactyla",1960,19,138,13.768115942029
+"905","Laurasiatheria","Artiodactyla",1961,22,141,15.6028368794326
+"906","Laurasiatheria","Artiodactyla",1962,26,176,14.7727272727273
+"907","Laurasiatheria","Artiodactyla",1963,28,183,15.3005464480874
+"908","Laurasiatheria","Artiodactyla",1964,23,185,12.4324324324324
+"909","Laurasiatheria","Artiodactyla",1965,33,255,12.9411764705882
+"910","Laurasiatheria","Artiodactyla",1966,30,257,11.6731517509728
+"911","Laurasiatheria","Artiodactyla",1967,39,306,12.7450980392157
+"912","Laurasiatheria","Artiodactyla",1968,36,323,11.1455108359133
+"913","Laurasiatheria","Artiodactyla",1969,49,333,14.7147147147147
+"914","Laurasiatheria","Artiodactyla",1970,44,379,11.6094986807388
+"915","Laurasiatheria","Artiodactyla",1971,41,417,9.83213429256595
+"916","Laurasiatheria","Artiodactyla",1972,60,441,13.6054421768707
+"917","Laurasiatheria","Artiodactyla",1973,53,457,11.5973741794311
+"918","Laurasiatheria","Artiodactyla",1974,43,465,9.24731182795699
+"919","Laurasiatheria","Artiodactyla",1975,63,478,13.1799163179916
+"920","Laurasiatheria","Artiodactyla",1976,61,529,11.531190926276
+"921","Laurasiatheria","Artiodactyla",1977,61,503,12.1272365805169
+"922","Laurasiatheria","Artiodactyla",1978,77,524,14.6946564885496
+"923","Laurasiatheria","Artiodactyla",1979,69,543,12.707182320442
+"924","Laurasiatheria","Artiodactyla",1980,78,572,13.6363636363636
+"925","Laurasiatheria","Artiodactyla",1981,73,589,12.3938879456706
+"926","Laurasiatheria","Artiodactyla",1982,83,719,11.5438108484006
+"927","Laurasiatheria","Artiodactyla",1983,82,693,11.8326118326118
+"928","Laurasiatheria","Artiodactyla",1984,106,708,14.9717514124294
+"929","Laurasiatheria","Artiodactyla",1985,92,729,12.6200274348422
+"930","Laurasiatheria","Artiodactyla",1986,83,699,11.8741058655222
+"931","Laurasiatheria","Artiodactyla",1987,88,743,11.8438761776581
+"932","Laurasiatheria","Artiodactyla",1988,98,835,11.7365269461078
+"933","Laurasiatheria","Artiodactyla",1989,92,817,11.2607099143207
+"934","Laurasiatheria","Artiodactyla",1990,118,924,12.7705627705628
+"935","Laurasiatheria","Artiodactyla",1991,121,874,13.8443935926773
+"936","Laurasiatheria","Artiodactyla",1992,106,857,12.3687281213536
+"937","Laurasiatheria","Artiodactyla",1993,111,947,11.7212249208025
+"938","Laurasiatheria","Artiodactyla",1994,122,954,12.7882599580713
+"939","Laurasiatheria","Artiodactyla",1995,122,1034,11.7988394584139
+"940","Laurasiatheria","Artiodactyla",1996,138,1123,12.2885129118433
+"941","Laurasiatheria","Artiodactyla",1997,144,1247,11.5477145148356
+"942","Laurasiatheria","Artiodactyla",1998,145,1244,11.6559485530547
+"943","Laurasiatheria","Artiodactyla",1999,143,1319,10.841546626232
+"944","Laurasiatheria","Artiodactyla",2000,140,1331,10.5184072126221
+"945","Laurasiatheria","Artiodactyla",2001,133,1428,9.31372549019608
+"946","Laurasiatheria","Artiodactyla",2002,149,1381,10.789283128168
+"947","Laurasiatheria","Artiodactyla",2003,160,1494,10.7095046854083
+"948","Laurasiatheria","Artiodactyla",2004,163,1557,10.4688503532434
+"949","Laurasiatheria","Artiodactyla",2005,166,1557,10.6615285806037
+"950","Laurasiatheria","Artiodactyla",2006,166,1655,10.0302114803625
+"951","Laurasiatheria","Artiodactyla",2007,165,1629,10.1289134438306
+"952","Laurasiatheria","Artiodactyla",2008,166,1675,9.91044776119403
+"953","Laurasiatheria","Artiodactyla",2009,179,1690,10.5917159763314
+"954","Laurasiatheria","Artiodactyla",2010,188,1895,9.92084432717678
+"955","Laurasiatheria","Artiodactyla",2011,191,1876,10.181236673774
+"956","Laurasiatheria","Artiodactyla",2012,177,1886,9.38494167550371
+"957","Laurasiatheria","Artiodactyla",2013,189,1865,10.1340482573727
+"958","Laurasiatheria","Artiodactyla",2014,195,1930,10.1036269430052
+"959","Laurasiatheria","Artiodactyla",2015,208,1947,10.6831022085259
+"960","Laurasiatheria","Artiodactyla",2016,209,2018,10.3567888999009
+"961","Laurasiatheria","Artiodactyla",2017,208,2003,10.3844233649526
+"962","Laurasiatheria","Artiodactyla",2018,202,1990,10.1507537688442
+"963","Laurasiatheria","Artiodactyla",2019,206,1993,10.3361766181636
+"964","Laurasiatheria","Artiodactyla",2020,207,2044,10.1272015655577
+"965","Laurasiatheria","Artiodactyla",2021,158,1234,12.8038897893031
+"966","Laurasiatheria","Artiodactyla",NA,171,2276,7.51318101933216
+"967","Laurasiatheria","Carnivora",1824,1,1,100
+"968","Laurasiatheria","Carnivora",1869,4,11,36.3636363636364
+"969","Laurasiatheria","Carnivora",1871,1,5,20
+"970","Laurasiatheria","Carnivora",1872,1,4,25
+"971","Laurasiatheria","Carnivora",1873,1,3,33.3333333333333
+"972","Laurasiatheria","Carnivora",1875,1,3,33.3333333333333
+"973","Laurasiatheria","Carnivora",1878,2,6,33.3333333333333
+"974","Laurasiatheria","Carnivora",1882,2,6,33.3333333333333
+"975","Laurasiatheria","Carnivora",1883,1,3,33.3333333333333
+"976","Laurasiatheria","Carnivora",1884,2,6,33.3333333333333
+"977","Laurasiatheria","Carnivora",1886,1,6,16.6666666666667
+"978","Laurasiatheria","Carnivora",1887,1,7,14.2857142857143
+"979","Laurasiatheria","Carnivora",1896,1,2,50
+"980","Laurasiatheria","Carnivora",1898,2,7,28.5714285714286
+"981","Laurasiatheria","Carnivora",1900,1,3,33.3333333333333
+"982","Laurasiatheria","Carnivora",1906,1,6,16.6666666666667
+"983","Laurasiatheria","Carnivora",1909,3,8,37.5
+"984","Laurasiatheria","Carnivora",1912,3,14,21.4285714285714
+"985","Laurasiatheria","Carnivora",1913,2,4,50
+"986","Laurasiatheria","Carnivora",1914,2,9,22.2222222222222
+"987","Laurasiatheria","Carnivora",1917,1,5,20
+"988","Laurasiatheria","Carnivora",1920,1,5,20
+"989","Laurasiatheria","Carnivora",1922,1,10,10
+"990","Laurasiatheria","Carnivora",1923,1,5,20
+"991","Laurasiatheria","Carnivora",1925,5,13,38.4615384615385
+"992","Laurasiatheria","Carnivora",1926,1,21,4.76190476190476
+"993","Laurasiatheria","Carnivora",1927,5,15,33.3333333333333
+"994","Laurasiatheria","Carnivora",1928,3,18,16.6666666666667
+"995","Laurasiatheria","Carnivora",1929,1,17,5.88235294117647
+"996","Laurasiatheria","Carnivora",1930,2,16,12.5
+"997","Laurasiatheria","Carnivora",1931,1,21,4.76190476190476
+"998","Laurasiatheria","Carnivora",1932,1,21,4.76190476190476
+"999","Laurasiatheria","Carnivora",1933,2,12,16.6666666666667
+"1000","Laurasiatheria","Carnivora",1934,1,22,4.54545454545455
+"1001","Laurasiatheria","Carnivora",1935,2,20,10
+"1002","Laurasiatheria","Carnivora",1936,3,24,12.5
+"1003","Laurasiatheria","Carnivora",1937,1,19,5.26315789473684
+"1004","Laurasiatheria","Carnivora",1938,7,45,15.5555555555556
+"1005","Laurasiatheria","Carnivora",1939,5,33,15.1515151515152
+"1006","Laurasiatheria","Carnivora",1940,4,26,15.3846153846154
+"1007","Laurasiatheria","Carnivora",1941,2,26,7.69230769230769
+"1008","Laurasiatheria","Carnivora",1942,1,25,4
+"1009","Laurasiatheria","Carnivora",1944,3,27,11.1111111111111
+"1010","Laurasiatheria","Carnivora",1945,1,28,3.57142857142857
+"1011","Laurasiatheria","Carnivora",1946,3,33,9.09090909090909
+"1012","Laurasiatheria","Carnivora",1947,7,43,16.2790697674419
+"1013","Laurasiatheria","Carnivora",1948,4,47,8.51063829787234
+"1014","Laurasiatheria","Carnivora",1949,7,43,16.2790697674419
+"1015","Laurasiatheria","Carnivora",1950,6,49,12.2448979591837
+"1016","Laurasiatheria","Carnivora",1951,7,78,8.97435897435897
+"1017","Laurasiatheria","Carnivora",1952,15,77,19.4805194805195
+"1018","Laurasiatheria","Carnivora",1953,7,75,9.33333333333333
+"1019","Laurasiatheria","Carnivora",1954,7,81,8.64197530864197
+"1020","Laurasiatheria","Carnivora",1955,11,82,13.4146341463415
+"1021","Laurasiatheria","Carnivora",1956,17,107,15.8878504672897
+"1022","Laurasiatheria","Carnivora",1957,10,103,9.70873786407767
+"1023","Laurasiatheria","Carnivora",1958,9,109,8.25688073394496
+"1024","Laurasiatheria","Carnivora",1959,18,125,14.4
+"1025","Laurasiatheria","Carnivora",1960,15,138,10.8695652173913
+"1026","Laurasiatheria","Carnivora",1961,15,141,10.6382978723404
+"1027","Laurasiatheria","Carnivora",1962,13,176,7.38636363636364
+"1028","Laurasiatheria","Carnivora",1963,25,183,13.6612021857924
+"1029","Laurasiatheria","Carnivora",1964,15,185,8.10810810810811
+"1030","Laurasiatheria","Carnivora",1965,26,255,10.1960784313725
+"1031","Laurasiatheria","Carnivora",1966,28,257,10.8949416342412
+"1032","Laurasiatheria","Carnivora",1967,30,306,9.80392156862745
+"1033","Laurasiatheria","Carnivora",1968,49,323,15.1702786377709
+"1034","Laurasiatheria","Carnivora",1969,40,333,12.012012012012
+"1035","Laurasiatheria","Carnivora",1970,44,379,11.6094986807388
+"1036","Laurasiatheria","Carnivora",1971,48,417,11.5107913669065
+"1037","Laurasiatheria","Carnivora",1972,54,441,12.2448979591837
+"1038","Laurasiatheria","Carnivora",1973,48,457,10.5032822757112
+"1039","Laurasiatheria","Carnivora",1974,61,465,13.1182795698925
+"1040","Laurasiatheria","Carnivora",1975,56,478,11.7154811715481
+"1041","Laurasiatheria","Carnivora",1976,71,529,13.421550094518
+"1042","Laurasiatheria","Carnivora",1977,60,503,11.9284294234592
+"1043","Laurasiatheria","Carnivora",1978,59,524,11.2595419847328
+"1044","Laurasiatheria","Carnivora",1979,72,543,13.2596685082873
+"1045","Laurasiatheria","Carnivora",1980,69,572,12.0629370629371
+"1046","Laurasiatheria","Carnivora",1981,83,589,14.0916808149406
+"1047","Laurasiatheria","Carnivora",1982,87,719,12.1001390820584
+"1048","Laurasiatheria","Carnivora",1983,89,693,12.8427128427128
+"1049","Laurasiatheria","Carnivora",1984,85,708,12.0056497175141
+"1050","Laurasiatheria","Carnivora",1985,88,729,12.0713305898491
+"1051","Laurasiatheria","Carnivora",1986,92,699,13.1616595135908
+"1052","Laurasiatheria","Carnivora",1987,95,743,12.78600269179
+"1053","Laurasiatheria","Carnivora",1988,90,835,10.7784431137725
+"1054","Laurasiatheria","Carnivora",1989,99,817,12.1175030599755
+"1055","Laurasiatheria","Carnivora",1990,112,924,12.1212121212121
+"1056","Laurasiatheria","Carnivora",1991,110,874,12.5858123569794
+"1057","Laurasiatheria","Carnivora",1992,112,857,13.0688448074679
+"1058","Laurasiatheria","Carnivora",1993,125,947,13.1995776135164
+"1059","Laurasiatheria","Carnivora",1994,120,954,12.5786163522013
+"1060","Laurasiatheria","Carnivora",1995,127,1034,12.2823984526112
+"1061","Laurasiatheria","Carnivora",1996,130,1123,11.5761353517364
+"1062","Laurasiatheria","Carnivora",1997,143,1247,11.467522052927
+"1063","Laurasiatheria","Carnivora",1998,141,1244,11.3344051446945
+"1064","Laurasiatheria","Carnivora",1999,139,1319,10.538286580743
+"1065","Laurasiatheria","Carnivora",2000,142,1331,10.6686701728024
+"1066","Laurasiatheria","Carnivora",2001,143,1428,10.0140056022409
+"1067","Laurasiatheria","Carnivora",2002,145,1381,10.4996379435192
+"1068","Laurasiatheria","Carnivora",2003,163,1494,10.9103078982597
+"1069","Laurasiatheria","Carnivora",2004,174,1557,11.1753371868979
+"1070","Laurasiatheria","Carnivora",2005,168,1557,10.7899807321773
+"1071","Laurasiatheria","Carnivora",2006,197,1655,11.9033232628399
+"1072","Laurasiatheria","Carnivora",2007,171,1629,10.4972375690608
+"1073","Laurasiatheria","Carnivora",2008,186,1675,11.1044776119403
+"1074","Laurasiatheria","Carnivora",2009,199,1690,11.7751479289941
+"1075","Laurasiatheria","Carnivora",2010,205,1895,10.8179419525066
+"1076","Laurasiatheria","Carnivora",2011,190,1876,10.1279317697228
+"1077","Laurasiatheria","Carnivora",2012,195,1886,10.33934252386
+"1078","Laurasiatheria","Carnivora",2013,205,1865,10.9919571045576
+"1079","Laurasiatheria","Carnivora",2014,197,1930,10.2072538860104
+"1080","Laurasiatheria","Carnivora",2015,215,1947,11.0426296866975
+"1081","Laurasiatheria","Carnivora",2016,219,2018,10.8523290386521
+"1082","Laurasiatheria","Carnivora",2017,219,2003,10.9335996005991
+"1083","Laurasiatheria","Carnivora",2018,216,1990,10.8542713567839
+"1084","Laurasiatheria","Carnivora",2019,220,1993,11.0386352232815
+"1085","Laurasiatheria","Carnivora",2020,225,2044,11.0078277886497
+"1086","Laurasiatheria","Carnivora",2021,169,1234,13.6952998379254
+"1087","Laurasiatheria","Carnivora",NA,206,2276,9.05096660808436
+"1088","Laurasiatheria","Cetacea",1865,1,8,12.5
+"1089","Laurasiatheria","Cetacea",1867,1,4,25
+"1090","Laurasiatheria","Cetacea",1869,1,11,9.09090909090909
+"1091","Laurasiatheria","Cetacea",1870,1,3,33.3333333333333
+"1092","Laurasiatheria","Cetacea",1872,2,4,50
+"1093","Laurasiatheria","Cetacea",1876,2,8,25
+"1094","Laurasiatheria","Cetacea",1880,1,4,25
+"1095","Laurasiatheria","Cetacea",1886,1,6,16.6666666666667
+"1096","Laurasiatheria","Cetacea",1903,1,2,50
+"1097","Laurasiatheria","Cetacea",1906,1,6,16.6666666666667
+"1098","Laurasiatheria","Cetacea",1907,1,4,25
+"1099","Laurasiatheria","Cetacea",1909,2,8,25
+"1100","Laurasiatheria","Cetacea",1912,1,14,7.14285714285714
+"1101","Laurasiatheria","Cetacea",1913,1,4,25
+"1102","Laurasiatheria","Cetacea",1915,1,10,10
+"1103","Laurasiatheria","Cetacea",1921,1,16,6.25
+"1104","Laurasiatheria","Cetacea",1922,1,10,10
+"1105","Laurasiatheria","Cetacea",1924,1,14,7.14285714285714
+"1106","Laurasiatheria","Cetacea",1930,1,16,6.25
+"1107","Laurasiatheria","Cetacea",1934,1,22,4.54545454545455
+"1108","Laurasiatheria","Cetacea",1937,3,19,15.7894736842105
+"1109","Laurasiatheria","Cetacea",1940,1,26,3.84615384615385
+"1110","Laurasiatheria","Cetacea",1941,1,26,3.84615384615385
+"1111","Laurasiatheria","Cetacea",1942,1,25,4
+"1112","Laurasiatheria","Cetacea",1944,1,27,3.7037037037037
+"1113","Laurasiatheria","Cetacea",1949,3,43,6.97674418604651
+"1114","Laurasiatheria","Cetacea",1950,2,49,4.08163265306122
+"1115","Laurasiatheria","Cetacea",1952,1,77,1.2987012987013
+"1116","Laurasiatheria","Cetacea",1953,5,75,6.66666666666667
+"1117","Laurasiatheria","Cetacea",1954,4,81,4.93827160493827
+"1118","Laurasiatheria","Cetacea",1955,1,82,1.21951219512195
+"1119","Laurasiatheria","Cetacea",1956,6,107,5.60747663551402
+"1120","Laurasiatheria","Cetacea",1957,2,103,1.94174757281553
+"1121","Laurasiatheria","Cetacea",1958,3,109,2.75229357798165
+"1122","Laurasiatheria","Cetacea",1959,1,125,0.8
+"1123","Laurasiatheria","Cetacea",1960,4,138,2.89855072463768
+"1124","Laurasiatheria","Cetacea",1961,3,141,2.12765957446809
+"1125","Laurasiatheria","Cetacea",1962,1,176,0.568181818181818
+"1126","Laurasiatheria","Cetacea",1963,3,183,1.63934426229508
+"1127","Laurasiatheria","Cetacea",1964,3,185,1.62162162162162
+"1128","Laurasiatheria","Cetacea",1965,7,255,2.74509803921569
+"1129","Laurasiatheria","Cetacea",1966,9,257,3.50194552529183
+"1130","Laurasiatheria","Cetacea",1967,8,306,2.61437908496732
+"1131","Laurasiatheria","Cetacea",1968,7,323,2.1671826625387
+"1132","Laurasiatheria","Cetacea",1969,8,333,2.4024024024024
+"1133","Laurasiatheria","Cetacea",1970,7,379,1.84696569920844
+"1134","Laurasiatheria","Cetacea",1971,16,417,3.83693045563549
+"1135","Laurasiatheria","Cetacea",1972,16,441,3.6281179138322
+"1136","Laurasiatheria","Cetacea",1973,13,457,2.84463894967177
+"1137","Laurasiatheria","Cetacea",1974,13,465,2.79569892473118
+"1138","Laurasiatheria","Cetacea",1975,10,478,2.09205020920502
+"1139","Laurasiatheria","Cetacea",1976,13,529,2.45746691871456
+"1140","Laurasiatheria","Cetacea",1977,9,503,1.78926441351889
+"1141","Laurasiatheria","Cetacea",1978,13,524,2.48091603053435
+"1142","Laurasiatheria","Cetacea",1979,12,543,2.20994475138122
+"1143","Laurasiatheria","Cetacea",1980,25,572,4.37062937062937
+"1144","Laurasiatheria","Cetacea",1981,19,589,3.2258064516129
+"1145","Laurasiatheria","Cetacea",1982,13,719,1.80806675938804
+"1146","Laurasiatheria","Cetacea",1983,12,693,1.73160173160173
+"1147","Laurasiatheria","Cetacea",1984,24,708,3.38983050847458
+"1148","Laurasiatheria","Cetacea",1985,19,729,2.60631001371742
+"1149","Laurasiatheria","Cetacea",1986,20,699,2.86123032904149
+"1150","Laurasiatheria","Cetacea",1987,26,743,3.49932705248991
+"1151","Laurasiatheria","Cetacea",1988,35,835,4.19161676646707
+"1152","Laurasiatheria","Cetacea",1989,25,817,3.05997552019584
+"1153","Laurasiatheria","Cetacea",1990,33,924,3.57142857142857
+"1154","Laurasiatheria","Cetacea",1991,34,874,3.89016018306636
+"1155","Laurasiatheria","Cetacea",1992,40,857,4.66744457409568
+"1156","Laurasiatheria","Cetacea",1993,36,947,3.80147835269271
+"1157","Laurasiatheria","Cetacea",1994,49,954,5.13626834381551
+"1158","Laurasiatheria","Cetacea",1995,31,1034,2.99806576402321
+"1159","Laurasiatheria","Cetacea",1996,43,1123,3.82902938557435
+"1160","Laurasiatheria","Cetacea",1997,44,1247,3.52846832397755
+"1161","Laurasiatheria","Cetacea",1998,52,1244,4.18006430868167
+"1162","Laurasiatheria","Cetacea",1999,49,1319,3.71493555724033
+"1163","Laurasiatheria","Cetacea",2000,42,1331,3.15552216378663
+"1164","Laurasiatheria","Cetacea",2001,48,1428,3.36134453781513
+"1165","Laurasiatheria","Cetacea",2002,54,1381,3.91020999275887
+"1166","Laurasiatheria","Cetacea",2003,48,1494,3.21285140562249
+"1167","Laurasiatheria","Cetacea",2004,46,1557,2.95439948619139
+"1168","Laurasiatheria","Cetacea",2005,46,1557,2.95439948619139
+"1169","Laurasiatheria","Cetacea",2006,63,1655,3.80664652567976
+"1170","Laurasiatheria","Cetacea",2007,57,1629,3.49907918968692
+"1171","Laurasiatheria","Cetacea",2008,56,1675,3.34328358208955
+"1172","Laurasiatheria","Cetacea",2009,64,1690,3.78698224852071
+"1173","Laurasiatheria","Cetacea",2010,71,1895,3.7467018469657
+"1174","Laurasiatheria","Cetacea",2011,63,1876,3.35820895522388
+"1175","Laurasiatheria","Cetacea",2012,59,1886,3.12831389183457
+"1176","Laurasiatheria","Cetacea",2013,61,1865,3.27077747989276
+"1177","Laurasiatheria","Cetacea",2014,66,1930,3.41968911917098
+"1178","Laurasiatheria","Cetacea",2015,64,1947,3.28710837185413
+"1179","Laurasiatheria","Cetacea",2016,67,2018,3.3201189296333
+"1180","Laurasiatheria","Cetacea",2017,72,2003,3.5946080878682
+"1181","Laurasiatheria","Cetacea",2018,67,1990,3.36683417085427
+"1182","Laurasiatheria","Cetacea",2019,69,1993,3.46211741093828
+"1183","Laurasiatheria","Cetacea",2020,77,2044,3.76712328767123
+"1184","Laurasiatheria","Cetacea",2021,53,1234,4.29497568881686
+"1185","Laurasiatheria","Cetacea",NA,2,2276,0.0878734622144112
+"1186","Laurasiatheria","Chiroptera",1876,1,8,12.5
+"1187","Laurasiatheria","Chiroptera",1886,1,6,16.6666666666667
+"1188","Laurasiatheria","Chiroptera",1904,1,9,11.1111111111111
+"1189","Laurasiatheria","Chiroptera",1924,1,14,7.14285714285714
+"1190","Laurasiatheria","Chiroptera",1929,2,17,11.7647058823529
+"1191","Laurasiatheria","Chiroptera",1931,1,21,4.76190476190476
+"1192","Laurasiatheria","Chiroptera",1932,2,21,9.52380952380952
+"1193","Laurasiatheria","Chiroptera",1934,1,22,4.54545454545455
+"1194","Laurasiatheria","Chiroptera",1936,3,24,12.5
+"1195","Laurasiatheria","Chiroptera",1938,2,45,4.44444444444444
+"1196","Laurasiatheria","Chiroptera",1939,3,33,9.09090909090909
+"1197","Laurasiatheria","Chiroptera",1941,1,26,3.84615384615385
+"1198","Laurasiatheria","Chiroptera",1942,3,25,12
+"1199","Laurasiatheria","Chiroptera",1945,1,28,3.57142857142857
+"1200","Laurasiatheria","Chiroptera",1946,1,33,3.03030303030303
+"1201","Laurasiatheria","Chiroptera",1947,6,43,13.953488372093
+"1202","Laurasiatheria","Chiroptera",1948,8,47,17.0212765957447
+"1203","Laurasiatheria","Chiroptera",1949,4,43,9.30232558139535
+"1204","Laurasiatheria","Chiroptera",1950,3,49,6.12244897959184
+"1205","Laurasiatheria","Chiroptera",1951,9,78,11.5384615384615
+"1206","Laurasiatheria","Chiroptera",1952,5,77,6.49350649350649
+"1207","Laurasiatheria","Chiroptera",1953,4,75,5.33333333333333
+"1208","Laurasiatheria","Chiroptera",1954,3,81,3.7037037037037
+"1209","Laurasiatheria","Chiroptera",1955,8,82,9.75609756097561
+"1210","Laurasiatheria","Chiroptera",1956,13,107,12.1495327102804
+"1211","Laurasiatheria","Chiroptera",1957,6,103,5.8252427184466
+"1212","Laurasiatheria","Chiroptera",1958,8,109,7.3394495412844
+"1213","Laurasiatheria","Chiroptera",1959,5,125,4
+"1214","Laurasiatheria","Chiroptera",1960,8,138,5.79710144927536
+"1215","Laurasiatheria","Chiroptera",1961,8,141,5.67375886524823
+"1216","Laurasiatheria","Chiroptera",1962,19,176,10.7954545454545
+"1217","Laurasiatheria","Chiroptera",1963,14,183,7.65027322404372
+"1218","Laurasiatheria","Chiroptera",1964,10,185,5.40540540540541
+"1219","Laurasiatheria","Chiroptera",1965,18,255,7.05882352941176
+"1220","Laurasiatheria","Chiroptera",1966,24,257,9.33852140077821
+"1221","Laurasiatheria","Chiroptera",1967,28,306,9.15032679738562
+"1222","Laurasiatheria","Chiroptera",1968,31,323,9.59752321981424
+"1223","Laurasiatheria","Chiroptera",1969,34,333,10.2102102102102
+"1224","Laurasiatheria","Chiroptera",1970,43,379,11.3456464379947
+"1225","Laurasiatheria","Chiroptera",1971,41,417,9.83213429256595
+"1226","Laurasiatheria","Chiroptera",1972,44,441,9.97732426303855
+"1227","Laurasiatheria","Chiroptera",1973,39,457,8.53391684901532
+"1228","Laurasiatheria","Chiroptera",1974,47,465,10.1075268817204
+"1229","Laurasiatheria","Chiroptera",1975,38,478,7.94979079497908
+"1230","Laurasiatheria","Chiroptera",1976,56,529,10.586011342155
+"1231","Laurasiatheria","Chiroptera",1977,53,503,10.5367793240557
+"1232","Laurasiatheria","Chiroptera",1978,53,524,10.1145038167939
+"1233","Laurasiatheria","Chiroptera",1979,50,543,9.20810313075506
+"1234","Laurasiatheria","Chiroptera",1980,44,572,7.69230769230769
+"1235","Laurasiatheria","Chiroptera",1981,40,589,6.7911714770798
+"1236","Laurasiatheria","Chiroptera",1982,86,719,11.9610570236439
+"1237","Laurasiatheria","Chiroptera",1983,62,693,8.94660894660895
+"1238","Laurasiatheria","Chiroptera",1984,59,708,8.33333333333333
+"1239","Laurasiatheria","Chiroptera",1985,65,729,8.91632373113855
+"1240","Laurasiatheria","Chiroptera",1986,53,699,7.58226037195994
+"1241","Laurasiatheria","Chiroptera",1987,77,743,10.3633916554509
+"1242","Laurasiatheria","Chiroptera",1988,93,835,11.1377245508982
+"1243","Laurasiatheria","Chiroptera",1989,86,817,10.5263157894737
+"1244","Laurasiatheria","Chiroptera",1990,81,924,8.76623376623377
+"1245","Laurasiatheria","Chiroptera",1991,65,874,7.4370709382151
+"1246","Laurasiatheria","Chiroptera",1992,68,857,7.93465577596266
+"1247","Laurasiatheria","Chiroptera",1993,92,947,9.71488912354805
+"1248","Laurasiatheria","Chiroptera",1994,99,954,10.377358490566
+"1249","Laurasiatheria","Chiroptera",1995,103,1034,9.96131528046422
+"1250","Laurasiatheria","Chiroptera",1996,124,1123,11.0418521816563
+"1251","Laurasiatheria","Chiroptera",1997,159,1247,12.7506014434643
+"1252","Laurasiatheria","Chiroptera",1998,170,1244,13.6655948553055
+"1253","Laurasiatheria","Chiroptera",1999,171,1319,12.964366944655
+"1254","Laurasiatheria","Chiroptera",2000,173,1331,12.9977460555973
+"1255","Laurasiatheria","Chiroptera",2001,215,1428,15.0560224089636
+"1256","Laurasiatheria","Chiroptera",2002,184,1381,13.323678493845
+"1257","Laurasiatheria","Chiroptera",2003,210,1494,14.0562248995984
+"1258","Laurasiatheria","Chiroptera",2004,269,1557,17.276814386641
+"1259","Laurasiatheria","Chiroptera",2005,235,1557,15.0931278098908
+"1260","Laurasiatheria","Chiroptera",2006,275,1655,16.6163141993958
+"1261","Laurasiatheria","Chiroptera",2007,279,1629,17.1270718232044
+"1262","Laurasiatheria","Chiroptera",2008,240,1675,14.3283582089552
+"1263","Laurasiatheria","Chiroptera",2009,282,1690,16.6863905325444
+"1264","Laurasiatheria","Chiroptera",2010,297,1895,15.6728232189974
+"1265","Laurasiatheria","Chiroptera",2011,318,1876,16.9509594882729
+"1266","Laurasiatheria","Chiroptera",2012,287,1886,15.2173913043478
+"1267","Laurasiatheria","Chiroptera",2013,324,1865,17.372654155496
+"1268","Laurasiatheria","Chiroptera",2014,336,1930,17.4093264248705
+"1269","Laurasiatheria","Chiroptera",2015,354,1947,18.1818181818182
+"1270","Laurasiatheria","Chiroptera",2016,367,2018,18.1863230921705
+"1271","Laurasiatheria","Chiroptera",2017,336,2003,16.7748377433849
+"1272","Laurasiatheria","Chiroptera",2018,355,1990,17.8391959798995
+"1273","Laurasiatheria","Chiroptera",2019,309,1993,15.5042649272454
+"1274","Laurasiatheria","Chiroptera",2020,355,2044,17.3679060665362
+"1275","Laurasiatheria","Chiroptera",2021,205,1234,16.612641815235
+"1276","Laurasiatheria","Chiroptera",NA,442,2276,19.4200351493849
+"1277","Laurasiatheria","Erinaceomorpha",1902,1,13,7.69230769230769
+"1278","Laurasiatheria","Erinaceomorpha",1912,1,14,7.14285714285714
+"1279","Laurasiatheria","Erinaceomorpha",1924,1,14,7.14285714285714
+"1280","Laurasiatheria","Erinaceomorpha",1941,1,26,3.84615384615385
+"1281","Laurasiatheria","Erinaceomorpha",1944,1,27,3.7037037037037
+"1282","Laurasiatheria","Erinaceomorpha",1949,1,43,2.32558139534884
+"1283","Laurasiatheria","Erinaceomorpha",1950,1,49,2.04081632653061
+"1284","Laurasiatheria","Erinaceomorpha",1951,1,78,1.28205128205128
+"1285","Laurasiatheria","Erinaceomorpha",1953,1,75,1.33333333333333
+"1286","Laurasiatheria","Erinaceomorpha",1954,1,81,1.23456790123457
+"1287","Laurasiatheria","Erinaceomorpha",1955,1,82,1.21951219512195
+"1288","Laurasiatheria","Erinaceomorpha",1956,1,107,0.934579439252336
+"1289","Laurasiatheria","Erinaceomorpha",1957,1,103,0.970873786407767
+"1290","Laurasiatheria","Erinaceomorpha",1959,1,125,0.8
+"1291","Laurasiatheria","Erinaceomorpha",1960,1,138,0.72463768115942
+"1292","Laurasiatheria","Erinaceomorpha",1961,1,141,0.709219858156028
+"1293","Laurasiatheria","Erinaceomorpha",1962,1,176,0.568181818181818
+"1294","Laurasiatheria","Erinaceomorpha",1963,2,183,1.09289617486339
+"1295","Laurasiatheria","Erinaceomorpha",1964,1,185,0.540540540540541
+"1296","Laurasiatheria","Erinaceomorpha",1965,1,255,0.392156862745098
+"1297","Laurasiatheria","Erinaceomorpha",1966,2,257,0.778210116731518
+"1298","Laurasiatheria","Erinaceomorpha",1967,1,306,0.326797385620915
+"1299","Laurasiatheria","Erinaceomorpha",1968,1,323,0.309597523219814
+"1300","Laurasiatheria","Erinaceomorpha",1969,1,333,0.3003003003003
+"1301","Laurasiatheria","Erinaceomorpha",1970,5,379,1.31926121372032
+"1302","Laurasiatheria","Erinaceomorpha",1971,4,417,0.959232613908873
+"1303","Laurasiatheria","Erinaceomorpha",1972,2,441,0.453514739229025
+"1304","Laurasiatheria","Erinaceomorpha",1973,2,457,0.437636761487965
+"1305","Laurasiatheria","Erinaceomorpha",1974,1,465,0.21505376344086
+"1306","Laurasiatheria","Erinaceomorpha",1975,2,478,0.418410041841004
+"1307","Laurasiatheria","Erinaceomorpha",1976,2,529,0.378071833648393
+"1308","Laurasiatheria","Erinaceomorpha",1977,2,503,0.397614314115308
+"1309","Laurasiatheria","Erinaceomorpha",1978,4,524,0.763358778625954
+"1310","Laurasiatheria","Erinaceomorpha",1979,1,543,0.184162062615101
+"1311","Laurasiatheria","Erinaceomorpha",1980,2,572,0.34965034965035
+"1312","Laurasiatheria","Erinaceomorpha",1981,3,589,0.509337860780985
+"1313","Laurasiatheria","Erinaceomorpha",1982,4,719,0.556328233657858
+"1314","Laurasiatheria","Erinaceomorpha",1983,2,693,0.288600288600289
+"1315","Laurasiatheria","Erinaceomorpha",1984,1,708,0.141242937853107
+"1316","Laurasiatheria","Erinaceomorpha",1985,2,729,0.274348422496571
+"1317","Laurasiatheria","Erinaceomorpha",1986,2,699,0.286123032904149
+"1318","Laurasiatheria","Erinaceomorpha",1987,1,743,0.134589502018843
+"1319","Laurasiatheria","Erinaceomorpha",1988,1,835,0.119760479041916
+"1320","Laurasiatheria","Erinaceomorpha",1989,2,817,0.244798041615667
+"1321","Laurasiatheria","Erinaceomorpha",1990,1,924,0.108225108225108
+"1322","Laurasiatheria","Erinaceomorpha",1991,5,874,0.5720823798627
+"1323","Laurasiatheria","Erinaceomorpha",1992,1,857,0.116686114352392
+"1324","Laurasiatheria","Erinaceomorpha",1993,3,947,0.316789862724393
+"1325","Laurasiatheria","Erinaceomorpha",1994,2,954,0.209643605870021
+"1326","Laurasiatheria","Erinaceomorpha",1995,2,1034,0.193423597678917
+"1327","Laurasiatheria","Erinaceomorpha",1996,1,1123,0.0890471950133571
+"1328","Laurasiatheria","Erinaceomorpha",1997,2,1247,0.160384923817161
+"1329","Laurasiatheria","Erinaceomorpha",1998,3,1244,0.241157556270096
+"1330","Laurasiatheria","Erinaceomorpha",1999,3,1319,0.227445034116755
+"1331","Laurasiatheria","Erinaceomorpha",2000,2,1331,0.150262960180316
+"1332","Laurasiatheria","Erinaceomorpha",2001,3,1428,0.210084033613445
+"1333","Laurasiatheria","Erinaceomorpha",2002,5,1381,0.362056480811006
+"1334","Laurasiatheria","Erinaceomorpha",2003,4,1494,0.267737617135207
+"1335","Laurasiatheria","Erinaceomorpha",2004,2,1557,0.128452151573539
+"1336","Laurasiatheria","Erinaceomorpha",2005,3,1557,0.192678227360308
+"1337","Laurasiatheria","Erinaceomorpha",2006,5,1655,0.302114803625378
+"1338","Laurasiatheria","Erinaceomorpha",2007,4,1629,0.245549416820135
+"1339","Laurasiatheria","Erinaceomorpha",2008,4,1675,0.238805970149254
+"1340","Laurasiatheria","Erinaceomorpha",2009,4,1690,0.236686390532544
+"1341","Laurasiatheria","Erinaceomorpha",2010,5,1895,0.263852242744063
+"1342","Laurasiatheria","Erinaceomorpha",2011,7,1876,0.373134328358209
+"1343","Laurasiatheria","Erinaceomorpha",2012,6,1886,0.31813361611877
+"1344","Laurasiatheria","Erinaceomorpha",2013,5,1865,0.268096514745308
+"1345","Laurasiatheria","Erinaceomorpha",2014,6,1930,0.310880829015544
+"1346","Laurasiatheria","Erinaceomorpha",2015,6,1947,0.308166409861325
+"1347","Laurasiatheria","Erinaceomorpha",2016,9,2018,0.445986124876115
+"1348","Laurasiatheria","Erinaceomorpha",2017,10,2003,0.499251123315028
+"1349","Laurasiatheria","Erinaceomorpha",2018,5,1990,0.251256281407035
+"1350","Laurasiatheria","Erinaceomorpha",2019,7,1993,0.351229302558956
+"1351","Laurasiatheria","Erinaceomorpha",2020,8,2044,0.391389432485323
+"1352","Laurasiatheria","Erinaceomorpha",2021,6,1234,0.486223662884927
+"1353","Laurasiatheria","Erinaceomorpha",NA,2,2276,0.0878734622144112
+"1354","Laurasiatheria","Eulipotyphla",1951,1,78,1.28205128205128
+"1355","Laurasiatheria","Eulipotyphla",1952,1,77,1.2987012987013
+"1356","Laurasiatheria","Eulipotyphla",1953,3,75,4
+"1357","Laurasiatheria","Eulipotyphla",1955,1,82,1.21951219512195
+"1358","Laurasiatheria","Eulipotyphla",1957,1,103,0.970873786407767
+"1359","Laurasiatheria","Eulipotyphla",1958,1,109,0.917431192660551
+"1360","Laurasiatheria","Eulipotyphla",1960,1,138,0.72463768115942
+"1361","Laurasiatheria","Eulipotyphla",1962,1,176,0.568181818181818
+"1362","Laurasiatheria","Eulipotyphla",1963,2,183,1.09289617486339
+"1363","Laurasiatheria","Eulipotyphla",1964,2,185,1.08108108108108
+"1364","Laurasiatheria","Eulipotyphla",1965,3,255,1.17647058823529
+"1365","Laurasiatheria","Eulipotyphla",1966,2,257,0.778210116731518
+"1366","Laurasiatheria","Eulipotyphla",1967,4,306,1.30718954248366
+"1367","Laurasiatheria","Eulipotyphla",1968,2,323,0.619195046439629
+"1368","Laurasiatheria","Eulipotyphla",1969,4,333,1.2012012012012
+"1369","Laurasiatheria","Eulipotyphla",1970,6,379,1.58311345646438
+"1370","Laurasiatheria","Eulipotyphla",1971,4,417,0.959232613908873
+"1371","Laurasiatheria","Eulipotyphla",1972,3,441,0.680272108843537
+"1372","Laurasiatheria","Eulipotyphla",1973,5,457,1.09409190371991
+"1373","Laurasiatheria","Eulipotyphla",1974,3,465,0.645161290322581
+"1374","Laurasiatheria","Eulipotyphla",1975,4,478,0.836820083682008
+"1375","Laurasiatheria","Eulipotyphla",1976,3,529,0.56710775047259
+"1376","Laurasiatheria","Eulipotyphla",1977,4,503,0.795228628230616
+"1377","Laurasiatheria","Eulipotyphla",1978,5,524,0.954198473282443
+"1378","Laurasiatheria","Eulipotyphla",1979,3,543,0.552486187845304
+"1379","Laurasiatheria","Eulipotyphla",1980,5,572,0.874125874125874
+"1380","Laurasiatheria","Eulipotyphla",1981,4,589,0.67911714770798
+"1381","Laurasiatheria","Eulipotyphla",1982,7,719,0.973574408901252
+"1382","Laurasiatheria","Eulipotyphla",1983,4,693,0.577200577200577
+"1383","Laurasiatheria","Eulipotyphla",1984,6,708,0.847457627118644
+"1384","Laurasiatheria","Eulipotyphla",1985,8,729,1.09739368998628
+"1385","Laurasiatheria","Eulipotyphla",1986,4,699,0.572246065808298
+"1386","Laurasiatheria","Eulipotyphla",1987,6,743,0.807537012113055
+"1387","Laurasiatheria","Eulipotyphla",1988,9,835,1.07784431137725
+"1388","Laurasiatheria","Eulipotyphla",1989,7,817,0.856793145654835
+"1389","Laurasiatheria","Eulipotyphla",1990,6,924,0.649350649350649
+"1390","Laurasiatheria","Eulipotyphla",1991,8,874,0.91533180778032
+"1391","Laurasiatheria","Eulipotyphla",1992,7,857,0.816802800466744
+"1392","Laurasiatheria","Eulipotyphla",1993,8,947,0.844772967265047
+"1393","Laurasiatheria","Eulipotyphla",1994,8,954,0.838574423480084
+"1394","Laurasiatheria","Eulipotyphla",1995,9,1034,0.870406189555126
+"1395","Laurasiatheria","Eulipotyphla",1996,18,1123,1.60284951024043
+"1396","Laurasiatheria","Eulipotyphla",1997,15,1247,1.20288692862871
+"1397","Laurasiatheria","Eulipotyphla",1998,15,1244,1.20578778135048
+"1398","Laurasiatheria","Eulipotyphla",1999,13,1319,0.985595147839272
+"1399","Laurasiatheria","Eulipotyphla",2000,11,1331,0.826446280991736
+"1400","Laurasiatheria","Eulipotyphla",2001,18,1428,1.26050420168067
+"1401","Laurasiatheria","Eulipotyphla",2002,15,1381,1.08616944243302
+"1402","Laurasiatheria","Eulipotyphla",2003,18,1494,1.20481927710843
+"1403","Laurasiatheria","Eulipotyphla",2004,15,1557,0.963391136801541
+"1404","Laurasiatheria","Eulipotyphla",2005,15,1557,0.963391136801541
+"1405","Laurasiatheria","Eulipotyphla",2006,12,1655,0.725075528700906
+"1406","Laurasiatheria","Eulipotyphla",2007,16,1629,0.98219766728054
+"1407","Laurasiatheria","Eulipotyphla",2008,16,1675,0.955223880597015
+"1408","Laurasiatheria","Eulipotyphla",2009,10,1690,0.591715976331361
+"1409","Laurasiatheria","Eulipotyphla",2010,16,1895,0.844327176781003
+"1410","Laurasiatheria","Eulipotyphla",2011,14,1876,0.746268656716418
+"1411","Laurasiatheria","Eulipotyphla",2012,22,1886,1.16648992576882
+"1412","Laurasiatheria","Eulipotyphla",2013,22,1865,1.17962466487936
+"1413","Laurasiatheria","Eulipotyphla",2014,18,1930,0.932642487046632
+"1414","Laurasiatheria","Eulipotyphla",2015,16,1947,0.821777092963534
+"1415","Laurasiatheria","Eulipotyphla",2016,17,2018,0.842418235877106
+"1416","Laurasiatheria","Eulipotyphla",2017,29,2003,1.44782825761358
+"1417","Laurasiatheria","Eulipotyphla",2018,25,1990,1.25628140703518
+"1418","Laurasiatheria","Eulipotyphla",2019,22,1993,1.10386352232815
+"1419","Laurasiatheria","Eulipotyphla",2020,26,2044,1.2720156555773
+"1420","Laurasiatheria","Eulipotyphla",2021,16,1234,1.29659643435981
+"1421","Laurasiatheria","Eulipotyphla",NA,180,2276,7.90861159929701
+"1422","Laurasiatheria","Perissodactyla",1882,1,6,16.6666666666667
+"1423","Laurasiatheria","Perissodactyla",1895,1,4,25
+"1424","Laurasiatheria","Perissodactyla",1924,1,14,7.14285714285714
+"1425","Laurasiatheria","Perissodactyla",1926,1,21,4.76190476190476
+"1426","Laurasiatheria","Perissodactyla",1928,1,18,5.55555555555556
+"1427","Laurasiatheria","Perissodactyla",1931,1,21,4.76190476190476
+"1428","Laurasiatheria","Perissodactyla",1934,1,22,4.54545454545455
+"1429","Laurasiatheria","Perissodactyla",1939,1,33,3.03030303030303
+"1430","Laurasiatheria","Perissodactyla",1943,1,22,4.54545454545455
+"1431","Laurasiatheria","Perissodactyla",1945,1,28,3.57142857142857
+"1432","Laurasiatheria","Perissodactyla",1946,2,33,6.06060606060606
+"1433","Laurasiatheria","Perissodactyla",1948,1,47,2.12765957446809
+"1434","Laurasiatheria","Perissodactyla",1949,1,43,2.32558139534884
+"1435","Laurasiatheria","Perissodactyla",1950,3,49,6.12244897959184
+"1436","Laurasiatheria","Perissodactyla",1951,1,78,1.28205128205128
+"1437","Laurasiatheria","Perissodactyla",1952,2,77,2.5974025974026
+"1438","Laurasiatheria","Perissodactyla",1953,2,75,2.66666666666667
+"1439","Laurasiatheria","Perissodactyla",1954,2,81,2.46913580246914
+"1440","Laurasiatheria","Perissodactyla",1955,1,82,1.21951219512195
+"1441","Laurasiatheria","Perissodactyla",1956,2,107,1.86915887850467
+"1442","Laurasiatheria","Perissodactyla",1957,1,103,0.970873786407767
+"1443","Laurasiatheria","Perissodactyla",1958,2,109,1.8348623853211
+"1444","Laurasiatheria","Perissodactyla",1959,3,125,2.4
+"1445","Laurasiatheria","Perissodactyla",1960,4,138,2.89855072463768
+"1446","Laurasiatheria","Perissodactyla",1961,5,141,3.54609929078014
+"1447","Laurasiatheria","Perissodactyla",1962,5,176,2.84090909090909
+"1448","Laurasiatheria","Perissodactyla",1963,3,183,1.63934426229508
+"1449","Laurasiatheria","Perissodactyla",1964,5,185,2.7027027027027
+"1450","Laurasiatheria","Perissodactyla",1965,6,255,2.35294117647059
+"1451","Laurasiatheria","Perissodactyla",1966,4,257,1.55642023346304
+"1452","Laurasiatheria","Perissodactyla",1967,5,306,1.63398692810458
+"1453","Laurasiatheria","Perissodactyla",1968,5,323,1.54798761609907
+"1454","Laurasiatheria","Perissodactyla",1969,3,333,0.900900900900901
+"1455","Laurasiatheria","Perissodactyla",1970,5,379,1.31926121372032
+"1456","Laurasiatheria","Perissodactyla",1971,6,417,1.43884892086331
+"1457","Laurasiatheria","Perissodactyla",1972,7,441,1.58730158730159
+"1458","Laurasiatheria","Perissodactyla",1973,2,457,0.437636761487965
+"1459","Laurasiatheria","Perissodactyla",1974,10,465,2.1505376344086
+"1460","Laurasiatheria","Perissodactyla",1975,7,478,1.46443514644351
+"1461","Laurasiatheria","Perissodactyla",1976,4,529,0.756143667296786
+"1462","Laurasiatheria","Perissodactyla",1977,6,503,1.19284294234592
+"1463","Laurasiatheria","Perissodactyla",1978,7,524,1.33587786259542
+"1464","Laurasiatheria","Perissodactyla",1979,10,543,1.84162062615101
+"1465","Laurasiatheria","Perissodactyla",1980,5,572,0.874125874125874
+"1466","Laurasiatheria","Perissodactyla",1981,8,589,1.35823429541596
+"1467","Laurasiatheria","Perissodactyla",1982,12,719,1.66898470097357
+"1468","Laurasiatheria","Perissodactyla",1983,6,693,0.865800865800866
+"1469","Laurasiatheria","Perissodactyla",1984,10,708,1.41242937853107
+"1470","Laurasiatheria","Perissodactyla",1985,11,729,1.50891632373114
+"1471","Laurasiatheria","Perissodactyla",1986,10,699,1.43061516452074
+"1472","Laurasiatheria","Perissodactyla",1987,10,743,1.34589502018843
+"1473","Laurasiatheria","Perissodactyla",1988,16,835,1.91616766467066
+"1474","Laurasiatheria","Perissodactyla",1989,12,817,1.468788249694
+"1475","Laurasiatheria","Perissodactyla",1990,11,924,1.19047619047619
+"1476","Laurasiatheria","Perissodactyla",1991,14,874,1.60183066361556
+"1477","Laurasiatheria","Perissodactyla",1992,13,857,1.5169194865811
+"1478","Laurasiatheria","Perissodactyla",1993,14,947,1.47835269271383
+"1479","Laurasiatheria","Perissodactyla",1994,14,954,1.46750524109015
+"1480","Laurasiatheria","Perissodactyla",1995,18,1034,1.74081237911025
+"1481","Laurasiatheria","Perissodactyla",1996,15,1123,1.33570792520036
+"1482","Laurasiatheria","Perissodactyla",1997,15,1247,1.20288692862871
+"1483","Laurasiatheria","Perissodactyla",1998,17,1244,1.36655948553055
+"1484","Laurasiatheria","Perissodactyla",1999,20,1319,1.51630022744503
+"1485","Laurasiatheria","Perissodactyla",2000,19,1331,1.427498121713
+"1486","Laurasiatheria","Perissodactyla",2001,20,1428,1.40056022408964
+"1487","Laurasiatheria","Perissodactyla",2002,18,1381,1.30340333091962
+"1488","Laurasiatheria","Perissodactyla",2003,21,1494,1.40562248995984
+"1489","Laurasiatheria","Perissodactyla",2004,16,1557,1.02761721258831
+"1490","Laurasiatheria","Perissodactyla",2005,22,1557,1.41297366730893
+"1491","Laurasiatheria","Perissodactyla",2006,22,1655,1.32930513595166
+"1492","Laurasiatheria","Perissodactyla",2007,20,1629,1.22774708410068
+"1493","Laurasiatheria","Perissodactyla",2008,21,1675,1.25373134328358
+"1494","Laurasiatheria","Perissodactyla",2009,19,1690,1.12426035502959
+"1495","Laurasiatheria","Perissodactyla",2010,22,1895,1.16094986807388
+"1496","Laurasiatheria","Perissodactyla",2011,25,1876,1.33262260127932
+"1497","Laurasiatheria","Perissodactyla",2012,23,1886,1.21951219512195
+"1498","Laurasiatheria","Perissodactyla",2013,23,1865,1.23324396782842
+"1499","Laurasiatheria","Perissodactyla",2014,22,1930,1.13989637305699
+"1500","Laurasiatheria","Perissodactyla",2015,25,1947,1.28402670775552
+"1501","Laurasiatheria","Perissodactyla",2016,25,2018,1.2388503468781
+"1502","Laurasiatheria","Perissodactyla",2017,24,2003,1.19820269595607
+"1503","Laurasiatheria","Perissodactyla",2018,23,1990,1.15577889447236
+"1504","Laurasiatheria","Perissodactyla",2019,28,1993,1.40491721023583
+"1505","Laurasiatheria","Perissodactyla",2020,23,2044,1.1252446183953
+"1506","Laurasiatheria","Perissodactyla",2021,20,1234,1.62074554294976
+"1507","Laurasiatheria","Perissodactyla",NA,8,2276,0.351493848857645
+"1508","Laurasiatheria","Pholidota",1926,1,21,4.76190476190476
+"1509","Laurasiatheria","Pholidota",1944,1,27,3.7037037037037
+"1510","Laurasiatheria","Pholidota",1958,2,109,1.8348623853211
+"1511","Laurasiatheria","Pholidota",1959,1,125,0.8
+"1512","Laurasiatheria","Pholidota",1962,1,176,0.568181818181818
+"1513","Laurasiatheria","Pholidota",1965,1,255,0.392156862745098
+"1514","Laurasiatheria","Pholidota",1966,2,257,0.778210116731518
+"1515","Laurasiatheria","Pholidota",1967,1,306,0.326797385620915
+"1516","Laurasiatheria","Pholidota",1968,1,323,0.309597523219814
+"1517","Laurasiatheria","Pholidota",1969,2,333,0.600600600600601
+"1518","Laurasiatheria","Pholidota",1970,1,379,0.263852242744063
+"1519","Laurasiatheria","Pholidota",1971,2,417,0.479616306954436
+"1520","Laurasiatheria","Pholidota",1973,3,457,0.656455142231947
+"1521","Laurasiatheria","Pholidota",1974,3,465,0.645161290322581
+"1522","Laurasiatheria","Pholidota",1975,1,478,0.209205020920502
+"1523","Laurasiatheria","Pholidota",1976,2,529,0.378071833648393
+"1524","Laurasiatheria","Pholidota",1978,1,524,0.190839694656489
+"1525","Laurasiatheria","Pholidota",1982,1,719,0.139082058414465
+"1526","Laurasiatheria","Pholidota",1983,1,693,0.144300144300144
+"1527","Laurasiatheria","Pholidota",1985,1,729,0.137174211248285
+"1528","Laurasiatheria","Pholidota",1986,1,699,0.143061516452074
+"1529","Laurasiatheria","Pholidota",1987,1,743,0.134589502018843
+"1530","Laurasiatheria","Pholidota",1988,1,835,0.119760479041916
+"1531","Laurasiatheria","Pholidota",1989,2,817,0.244798041615667
+"1532","Laurasiatheria","Pholidota",1991,1,874,0.11441647597254
+"1533","Laurasiatheria","Pholidota",1994,3,954,0.314465408805031
+"1534","Laurasiatheria","Pholidota",1997,3,1247,0.240577385725742
+"1535","Laurasiatheria","Pholidota",1999,2,1319,0.151630022744503
+"1536","Laurasiatheria","Pholidota",2000,2,1331,0.150262960180316
+"1537","Laurasiatheria","Pholidota",2001,1,1428,0.0700280112044818
+"1538","Laurasiatheria","Pholidota",2002,1,1381,0.0724112961622013
+"1539","Laurasiatheria","Pholidota",2003,2,1494,0.133868808567604
+"1540","Laurasiatheria","Pholidota",2004,2,1557,0.128452151573539
+"1541","Laurasiatheria","Pholidota",2005,4,1557,0.256904303147078
+"1542","Laurasiatheria","Pholidota",2007,5,1629,0.306936771025169
+"1543","Laurasiatheria","Pholidota",2008,3,1675,0.17910447761194
+"1544","Laurasiatheria","Pholidota",2009,5,1690,0.29585798816568
+"1545","Laurasiatheria","Pholidota",2010,3,1895,0.158311345646438
+"1546","Laurasiatheria","Pholidota",2011,3,1876,0.159914712153518
+"1547","Laurasiatheria","Pholidota",2012,6,1886,0.31813361611877
+"1548","Laurasiatheria","Pholidota",2013,4,1865,0.214477211796247
+"1549","Laurasiatheria","Pholidota",2014,3,1930,0.155440414507772
+"1550","Laurasiatheria","Pholidota",2015,5,1947,0.256805341551104
+"1551","Laurasiatheria","Pholidota",2016,6,2018,0.297324083250743
+"1552","Laurasiatheria","Pholidota",2017,5,2003,0.249625561657514
+"1553","Laurasiatheria","Pholidota",2018,5,1990,0.251256281407035
+"1554","Laurasiatheria","Pholidota",2019,6,1993,0.301053687907677
+"1555","Laurasiatheria","Pholidota",2020,6,2044,0.293542074363992
+"1556","Laurasiatheria","Pholidota",2021,4,1234,0.324149108589951
+"1557","Laurasiatheria","Soricomorpha",1889,1,1,100
+"1558","Laurasiatheria","Soricomorpha",1892,1,4,25
+"1559","Laurasiatheria","Soricomorpha",1894,1,4,25
+"1560","Laurasiatheria","Soricomorpha",1901,1,5,20
+"1561","Laurasiatheria","Soricomorpha",1902,1,13,7.69230769230769
+"1562","Laurasiatheria","Soricomorpha",1904,1,9,11.1111111111111
+"1563","Laurasiatheria","Soricomorpha",1905,1,7,14.2857142857143
+"1564","Laurasiatheria","Soricomorpha",1910,1,7,14.2857142857143
+"1565","Laurasiatheria","Soricomorpha",1914,1,9,11.1111111111111
+"1566","Laurasiatheria","Soricomorpha",1916,1,5,20
+"1567","Laurasiatheria","Soricomorpha",1918,1,5,20
+"1568","Laurasiatheria","Soricomorpha",1925,1,13,7.69230769230769
+"1569","Laurasiatheria","Soricomorpha",1926,1,21,4.76190476190476
+"1570","Laurasiatheria","Soricomorpha",1927,1,15,6.66666666666667
+"1571","Laurasiatheria","Soricomorpha",1928,1,18,5.55555555555556
+"1572","Laurasiatheria","Soricomorpha",1929,1,17,5.88235294117647
+"1573","Laurasiatheria","Soricomorpha",1931,1,21,4.76190476190476
+"1574","Laurasiatheria","Soricomorpha",1932,1,21,4.76190476190476
+"1575","Laurasiatheria","Soricomorpha",1935,1,20,5
+"1576","Laurasiatheria","Soricomorpha",1936,1,24,4.16666666666667
+"1577","Laurasiatheria","Soricomorpha",1939,2,33,6.06060606060606
+"1578","Laurasiatheria","Soricomorpha",1940,1,26,3.84615384615385
+"1579","Laurasiatheria","Soricomorpha",1944,3,27,11.1111111111111
+"1580","Laurasiatheria","Soricomorpha",1945,5,28,17.8571428571429
+"1581","Laurasiatheria","Soricomorpha",1946,2,33,6.06060606060606
+"1582","Laurasiatheria","Soricomorpha",1947,3,43,6.97674418604651
+"1583","Laurasiatheria","Soricomorpha",1949,3,43,6.97674418604651
+"1584","Laurasiatheria","Soricomorpha",1950,1,49,2.04081632653061
+"1585","Laurasiatheria","Soricomorpha",1951,3,78,3.84615384615385
+"1586","Laurasiatheria","Soricomorpha",1952,1,77,1.2987012987013
+"1587","Laurasiatheria","Soricomorpha",1953,1,75,1.33333333333333
+"1588","Laurasiatheria","Soricomorpha",1954,3,81,3.7037037037037
+"1589","Laurasiatheria","Soricomorpha",1955,5,82,6.09756097560976
+"1590","Laurasiatheria","Soricomorpha",1956,2,107,1.86915887850467
+"1591","Laurasiatheria","Soricomorpha",1957,6,103,5.8252427184466
+"1592","Laurasiatheria","Soricomorpha",1958,2,109,1.8348623853211
+"1593","Laurasiatheria","Soricomorpha",1959,4,125,3.2
+"1594","Laurasiatheria","Soricomorpha",1961,4,141,2.83687943262411
+"1595","Laurasiatheria","Soricomorpha",1962,6,176,3.40909090909091
+"1596","Laurasiatheria","Soricomorpha",1963,4,183,2.18579234972678
+"1597","Laurasiatheria","Soricomorpha",1964,6,185,3.24324324324324
+"1598","Laurasiatheria","Soricomorpha",1965,6,255,2.35294117647059
+"1599","Laurasiatheria","Soricomorpha",1966,8,257,3.11284046692607
+"1600","Laurasiatheria","Soricomorpha",1967,7,306,2.28758169934641
+"1601","Laurasiatheria","Soricomorpha",1968,5,323,1.54798761609907
+"1602","Laurasiatheria","Soricomorpha",1969,4,333,1.2012012012012
+"1603","Laurasiatheria","Soricomorpha",1970,8,379,2.11081794195251
+"1604","Laurasiatheria","Soricomorpha",1971,4,417,0.959232613908873
+"1605","Laurasiatheria","Soricomorpha",1972,5,441,1.13378684807256
+"1606","Laurasiatheria","Soricomorpha",1973,8,457,1.75054704595186
+"1607","Laurasiatheria","Soricomorpha",1974,9,465,1.93548387096774
+"1608","Laurasiatheria","Soricomorpha",1975,11,478,2.30125523012552
+"1609","Laurasiatheria","Soricomorpha",1976,10,529,1.89035916824197
+"1610","Laurasiatheria","Soricomorpha",1977,10,503,1.98807157057654
+"1611","Laurasiatheria","Soricomorpha",1978,11,524,2.09923664122137
+"1612","Laurasiatheria","Soricomorpha",1979,16,543,2.94659300184162
+"1613","Laurasiatheria","Soricomorpha",1980,15,572,2.62237762237762
+"1614","Laurasiatheria","Soricomorpha",1981,12,589,2.03735144312394
+"1615","Laurasiatheria","Soricomorpha",1982,20,719,2.78164116828929
+"1616","Laurasiatheria","Soricomorpha",1983,19,693,2.74170274170274
+"1617","Laurasiatheria","Soricomorpha",1984,18,708,2.54237288135593
+"1618","Laurasiatheria","Soricomorpha",1985,19,729,2.60631001371742
+"1619","Laurasiatheria","Soricomorpha",1986,18,699,2.57510729613734
+"1620","Laurasiatheria","Soricomorpha",1987,15,743,2.01884253028264
+"1621","Laurasiatheria","Soricomorpha",1988,22,835,2.63473053892216
+"1622","Laurasiatheria","Soricomorpha",1989,28,817,3.42717258261934
+"1623","Laurasiatheria","Soricomorpha",1990,24,924,2.5974025974026
+"1624","Laurasiatheria","Soricomorpha",1991,24,874,2.74599542334096
+"1625","Laurasiatheria","Soricomorpha",1992,16,857,1.86697782963827
+"1626","Laurasiatheria","Soricomorpha",1993,26,947,2.7455121436114
+"1627","Laurasiatheria","Soricomorpha",1994,21,954,2.20125786163522
+"1628","Laurasiatheria","Soricomorpha",1995,29,1034,2.80464216634429
+"1629","Laurasiatheria","Soricomorpha",1996,35,1123,3.1166518254675
+"1630","Laurasiatheria","Soricomorpha",1997,34,1247,2.72654370489174
+"1631","Laurasiatheria","Soricomorpha",1998,31,1244,2.491961414791
+"1632","Laurasiatheria","Soricomorpha",1999,39,1319,2.95678544351782
+"1633","Laurasiatheria","Soricomorpha",2000,39,1331,2.93012772351615
+"1634","Laurasiatheria","Soricomorpha",2001,52,1428,3.64145658263305
+"1635","Laurasiatheria","Soricomorpha",2002,44,1381,3.18609703113686
+"1636","Laurasiatheria","Soricomorpha",2003,62,1494,4.14993306559572
+"1637","Laurasiatheria","Soricomorpha",2004,47,1557,3.01862556197816
+"1638","Laurasiatheria","Soricomorpha",2005,42,1557,2.69749518304432
+"1639","Laurasiatheria","Soricomorpha",2006,42,1655,2.53776435045317
+"1640","Laurasiatheria","Soricomorpha",2007,48,1629,2.94659300184162
+"1641","Laurasiatheria","Soricomorpha",2008,48,1675,2.86567164179104
+"1642","Laurasiatheria","Soricomorpha",2009,39,1690,2.30769230769231
+"1643","Laurasiatheria","Soricomorpha",2010,64,1895,3.37730870712401
+"1644","Laurasiatheria","Soricomorpha",2011,41,1876,2.18550106609808
+"1645","Laurasiatheria","Soricomorpha",2012,63,1886,3.34040296924708
+"1646","Laurasiatheria","Soricomorpha",2013,64,1865,3.43163538873995
+"1647","Laurasiatheria","Soricomorpha",2014,58,1930,3.00518134715026
+"1648","Laurasiatheria","Soricomorpha",2015,48,1947,2.4653312788906
+"1649","Laurasiatheria","Soricomorpha",2016,60,2018,2.97324083250743
+"1650","Laurasiatheria","Soricomorpha",2017,39,2003,1.94707938092861
+"1651","Laurasiatheria","Soricomorpha",2018,40,1990,2.01005025125628
+"1652","Laurasiatheria","Soricomorpha",2019,63,1993,3.16106372303061
+"1653","Laurasiatheria","Soricomorpha",2020,48,2044,2.34833659491194
+"1654","Laurasiatheria","Soricomorpha",2021,19,1234,1.53970826580227
+"1655","Laurasiatheria","Soricomorpha",NA,111,2276,4.87697715289982
+"1656","Marsupials & monotremes","Dasyuromorphia",1926,1,21,4.76190476190476
+"1657","Marsupials & monotremes","Dasyuromorphia",1928,1,18,5.55555555555556
+"1658","Marsupials & monotremes","Dasyuromorphia",1938,1,45,2.22222222222222
+"1659","Marsupials & monotremes","Dasyuromorphia",1949,1,43,2.32558139534884
+"1660","Marsupials & monotremes","Dasyuromorphia",1955,1,82,1.21951219512195
+"1661","Marsupials & monotremes","Dasyuromorphia",1958,1,109,0.917431192660551
+"1662","Marsupials & monotremes","Dasyuromorphia",1960,3,138,2.17391304347826
+"1663","Marsupials & monotremes","Dasyuromorphia",1962,2,176,1.13636363636364
+"1664","Marsupials & monotremes","Dasyuromorphia",1964,5,185,2.7027027027027
+"1665","Marsupials & monotremes","Dasyuromorphia",1965,2,255,0.784313725490196
+"1666","Marsupials & monotremes","Dasyuromorphia",1966,1,257,0.389105058365759
+"1667","Marsupials & monotremes","Dasyuromorphia",1967,1,306,0.326797385620915
+"1668","Marsupials & monotremes","Dasyuromorphia",1968,1,323,0.309597523219814
+"1669","Marsupials & monotremes","Dasyuromorphia",1969,4,333,1.2012012012012
+"1670","Marsupials & monotremes","Dasyuromorphia",1970,5,379,1.31926121372032
+"1671","Marsupials & monotremes","Dasyuromorphia",1971,7,417,1.67865707434053
+"1672","Marsupials & monotremes","Dasyuromorphia",1972,6,441,1.36054421768707
+"1673","Marsupials & monotremes","Dasyuromorphia",1973,6,457,1.31291028446389
+"1674","Marsupials & monotremes","Dasyuromorphia",1974,9,465,1.93548387096774
+"1675","Marsupials & monotremes","Dasyuromorphia",1975,6,478,1.25523012552301
+"1676","Marsupials & monotremes","Dasyuromorphia",1976,8,529,1.51228733459357
+"1677","Marsupials & monotremes","Dasyuromorphia",1977,7,503,1.39165009940358
+"1678","Marsupials & monotremes","Dasyuromorphia",1978,7,524,1.33587786259542
+"1679","Marsupials & monotremes","Dasyuromorphia",1979,8,543,1.47329650092081
+"1680","Marsupials & monotremes","Dasyuromorphia",1980,7,572,1.22377622377622
+"1681","Marsupials & monotremes","Dasyuromorphia",1981,12,589,2.03735144312394
+"1682","Marsupials & monotremes","Dasyuromorphia",1982,7,719,0.973574408901252
+"1683","Marsupials & monotremes","Dasyuromorphia",1983,16,693,2.30880230880231
+"1684","Marsupials & monotremes","Dasyuromorphia",1984,11,708,1.55367231638418
+"1685","Marsupials & monotremes","Dasyuromorphia",1985,10,729,1.37174211248285
+"1686","Marsupials & monotremes","Dasyuromorphia",1986,16,699,2.28898426323319
+"1687","Marsupials & monotremes","Dasyuromorphia",1987,17,743,2.28802153432032
+"1688","Marsupials & monotremes","Dasyuromorphia",1988,16,835,1.91616766467066
+"1689","Marsupials & monotremes","Dasyuromorphia",1989,17,817,2.08078335373317
+"1690","Marsupials & monotremes","Dasyuromorphia",1990,20,924,2.16450216450216
+"1691","Marsupials & monotremes","Dasyuromorphia",1991,17,874,1.94508009153318
+"1692","Marsupials & monotremes","Dasyuromorphia",1992,16,857,1.86697782963827
+"1693","Marsupials & monotremes","Dasyuromorphia",1993,15,947,1.58394931362196
+"1694","Marsupials & monotremes","Dasyuromorphia",1994,13,954,1.36268343815514
+"1695","Marsupials & monotremes","Dasyuromorphia",1995,14,1034,1.35396518375242
+"1696","Marsupials & monotremes","Dasyuromorphia",1996,14,1123,1.246660730187
+"1697","Marsupials & monotremes","Dasyuromorphia",1997,22,1247,1.76423416198877
+"1698","Marsupials & monotremes","Dasyuromorphia",1998,19,1244,1.52733118971061
+"1699","Marsupials & monotremes","Dasyuromorphia",1999,22,1319,1.66793025018954
+"1700","Marsupials & monotremes","Dasyuromorphia",2000,24,1331,1.80315552216379
+"1701","Marsupials & monotremes","Dasyuromorphia",2001,31,1428,2.17086834733894
+"1702","Marsupials & monotremes","Dasyuromorphia",2002,19,1381,1.37581462708182
+"1703","Marsupials & monotremes","Dasyuromorphia",2003,21,1494,1.40562248995984
+"1704","Marsupials & monotremes","Dasyuromorphia",2004,20,1557,1.28452151573539
+"1705","Marsupials & monotremes","Dasyuromorphia",2005,18,1557,1.15606936416185
+"1706","Marsupials & monotremes","Dasyuromorphia",2006,33,1655,1.99395770392749
+"1707","Marsupials & monotremes","Dasyuromorphia",2007,22,1629,1.35052179251074
+"1708","Marsupials & monotremes","Dasyuromorphia",2008,23,1675,1.37313432835821
+"1709","Marsupials & monotremes","Dasyuromorphia",2009,21,1690,1.24260355029586
+"1710","Marsupials & monotremes","Dasyuromorphia",2010,27,1895,1.42480211081794
+"1711","Marsupials & monotremes","Dasyuromorphia",2011,30,1876,1.59914712153518
+"1712","Marsupials & monotremes","Dasyuromorphia",2012,31,1886,1.64369034994698
+"1713","Marsupials & monotremes","Dasyuromorphia",2013,27,1865,1.44772117962466
+"1714","Marsupials & monotremes","Dasyuromorphia",2014,26,1930,1.34715025906736
+"1715","Marsupials & monotremes","Dasyuromorphia",2015,27,1947,1.38674884437596
+"1716","Marsupials & monotremes","Dasyuromorphia",2016,28,2018,1.38751238850347
+"1717","Marsupials & monotremes","Dasyuromorphia",2017,30,2003,1.49775336994508
+"1718","Marsupials & monotremes","Dasyuromorphia",2018,23,1990,1.15577889447236
+"1719","Marsupials & monotremes","Dasyuromorphia",2019,20,1993,1.00351229302559
+"1720","Marsupials & monotremes","Dasyuromorphia",2020,28,2044,1.36986301369863
+"1721","Marsupials & monotremes","Dasyuromorphia",2021,13,1234,1.05348460291734
+"1722","Marsupials & monotremes","Dasyuromorphia",NA,17,2276,0.746924428822496
+"1723","Marsupials & monotremes","Didelphimorphia",1904,1,9,11.1111111111111
+"1724","Marsupials & monotremes","Didelphimorphia",1916,1,5,20
+"1725","Marsupials & monotremes","Didelphimorphia",1925,1,13,7.69230769230769
+"1726","Marsupials & monotremes","Didelphimorphia",1926,1,21,4.76190476190476
+"1727","Marsupials & monotremes","Didelphimorphia",1928,1,18,5.55555555555556
+"1728","Marsupials & monotremes","Didelphimorphia",1929,1,17,5.88235294117647
+"1729","Marsupials & monotremes","Didelphimorphia",1930,1,16,6.25
+"1730","Marsupials & monotremes","Didelphimorphia",1931,1,21,4.76190476190476
+"1731","Marsupials & monotremes","Didelphimorphia",1932,1,21,4.76190476190476
+"1732","Marsupials & monotremes","Didelphimorphia",1935,1,20,5
+"1733","Marsupials & monotremes","Didelphimorphia",1939,2,33,6.06060606060606
+"1734","Marsupials & monotremes","Didelphimorphia",1941,1,26,3.84615384615385
+"1735","Marsupials & monotremes","Didelphimorphia",1942,1,25,4
+"1736","Marsupials & monotremes","Didelphimorphia",1945,1,28,3.57142857142857
+"1737","Marsupials & monotremes","Didelphimorphia",1947,1,43,2.32558139534884
+"1738","Marsupials & monotremes","Didelphimorphia",1948,2,47,4.25531914893617
+"1739","Marsupials & monotremes","Didelphimorphia",1949,1,43,2.32558139534884
+"1740","Marsupials & monotremes","Didelphimorphia",1952,2,77,2.5974025974026
+"1741","Marsupials & monotremes","Didelphimorphia",1953,1,75,1.33333333333333
+"1742","Marsupials & monotremes","Didelphimorphia",1954,2,81,2.46913580246914
+"1743","Marsupials & monotremes","Didelphimorphia",1958,3,109,2.75229357798165
+"1744","Marsupials & monotremes","Didelphimorphia",1960,1,138,0.72463768115942
+"1745","Marsupials & monotremes","Didelphimorphia",1961,2,141,1.41843971631206
+"1746","Marsupials & monotremes","Didelphimorphia",1962,2,176,1.13636363636364
+"1747","Marsupials & monotremes","Didelphimorphia",1963,1,183,0.546448087431694
+"1748","Marsupials & monotremes","Didelphimorphia",1964,1,185,0.540540540540541
+"1749","Marsupials & monotremes","Didelphimorphia",1965,5,255,1.96078431372549
+"1750","Marsupials & monotremes","Didelphimorphia",1966,1,257,0.389105058365759
+"1751","Marsupials & monotremes","Didelphimorphia",1967,7,306,2.28758169934641
+"1752","Marsupials & monotremes","Didelphimorphia",1968,4,323,1.23839009287926
+"1753","Marsupials & monotremes","Didelphimorphia",1969,5,333,1.5015015015015
+"1754","Marsupials & monotremes","Didelphimorphia",1970,7,379,1.84696569920844
+"1755","Marsupials & monotremes","Didelphimorphia",1971,4,417,0.959232613908873
+"1756","Marsupials & monotremes","Didelphimorphia",1972,8,441,1.8140589569161
+"1757","Marsupials & monotremes","Didelphimorphia",1973,8,457,1.75054704595186
+"1758","Marsupials & monotremes","Didelphimorphia",1974,4,465,0.860215053763441
+"1759","Marsupials & monotremes","Didelphimorphia",1975,6,478,1.25523012552301
+"1760","Marsupials & monotremes","Didelphimorphia",1976,5,529,0.945179584120983
+"1761","Marsupials & monotremes","Didelphimorphia",1977,5,503,0.99403578528827
+"1762","Marsupials & monotremes","Didelphimorphia",1978,2,524,0.381679389312977
+"1763","Marsupials & monotremes","Didelphimorphia",1979,7,543,1.28913443830571
+"1764","Marsupials & monotremes","Didelphimorphia",1980,3,572,0.524475524475524
+"1765","Marsupials & monotremes","Didelphimorphia",1981,11,589,1.86757215619694
+"1766","Marsupials & monotremes","Didelphimorphia",1982,7,719,0.973574408901252
+"1767","Marsupials & monotremes","Didelphimorphia",1983,5,693,0.721500721500722
+"1768","Marsupials & monotremes","Didelphimorphia",1984,7,708,0.988700564971752
+"1769","Marsupials & monotremes","Didelphimorphia",1985,6,729,0.823045267489712
+"1770","Marsupials & monotremes","Didelphimorphia",1986,11,699,1.57367668097282
+"1771","Marsupials & monotremes","Didelphimorphia",1987,7,743,0.942126514131898
+"1772","Marsupials & monotremes","Didelphimorphia",1988,7,835,0.838323353293413
+"1773","Marsupials & monotremes","Didelphimorphia",1989,7,817,0.856793145654835
+"1774","Marsupials & monotremes","Didelphimorphia",1990,7,924,0.757575757575758
+"1775","Marsupials & monotremes","Didelphimorphia",1991,10,874,1.1441647597254
+"1776","Marsupials & monotremes","Didelphimorphia",1992,6,857,0.700116686114352
+"1777","Marsupials & monotremes","Didelphimorphia",1993,9,947,0.950369588173178
+"1778","Marsupials & monotremes","Didelphimorphia",1994,10,954,1.0482180293501
+"1779","Marsupials & monotremes","Didelphimorphia",1995,14,1034,1.35396518375242
+"1780","Marsupials & monotremes","Didelphimorphia",1996,12,1123,1.06856634016028
+"1781","Marsupials & monotremes","Didelphimorphia",1997,16,1247,1.28307939053729
+"1782","Marsupials & monotremes","Didelphimorphia",1998,9,1244,0.723472668810289
+"1783","Marsupials & monotremes","Didelphimorphia",1999,22,1319,1.66793025018954
+"1784","Marsupials & monotremes","Didelphimorphia",2000,20,1331,1.50262960180316
+"1785","Marsupials & monotremes","Didelphimorphia",2001,22,1428,1.5406162464986
+"1786","Marsupials & monotremes","Didelphimorphia",2002,30,1381,2.17233888486604
+"1787","Marsupials & monotremes","Didelphimorphia",2003,23,1494,1.53949129852744
+"1788","Marsupials & monotremes","Didelphimorphia",2004,25,1557,1.60565189466924
+"1789","Marsupials & monotremes","Didelphimorphia",2005,18,1557,1.15606936416185
+"1790","Marsupials & monotremes","Didelphimorphia",2006,23,1655,1.38972809667674
+"1791","Marsupials & monotremes","Didelphimorphia",2007,23,1629,1.41190914671578
+"1792","Marsupials & monotremes","Didelphimorphia",2008,28,1675,1.67164179104478
+"1793","Marsupials & monotremes","Didelphimorphia",2009,34,1690,2.01183431952663
+"1794","Marsupials & monotremes","Didelphimorphia",2010,34,1895,1.79419525065963
+"1795","Marsupials & monotremes","Didelphimorphia",2011,38,1876,2.02558635394456
+"1796","Marsupials & monotremes","Didelphimorphia",2012,38,1886,2.01484623541888
+"1797","Marsupials & monotremes","Didelphimorphia",2013,31,1865,1.66219839142091
+"1798","Marsupials & monotremes","Didelphimorphia",2014,33,1930,1.70984455958549
+"1799","Marsupials & monotremes","Didelphimorphia",2015,41,1947,2.10580380071905
+"1800","Marsupials & monotremes","Didelphimorphia",2016,29,2018,1.43706640237859
+"1801","Marsupials & monotremes","Didelphimorphia",2017,27,2003,1.34797803295057
+"1802","Marsupials & monotremes","Didelphimorphia",2018,22,1990,1.10552763819095
+"1803","Marsupials & monotremes","Didelphimorphia",2019,33,1993,1.65579528349222
+"1804","Marsupials & monotremes","Didelphimorphia",2020,29,2044,1.4187866927593
+"1805","Marsupials & monotremes","Didelphimorphia",2021,13,1234,1.05348460291734
+"1806","Marsupials & monotremes","Didelphimorphia",NA,50,2276,2.19683655536028
+"1807","Marsupials & monotremes","Diprotodontia",1835,1,1,100
+"1808","Marsupials & monotremes","Diprotodontia",1881,1,5,20
+"1809","Marsupials & monotremes","Diprotodontia",1888,1,2,50
+"1810","Marsupials & monotremes","Diprotodontia",1896,1,2,50
+"1811","Marsupials & monotremes","Diprotodontia",1914,1,9,11.1111111111111
+"1812","Marsupials & monotremes","Diprotodontia",1915,1,10,10
+"1813","Marsupials & monotremes","Diprotodontia",1921,2,16,12.5
+"1814","Marsupials & monotremes","Diprotodontia",1922,1,10,10
+"1815","Marsupials & monotremes","Diprotodontia",1924,1,14,7.14285714285714
+"1816","Marsupials & monotremes","Diprotodontia",1927,1,15,6.66666666666667
+"1817","Marsupials & monotremes","Diprotodontia",1937,1,19,5.26315789473684
+"1818","Marsupials & monotremes","Diprotodontia",1938,1,45,2.22222222222222
+"1819","Marsupials & monotremes","Diprotodontia",1939,1,33,3.03030303030303
+"1820","Marsupials & monotremes","Diprotodontia",1941,1,26,3.84615384615385
+"1821","Marsupials & monotremes","Diprotodontia",1942,1,25,4
+"1822","Marsupials & monotremes","Diprotodontia",1943,1,22,4.54545454545455
+"1823","Marsupials & monotremes","Diprotodontia",1945,1,28,3.57142857142857
+"1824","Marsupials & monotremes","Diprotodontia",1947,2,43,4.65116279069767
+"1825","Marsupials & monotremes","Diprotodontia",1948,1,47,2.12765957446809
+"1826","Marsupials & monotremes","Diprotodontia",1950,2,49,4.08163265306122
+"1827","Marsupials & monotremes","Diprotodontia",1951,1,78,1.28205128205128
+"1828","Marsupials & monotremes","Diprotodontia",1952,3,77,3.8961038961039
+"1829","Marsupials & monotremes","Diprotodontia",1953,2,75,2.66666666666667
+"1830","Marsupials & monotremes","Diprotodontia",1954,2,81,2.46913580246914
+"1831","Marsupials & monotremes","Diprotodontia",1955,1,82,1.21951219512195
+"1832","Marsupials & monotremes","Diprotodontia",1956,2,107,1.86915887850467
+"1833","Marsupials & monotremes","Diprotodontia",1957,1,103,0.970873786407767
+"1834","Marsupials & monotremes","Diprotodontia",1958,1,109,0.917431192660551
+"1835","Marsupials & monotremes","Diprotodontia",1959,2,125,1.6
+"1836","Marsupials & monotremes","Diprotodontia",1960,8,138,5.79710144927536
+"1837","Marsupials & monotremes","Diprotodontia",1961,4,141,2.83687943262411
+"1838","Marsupials & monotremes","Diprotodontia",1962,5,176,2.84090909090909
+"1839","Marsupials & monotremes","Diprotodontia",1963,3,183,1.63934426229508
+"1840","Marsupials & monotremes","Diprotodontia",1964,4,185,2.16216216216216
+"1841","Marsupials & monotremes","Diprotodontia",1965,10,255,3.92156862745098
+"1842","Marsupials & monotremes","Diprotodontia",1966,7,257,2.72373540856031
+"1843","Marsupials & monotremes","Diprotodontia",1967,4,306,1.30718954248366
+"1844","Marsupials & monotremes","Diprotodontia",1968,7,323,2.1671826625387
+"1845","Marsupials & monotremes","Diprotodontia",1969,8,333,2.4024024024024
+"1846","Marsupials & monotremes","Diprotodontia",1970,7,379,1.84696569920844
+"1847","Marsupials & monotremes","Diprotodontia",1971,11,417,2.6378896882494
+"1848","Marsupials & monotremes","Diprotodontia",1972,12,441,2.72108843537415
+"1849","Marsupials & monotremes","Diprotodontia",1973,15,457,3.28227571115974
+"1850","Marsupials & monotremes","Diprotodontia",1974,15,465,3.2258064516129
+"1851","Marsupials & monotremes","Diprotodontia",1975,14,478,2.92887029288703
+"1852","Marsupials & monotremes","Diprotodontia",1976,16,529,3.02457466918715
+"1853","Marsupials & monotremes","Diprotodontia",1977,19,503,3.77733598409543
+"1854","Marsupials & monotremes","Diprotodontia",1978,20,524,3.81679389312977
+"1855","Marsupials & monotremes","Diprotodontia",1979,25,543,4.60405156537753
+"1856","Marsupials & monotremes","Diprotodontia",1980,24,572,4.1958041958042
+"1857","Marsupials & monotremes","Diprotodontia",1981,24,589,4.07470288624788
+"1858","Marsupials & monotremes","Diprotodontia",1982,26,719,3.61613351877608
+"1859","Marsupials & monotremes","Diprotodontia",1983,27,693,3.8961038961039
+"1860","Marsupials & monotremes","Diprotodontia",1984,40,708,5.64971751412429
+"1861","Marsupials & monotremes","Diprotodontia",1985,39,729,5.34979423868313
+"1862","Marsupials & monotremes","Diprotodontia",1986,24,699,3.43347639484979
+"1863","Marsupials & monotremes","Diprotodontia",1987,27,743,3.63391655450875
+"1864","Marsupials & monotremes","Diprotodontia",1988,42,835,5.02994011976048
+"1865","Marsupials & monotremes","Diprotodontia",1989,33,817,4.03916768665851
+"1866","Marsupials & monotremes","Diprotodontia",1990,35,924,3.78787878787879
+"1867","Marsupials & monotremes","Diprotodontia",1991,35,874,4.0045766590389
+"1868","Marsupials & monotremes","Diprotodontia",1992,54,857,6.30105017502917
+"1869","Marsupials & monotremes","Diprotodontia",1993,43,947,4.54065469904963
+"1870","Marsupials & monotremes","Diprotodontia",1994,39,954,4.08805031446541
+"1871","Marsupials & monotremes","Diprotodontia",1995,41,1034,3.96518375241779
+"1872","Marsupials & monotremes","Diprotodontia",1996,46,1123,4.09617097061443
+"1873","Marsupials & monotremes","Diprotodontia",1997,60,1247,4.81154771451484
+"1874","Marsupials & monotremes","Diprotodontia",1998,43,1244,3.45659163987138
+"1875","Marsupials & monotremes","Diprotodontia",1999,54,1319,4.09401061410159
+"1876","Marsupials & monotremes","Diprotodontia",2000,41,1331,3.08039068369647
+"1877","Marsupials & monotremes","Diprotodontia",2001,58,1428,4.06162464985994
+"1878","Marsupials & monotremes","Diprotodontia",2002,69,1381,4.99637943519189
+"1879","Marsupials & monotremes","Diprotodontia",2003,50,1494,3.34672021419009
+"1880","Marsupials & monotremes","Diprotodontia",2004,48,1557,3.08285163776493
+"1881","Marsupials & monotremes","Diprotodontia",2005,53,1557,3.40398201669878
+"1882","Marsupials & monotremes","Diprotodontia",2006,51,1655,3.08157099697885
+"1883","Marsupials & monotremes","Diprotodontia",2007,43,1629,2.63965623081645
+"1884","Marsupials & monotremes","Diprotodontia",2008,54,1675,3.22388059701493
+"1885","Marsupials & monotremes","Diprotodontia",2009,49,1690,2.89940828402367
+"1886","Marsupials & monotremes","Diprotodontia",2010,52,1895,2.74406332453826
+"1887","Marsupials & monotremes","Diprotodontia",2011,51,1876,2.71855010660981
+"1888","Marsupials & monotremes","Diprotodontia",2012,57,1886,3.02226935312831
+"1889","Marsupials & monotremes","Diprotodontia",2013,40,1865,2.14477211796247
+"1890","Marsupials & monotremes","Diprotodontia",2014,48,1930,2.48704663212435
+"1891","Marsupials & monotremes","Diprotodontia",2015,43,1947,2.2085259373395
+"1892","Marsupials & monotremes","Diprotodontia",2016,47,2018,2.32903865213082
+"1893","Marsupials & monotremes","Diprotodontia",2017,42,2003,2.09685471792312
+"1894","Marsupials & monotremes","Diprotodontia",2018,49,1990,2.46231155778894
+"1895","Marsupials & monotremes","Diprotodontia",2019,48,1993,2.40842950326142
+"1896","Marsupials & monotremes","Diprotodontia",2020,56,2044,2.73972602739726
+"1897","Marsupials & monotremes","Diprotodontia",2021,27,1234,2.18800648298217
+"1898","Marsupials & monotremes","Diprotodontia",NA,55,2276,2.41652021089631
+"1899","Marsupials & monotremes","Microbiotheria",1973,1,457,0.218818380743982
+"1900","Marsupials & monotremes","Microbiotheria",1979,1,543,0.184162062615101
+"1901","Marsupials & monotremes","Microbiotheria",1988,1,835,0.119760479041916
+"1902","Marsupials & monotremes","Microbiotheria",1989,1,817,0.122399020807834
+"1903","Marsupials & monotremes","Microbiotheria",1991,1,874,0.11441647597254
+"1904","Marsupials & monotremes","Microbiotheria",1992,1,857,0.116686114352392
+"1905","Marsupials & monotremes","Microbiotheria",1994,1,954,0.10482180293501
+"1906","Marsupials & monotremes","Microbiotheria",1996,1,1123,0.0890471950133571
+"1907","Marsupials & monotremes","Microbiotheria",1997,1,1247,0.0801924619085806
+"1908","Marsupials & monotremes","Microbiotheria",1999,1,1319,0.0758150113722517
+"1909","Marsupials & monotremes","Microbiotheria",2001,1,1428,0.0700280112044818
+"1910","Marsupials & monotremes","Microbiotheria",2003,1,1494,0.0669344042838019
+"1911","Marsupials & monotremes","Microbiotheria",2004,1,1557,0.0642260757867694
+"1912","Marsupials & monotremes","Microbiotheria",2005,1,1557,0.0642260757867694
+"1913","Marsupials & monotremes","Microbiotheria",2006,1,1655,0.0604229607250755
+"1914","Marsupials & monotremes","Microbiotheria",2007,1,1629,0.0613873542050338
+"1915","Marsupials & monotremes","Microbiotheria",2008,1,1675,0.0597014925373134
+"1916","Marsupials & monotremes","Microbiotheria",2009,1,1690,0.0591715976331361
+"1917","Marsupials & monotremes","Microbiotheria",2010,1,1895,0.0527704485488127
+"1918","Marsupials & monotremes","Microbiotheria",2011,1,1876,0.0533049040511727
+"1919","Marsupials & monotremes","Microbiotheria",2012,1,1886,0.0530222693531283
+"1920","Marsupials & monotremes","Microbiotheria",2013,1,1865,0.0536193029490617
+"1921","Marsupials & monotremes","Microbiotheria",2014,1,1930,0.0518134715025907
+"1922","Marsupials & monotremes","Microbiotheria",2015,1,1947,0.0513610683102209
+"1923","Marsupials & monotremes","Microbiotheria",2016,1,2018,0.0495540138751239
+"1924","Marsupials & monotremes","Microbiotheria",2017,1,2003,0.0499251123315027
+"1925","Marsupials & monotremes","Microbiotheria",2018,1,1990,0.050251256281407
+"1926","Marsupials & monotremes","Microbiotheria",2019,1,1993,0.0501756146512795
+"1927","Marsupials & monotremes","Microbiotheria",2020,1,2044,0.0489236790606654
+"1928","Marsupials & monotremes","Microbiotheria",2021,1,1234,0.0810372771474878
+"1929","Marsupials & monotremes","Monotremata",1846,1,2,50
+"1930","Marsupials & monotremes","Monotremata",1915,1,10,10
+"1931","Marsupials & monotremes","Monotremata",1953,1,75,1.33333333333333
+"1932","Marsupials & monotremes","Monotremata",1958,1,109,0.917431192660551
+"1933","Marsupials & monotremes","Monotremata",1959,1,125,0.8
+"1934","Marsupials & monotremes","Monotremata",1960,1,138,0.72463768115942
+"1935","Marsupials & monotremes","Monotremata",1961,1,141,0.709219858156028
+"1936","Marsupials & monotremes","Monotremata",1962,1,176,0.568181818181818
+"1937","Marsupials & monotremes","Monotremata",1963,1,183,0.546448087431694
+"1938","Marsupials & monotremes","Monotremata",1964,1,185,0.540540540540541
+"1939","Marsupials & monotremes","Monotremata",1965,1,255,0.392156862745098
+"1940","Marsupials & monotremes","Monotremata",1966,2,257,0.778210116731518
+"1941","Marsupials & monotremes","Monotremata",1967,2,306,0.65359477124183
+"1942","Marsupials & monotremes","Monotremata",1968,2,323,0.619195046439629
+"1943","Marsupials & monotremes","Monotremata",1969,2,333,0.600600600600601
+"1944","Marsupials & monotremes","Monotremata",1970,1,379,0.263852242744063
+"1945","Marsupials & monotremes","Monotremata",1971,2,417,0.479616306954436
+"1946","Marsupials & monotremes","Monotremata",1972,2,441,0.453514739229025
+"1947","Marsupials & monotremes","Monotremata",1973,2,457,0.437636761487965
+"1948","Marsupials & monotremes","Monotremata",1974,2,465,0.43010752688172
+"1949","Marsupials & monotremes","Monotremata",1975,2,478,0.418410041841004
+"1950","Marsupials & monotremes","Monotremata",1976,2,529,0.378071833648393
+"1951","Marsupials & monotremes","Monotremata",1977,2,503,0.397614314115308
+"1952","Marsupials & monotremes","Monotremata",1978,2,524,0.381679389312977
+"1953","Marsupials & monotremes","Monotremata",1979,3,543,0.552486187845304
+"1954","Marsupials & monotremes","Monotremata",1980,1,572,0.174825174825175
+"1955","Marsupials & monotremes","Monotremata",1981,1,589,0.169779286926995
+"1956","Marsupials & monotremes","Monotremata",1982,3,719,0.417246175243394
+"1957","Marsupials & monotremes","Monotremata",1983,2,693,0.288600288600289
+"1958","Marsupials & monotremes","Monotremata",1984,3,708,0.423728813559322
+"1959","Marsupials & monotremes","Monotremata",1985,2,729,0.274348422496571
+"1960","Marsupials & monotremes","Monotremata",1986,2,699,0.286123032904149
+"1961","Marsupials & monotremes","Monotremata",1987,1,743,0.134589502018843
+"1962","Marsupials & monotremes","Monotremata",1988,2,835,0.239520958083832
+"1963","Marsupials & monotremes","Monotremata",1989,2,817,0.244798041615667
+"1964","Marsupials & monotremes","Monotremata",1990,2,924,0.216450216450216
+"1965","Marsupials & monotremes","Monotremata",1991,2,874,0.22883295194508
+"1966","Marsupials & monotremes","Monotremata",1992,2,857,0.233372228704784
+"1967","Marsupials & monotremes","Monotremata",1993,2,947,0.211193241816262
+"1968","Marsupials & monotremes","Monotremata",1994,2,954,0.209643605870021
+"1969","Marsupials & monotremes","Monotremata",1995,2,1034,0.193423597678917
+"1970","Marsupials & monotremes","Monotremata",1996,2,1123,0.178094390026714
+"1971","Marsupials & monotremes","Monotremata",1997,3,1247,0.240577385725742
+"1972","Marsupials & monotremes","Monotremata",1998,4,1244,0.321543408360129
+"1973","Marsupials & monotremes","Monotremata",1999,2,1319,0.151630022744503
+"1974","Marsupials & monotremes","Monotremata",2000,2,1331,0.150262960180316
+"1975","Marsupials & monotremes","Monotremata",2001,2,1428,0.140056022408964
+"1976","Marsupials & monotremes","Monotremata",2002,2,1381,0.144822592324403
+"1977","Marsupials & monotremes","Monotremata",2003,4,1494,0.267737617135207
+"1978","Marsupials & monotremes","Monotremata",2004,3,1557,0.192678227360308
+"1979","Marsupials & monotremes","Monotremata",2005,2,1557,0.128452151573539
+"1980","Marsupials & monotremes","Monotremata",2006,2,1655,0.120845921450151
+"1981","Marsupials & monotremes","Monotremata",2007,2,1629,0.122774708410068
+"1982","Marsupials & monotremes","Monotremata",2008,3,1675,0.17910447761194
+"1983","Marsupials & monotremes","Monotremata",2009,5,1690,0.29585798816568
+"1984","Marsupials & monotremes","Monotremata",2010,2,1895,0.105540897097625
+"1985","Marsupials & monotremes","Monotremata",2011,2,1876,0.106609808102345
+"1986","Marsupials & monotremes","Monotremata",2012,4,1886,0.212089077412513
+"1987","Marsupials & monotremes","Monotremata",2013,3,1865,0.160857908847185
+"1988","Marsupials & monotremes","Monotremata",2014,5,1930,0.259067357512953
+"1989","Marsupials & monotremes","Monotremata",2015,4,1947,0.205444273240883
+"1990","Marsupials & monotremes","Monotremata",2016,3,2018,0.148662041625372
+"1991","Marsupials & monotremes","Monotremata",2017,2,2003,0.0998502246630055
+"1992","Marsupials & monotremes","Monotremata",2018,2,1990,0.100502512562814
+"1993","Marsupials & monotremes","Monotremata",2019,3,1993,0.150526843953838
+"1994","Marsupials & monotremes","Monotremata",2020,2,2044,0.0978473581213307
+"1995","Marsupials & monotremes","Monotremata",2021,2,1234,0.162074554294976
+"1996","Marsupials & monotremes","Notoryctemorphia",1891,1,4,25
+"1997","Marsupials & monotremes","Notoryctemorphia",1892,1,4,25
+"1998","Marsupials & monotremes","Notoryctemorphia",1968,1,323,0.309597523219814
+"1999","Marsupials & monotremes","Notoryctemorphia",1974,1,465,0.21505376344086
+"2000","Marsupials & monotremes","Notoryctemorphia",1991,1,874,0.11441647597254
+"2001","Marsupials & monotremes","Notoryctemorphia",1995,1,1034,0.0967117988394584
+"2002","Marsupials & monotremes","Notoryctemorphia",1997,1,1247,0.0801924619085806
+"2003","Marsupials & monotremes","Notoryctemorphia",1998,1,1244,0.0803858520900322
+"2004","Marsupials & monotremes","Notoryctemorphia",1999,1,1319,0.0758150113722517
+"2005","Marsupials & monotremes","Notoryctemorphia",2000,1,1331,0.0751314800901578
+"2006","Marsupials & monotremes","Notoryctemorphia",2001,1,1428,0.0700280112044818
+"2007","Marsupials & monotremes","Notoryctemorphia",2002,1,1381,0.0724112961622013
+"2008","Marsupials & monotremes","Notoryctemorphia",2003,1,1494,0.0669344042838019
+"2009","Marsupials & monotremes","Notoryctemorphia",2004,1,1557,0.0642260757867694
+"2010","Marsupials & monotremes","Notoryctemorphia",2005,1,1557,0.0642260757867694
+"2011","Marsupials & monotremes","Notoryctemorphia",2006,1,1655,0.0604229607250755
+"2012","Marsupials & monotremes","Notoryctemorphia",2012,1,1886,0.0530222693531283
+"2013","Marsupials & monotremes","Notoryctemorphia",2014,1,1930,0.0518134715025907
+"2014","Marsupials & monotremes","Notoryctemorphia",2016,1,2018,0.0495540138751239
+"2015","Marsupials & monotremes","Notoryctemorphia",2018,1,1990,0.050251256281407
+"2016","Marsupials & monotremes","Paucituberculata",1976,1,529,0.189035916824197
+"2017","Marsupials & monotremes","Paucituberculata",1977,1,503,0.198807157057654
+"2018","Marsupials & monotremes","Paucituberculata",1985,1,729,0.137174211248285
+"2019","Marsupials & monotremes","Paucituberculata",1988,1,835,0.119760479041916
+"2020","Marsupials & monotremes","Paucituberculata",1989,1,817,0.122399020807834
+"2021","Marsupials & monotremes","Paucituberculata",1996,2,1123,0.178094390026714
+"2022","Marsupials & monotremes","Paucituberculata",2005,1,1557,0.0642260757867694
+"2023","Marsupials & monotremes","Paucituberculata",2007,2,1629,0.122774708410068
+"2024","Marsupials & monotremes","Paucituberculata",2008,2,1675,0.119402985074627
+"2025","Marsupials & monotremes","Paucituberculata",2010,1,1895,0.0527704485488127
+"2026","Marsupials & monotremes","Paucituberculata",2011,1,1876,0.0533049040511727
+"2027","Marsupials & monotremes","Paucituberculata",2012,1,1886,0.0530222693531283
+"2028","Marsupials & monotremes","Paucituberculata",2013,5,1865,0.268096514745308
+"2029","Marsupials & monotremes","Paucituberculata",2015,3,1947,0.154083204930663
+"2030","Marsupials & monotremes","Paucituberculata",2016,2,2018,0.0991080277502478
+"2031","Marsupials & monotremes","Paucituberculata",2017,1,2003,0.0499251123315027
+"2032","Marsupials & monotremes","Paucituberculata",2019,1,1993,0.0501756146512795
+"2033","Marsupials & monotremes","Paucituberculata",2020,2,2044,0.0978473581213307
+"2034","Marsupials & monotremes","Paucituberculata",2021,1,1234,0.0810372771474878
+"2035","Marsupials & monotremes","Paucituberculata",NA,3,2276,0.131810193321617
+"2036","Marsupials & monotremes","Peramelemorphia",1942,1,25,4
+"2037","Marsupials & monotremes","Peramelemorphia",1951,1,78,1.28205128205128
+"2038","Marsupials & monotremes","Peramelemorphia",1952,1,77,1.2987012987013
+"2039","Marsupials & monotremes","Peramelemorphia",1956,1,107,0.934579439252336
+"2040","Marsupials & monotremes","Peramelemorphia",1958,1,109,0.917431192660551
+"2041","Marsupials & monotremes","Peramelemorphia",1959,2,125,1.6
+"2042","Marsupials & monotremes","Peramelemorphia",1960,1,138,0.72463768115942
+"2043","Marsupials & monotremes","Peramelemorphia",1962,2,176,1.13636363636364
+"2044","Marsupials & monotremes","Peramelemorphia",1964,3,185,1.62162162162162
+"2045","Marsupials & monotremes","Peramelemorphia",1965,1,255,0.392156862745098
+"2046","Marsupials & monotremes","Peramelemorphia",1967,2,306,0.65359477124183
+"2047","Marsupials & monotremes","Peramelemorphia",1968,1,323,0.309597523219814
+"2048","Marsupials & monotremes","Peramelemorphia",1969,2,333,0.600600600600601
+"2049","Marsupials & monotremes","Peramelemorphia",1970,1,379,0.263852242744063
+"2050","Marsupials & monotremes","Peramelemorphia",1971,5,417,1.19904076738609
+"2051","Marsupials & monotremes","Peramelemorphia",1972,4,441,0.90702947845805
+"2052","Marsupials & monotremes","Peramelemorphia",1973,2,457,0.437636761487965
+"2053","Marsupials & monotremes","Peramelemorphia",1974,3,465,0.645161290322581
+"2054","Marsupials & monotremes","Peramelemorphia",1975,3,478,0.627615062761506
+"2055","Marsupials & monotremes","Peramelemorphia",1976,2,529,0.378071833648393
+"2056","Marsupials & monotremes","Peramelemorphia",1977,5,503,0.99403578528827
+"2057","Marsupials & monotremes","Peramelemorphia",1978,2,524,0.381679389312977
+"2058","Marsupials & monotremes","Peramelemorphia",1979,3,543,0.552486187845304
+"2059","Marsupials & monotremes","Peramelemorphia",1980,3,572,0.524475524475524
+"2060","Marsupials & monotremes","Peramelemorphia",1981,4,589,0.67911714770798
+"2061","Marsupials & monotremes","Peramelemorphia",1982,4,719,0.556328233657858
+"2062","Marsupials & monotremes","Peramelemorphia",1983,4,693,0.577200577200577
+"2063","Marsupials & monotremes","Peramelemorphia",1984,2,708,0.282485875706215
+"2064","Marsupials & monotremes","Peramelemorphia",1985,2,729,0.274348422496571
+"2065","Marsupials & monotremes","Peramelemorphia",1986,3,699,0.429184549356223
+"2066","Marsupials & monotremes","Peramelemorphia",1987,3,743,0.403768506056528
+"2067","Marsupials & monotremes","Peramelemorphia",1988,6,835,0.718562874251497
+"2068","Marsupials & monotremes","Peramelemorphia",1989,4,817,0.489596083231334
+"2069","Marsupials & monotremes","Peramelemorphia",1990,18,924,1.94805194805195
+"2070","Marsupials & monotremes","Peramelemorphia",1991,5,874,0.5720823798627
+"2071","Marsupials & monotremes","Peramelemorphia",1992,6,857,0.700116686114352
+"2072","Marsupials & monotremes","Peramelemorphia",1993,6,947,0.633579725448786
+"2073","Marsupials & monotremes","Peramelemorphia",1994,3,954,0.314465408805031
+"2074","Marsupials & monotremes","Peramelemorphia",1995,6,1034,0.580270793036751
+"2075","Marsupials & monotremes","Peramelemorphia",1996,3,1123,0.267141585040071
+"2076","Marsupials & monotremes","Peramelemorphia",1997,7,1247,0.561347233360064
+"2077","Marsupials & monotremes","Peramelemorphia",1998,5,1244,0.401929260450161
+"2078","Marsupials & monotremes","Peramelemorphia",1999,6,1319,0.45489006823351
+"2079","Marsupials & monotremes","Peramelemorphia",2000,5,1331,0.375657400450789
+"2080","Marsupials & monotremes","Peramelemorphia",2001,5,1428,0.350140056022409
+"2081","Marsupials & monotremes","Peramelemorphia",2002,6,1381,0.434467776973208
+"2082","Marsupials & monotremes","Peramelemorphia",2003,6,1494,0.401606425702811
+"2083","Marsupials & monotremes","Peramelemorphia",2004,9,1557,0.578034682080925
+"2084","Marsupials & monotremes","Peramelemorphia",2005,8,1557,0.513808606294155
+"2085","Marsupials & monotremes","Peramelemorphia",2006,7,1655,0.422960725075529
+"2086","Marsupials & monotremes","Peramelemorphia",2007,7,1629,0.429711479435236
+"2087","Marsupials & monotremes","Peramelemorphia",2008,9,1675,0.537313432835821
+"2088","Marsupials & monotremes","Peramelemorphia",2009,7,1690,0.414201183431953
+"2089","Marsupials & monotremes","Peramelemorphia",2010,8,1895,0.422163588390501
+"2090","Marsupials & monotremes","Peramelemorphia",2011,6,1876,0.319829424307036
+"2091","Marsupials & monotremes","Peramelemorphia",2012,8,1886,0.424178154825027
+"2092","Marsupials & monotremes","Peramelemorphia",2013,7,1865,0.375335120643432
+"2093","Marsupials & monotremes","Peramelemorphia",2014,8,1930,0.414507772020725
+"2094","Marsupials & monotremes","Peramelemorphia",2015,5,1947,0.256805341551104
+"2095","Marsupials & monotremes","Peramelemorphia",2016,7,2018,0.346878097125867
+"2096","Marsupials & monotremes","Peramelemorphia",2017,6,2003,0.299550673989016
+"2097","Marsupials & monotremes","Peramelemorphia",2018,8,1990,0.402010050251256
+"2098","Marsupials & monotremes","Peramelemorphia",2019,8,1993,0.401404917210236
+"2099","Marsupials & monotremes","Peramelemorphia",2020,9,2044,0.440313111545988
+"2100","Marsupials & monotremes","Peramelemorphia",2021,7,1234,0.567260940032415
+"2101","Marsupials & monotremes","Peramelemorphia",NA,5,2276,0.219683655536028
+"2102","Xenarthra","Cingulata",1857,1,3,33.3333333333333
+"2103","Xenarthra","Cingulata",1878,2,6,33.3333333333333
+"2104","Xenarthra","Cingulata",1904,1,9,11.1111111111111
+"2105","Xenarthra","Cingulata",1908,1,4,25
+"2106","Xenarthra","Cingulata",1913,1,4,25
+"2107","Xenarthra","Cingulata",1916,1,5,20
+"2108","Xenarthra","Cingulata",1917,1,5,20
+"2109","Xenarthra","Cingulata",1930,1,16,6.25
+"2110","Xenarthra","Cingulata",1932,1,21,4.76190476190476
+"2111","Xenarthra","Cingulata",1945,1,28,3.57142857142857
+"2112","Xenarthra","Cingulata",1946,1,33,3.03030303030303
+"2113","Xenarthra","Cingulata",1947,1,43,2.32558139534884
+"2114","Xenarthra","Cingulata",1960,1,138,0.72463768115942
+"2115","Xenarthra","Cingulata",1961,1,141,0.709219858156028
+"2116","Xenarthra","Cingulata",1962,1,176,0.568181818181818
+"2117","Xenarthra","Cingulata",1963,1,183,0.546448087431694
+"2118","Xenarthra","Cingulata",1964,1,185,0.540540540540541
+"2119","Xenarthra","Cingulata",1965,2,255,0.784313725490196
+"2120","Xenarthra","Cingulata",1966,1,257,0.389105058365759
+"2121","Xenarthra","Cingulata",1967,1,306,0.326797385620915
+"2122","Xenarthra","Cingulata",1968,2,323,0.619195046439629
+"2123","Xenarthra","Cingulata",1969,3,333,0.900900900900901
+"2124","Xenarthra","Cingulata",1970,1,379,0.263852242744063
+"2125","Xenarthra","Cingulata",1971,2,417,0.479616306954436
+"2126","Xenarthra","Cingulata",1972,3,441,0.680272108843537
+"2127","Xenarthra","Cingulata",1973,1,457,0.218818380743982
+"2128","Xenarthra","Cingulata",1974,2,465,0.43010752688172
+"2129","Xenarthra","Cingulata",1975,2,478,0.418410041841004
+"2130","Xenarthra","Cingulata",1976,5,529,0.945179584120983
+"2131","Xenarthra","Cingulata",1977,3,503,0.596421471172962
+"2132","Xenarthra","Cingulata",1978,2,524,0.381679389312977
+"2133","Xenarthra","Cingulata",1979,2,543,0.368324125230203
+"2134","Xenarthra","Cingulata",1980,1,572,0.174825174825175
+"2135","Xenarthra","Cingulata",1981,2,589,0.33955857385399
+"2136","Xenarthra","Cingulata",1982,2,719,0.278164116828929
+"2137","Xenarthra","Cingulata",1983,5,693,0.721500721500722
+"2138","Xenarthra","Cingulata",1984,1,708,0.141242937853107
+"2139","Xenarthra","Cingulata",1985,3,729,0.411522633744856
+"2140","Xenarthra","Cingulata",1986,3,699,0.429184549356223
+"2141","Xenarthra","Cingulata",1987,4,743,0.53835800807537
+"2142","Xenarthra","Cingulata",1988,3,835,0.359281437125749
+"2143","Xenarthra","Cingulata",1989,3,817,0.367197062423501
+"2144","Xenarthra","Cingulata",1990,7,924,0.757575757575758
+"2145","Xenarthra","Cingulata",1991,1,874,0.11441647597254
+"2146","Xenarthra","Cingulata",1992,1,857,0.116686114352392
+"2147","Xenarthra","Cingulata",1993,3,947,0.316789862724393
+"2148","Xenarthra","Cingulata",1994,3,954,0.314465408805031
+"2149","Xenarthra","Cingulata",1995,4,1034,0.386847195357834
+"2150","Xenarthra","Cingulata",1996,1,1123,0.0890471950133571
+"2151","Xenarthra","Cingulata",1997,8,1247,0.641539695268645
+"2152","Xenarthra","Cingulata",1998,4,1244,0.321543408360129
+"2153","Xenarthra","Cingulata",1999,7,1319,0.530705079605762
+"2154","Xenarthra","Cingulata",2000,5,1331,0.375657400450789
+"2155","Xenarthra","Cingulata",2001,8,1428,0.560224089635854
+"2156","Xenarthra","Cingulata",2002,5,1381,0.362056480811006
+"2157","Xenarthra","Cingulata",2003,7,1494,0.468540829986613
+"2158","Xenarthra","Cingulata",2004,6,1557,0.385356454720617
+"2159","Xenarthra","Cingulata",2005,9,1557,0.578034682080925
+"2160","Xenarthra","Cingulata",2006,7,1655,0.422960725075529
+"2161","Xenarthra","Cingulata",2007,10,1629,0.613873542050338
+"2162","Xenarthra","Cingulata",2008,12,1675,0.716417910447761
+"2163","Xenarthra","Cingulata",2009,9,1690,0.532544378698225
+"2164","Xenarthra","Cingulata",2010,11,1895,0.580474934036939
+"2165","Xenarthra","Cingulata",2011,11,1876,0.5863539445629
+"2166","Xenarthra","Cingulata",2012,13,1886,0.689289501590668
+"2167","Xenarthra","Cingulata",2013,9,1865,0.482573726541555
+"2168","Xenarthra","Cingulata",2014,16,1930,0.829015544041451
+"2169","Xenarthra","Cingulata",2015,17,1947,0.873138161273754
+"2170","Xenarthra","Cingulata",2016,14,2018,0.693756194251734
+"2171","Xenarthra","Cingulata",2017,17,2003,0.848726909635547
+"2172","Xenarthra","Cingulata",2018,11,1990,0.552763819095477
+"2173","Xenarthra","Cingulata",2019,14,1993,0.702458605117913
+"2174","Xenarthra","Cingulata",2020,15,2044,0.73385518590998
+"2175","Xenarthra","Cingulata",2021,11,1234,0.891410048622366
+"2176","Xenarthra","Cingulata",NA,1,2276,0.0439367311072056
+"2177","Xenarthra","Pilosa",1834,1,1,100
+"2178","Xenarthra","Pilosa",1914,1,9,11.1111111111111
+"2179","Xenarthra","Pilosa",1921,1,16,6.25
+"2180","Xenarthra","Pilosa",1922,1,10,10
+"2181","Xenarthra","Pilosa",1926,1,21,4.76190476190476
+"2182","Xenarthra","Pilosa",1928,3,18,16.6666666666667
+"2183","Xenarthra","Pilosa",1930,1,16,6.25
+"2184","Xenarthra","Pilosa",1932,1,21,4.76190476190476
+"2185","Xenarthra","Pilosa",1938,1,45,2.22222222222222
+"2186","Xenarthra","Pilosa",1942,1,25,4
+"2187","Xenarthra","Pilosa",1945,1,28,3.57142857142857
+"2188","Xenarthra","Pilosa",1954,1,81,1.23456790123457
+"2189","Xenarthra","Pilosa",1957,1,103,0.970873786407767
+"2190","Xenarthra","Pilosa",1959,1,125,0.8
+"2191","Xenarthra","Pilosa",1960,1,138,0.72463768115942
+"2192","Xenarthra","Pilosa",1962,2,176,1.13636363636364
+"2193","Xenarthra","Pilosa",1963,3,183,1.63934426229508
+"2194","Xenarthra","Pilosa",1964,3,185,1.62162162162162
+"2195","Xenarthra","Pilosa",1965,3,255,1.17647058823529
+"2196","Xenarthra","Pilosa",1966,2,257,0.778210116731518
+"2197","Xenarthra","Pilosa",1967,2,306,0.65359477124183
+"2198","Xenarthra","Pilosa",1968,3,323,0.928792569659443
+"2199","Xenarthra","Pilosa",1969,1,333,0.3003003003003
+"2200","Xenarthra","Pilosa",1970,1,379,0.263852242744063
+"2201","Xenarthra","Pilosa",1972,2,441,0.453514739229025
+"2202","Xenarthra","Pilosa",1973,3,457,0.656455142231947
+"2203","Xenarthra","Pilosa",1974,1,465,0.21505376344086
+"2204","Xenarthra","Pilosa",1975,3,478,0.627615062761506
+"2205","Xenarthra","Pilosa",1976,3,529,0.56710775047259
+"2206","Xenarthra","Pilosa",1977,1,503,0.198807157057654
+"2207","Xenarthra","Pilosa",1978,2,524,0.381679389312977
+"2208","Xenarthra","Pilosa",1979,3,543,0.552486187845304
+"2209","Xenarthra","Pilosa",1980,2,572,0.34965034965035
+"2210","Xenarthra","Pilosa",1981,4,589,0.67911714770798
+"2211","Xenarthra","Pilosa",1982,4,719,0.556328233657858
+"2212","Xenarthra","Pilosa",1983,5,693,0.721500721500722
+"2213","Xenarthra","Pilosa",1984,1,708,0.141242937853107
+"2214","Xenarthra","Pilosa",1985,4,729,0.548696844993141
+"2215","Xenarthra","Pilosa",1986,2,699,0.286123032904149
+"2216","Xenarthra","Pilosa",1987,4,743,0.53835800807537
+"2217","Xenarthra","Pilosa",1988,2,835,0.239520958083832
+"2218","Xenarthra","Pilosa",1989,6,817,0.734394124847001
+"2219","Xenarthra","Pilosa",1990,3,924,0.324675324675325
+"2220","Xenarthra","Pilosa",1991,4,874,0.45766590389016
+"2221","Xenarthra","Pilosa",1992,2,857,0.233372228704784
+"2222","Xenarthra","Pilosa",1993,3,947,0.316789862724393
+"2223","Xenarthra","Pilosa",1994,3,954,0.314465408805031
+"2224","Xenarthra","Pilosa",1995,4,1034,0.386847195357834
+"2225","Xenarthra","Pilosa",1996,5,1123,0.445235975066785
+"2226","Xenarthra","Pilosa",1997,2,1247,0.160384923817161
+"2227","Xenarthra","Pilosa",1998,4,1244,0.321543408360129
+"2228","Xenarthra","Pilosa",1999,5,1319,0.379075056861259
+"2229","Xenarthra","Pilosa",2000,4,1331,0.300525920360631
+"2230","Xenarthra","Pilosa",2001,7,1428,0.490196078431373
+"2231","Xenarthra","Pilosa",2002,8,1381,0.57929036929761
+"2232","Xenarthra","Pilosa",2003,6,1494,0.401606425702811
+"2233","Xenarthra","Pilosa",2004,6,1557,0.385356454720617
+"2234","Xenarthra","Pilosa",2005,6,1557,0.385356454720617
+"2235","Xenarthra","Pilosa",2006,7,1655,0.422960725075529
+"2236","Xenarthra","Pilosa",2007,6,1629,0.368324125230203
+"2237","Xenarthra","Pilosa",2008,6,1675,0.358208955223881
+"2238","Xenarthra","Pilosa",2009,8,1690,0.473372781065089
+"2239","Xenarthra","Pilosa",2010,7,1895,0.369393139841689
+"2240","Xenarthra","Pilosa",2011,7,1876,0.373134328358209
+"2241","Xenarthra","Pilosa",2012,8,1886,0.424178154825027
+"2242","Xenarthra","Pilosa",2013,9,1865,0.482573726541555
+"2243","Xenarthra","Pilosa",2014,9,1930,0.466321243523316
+"2244","Xenarthra","Pilosa",2015,9,1947,0.462249614791988
+"2245","Xenarthra","Pilosa",2016,8,2018,0.396432111000991
+"2246","Xenarthra","Pilosa",2017,9,2003,0.449326010983525
+"2247","Xenarthra","Pilosa",2018,12,1990,0.603015075376884
+"2248","Xenarthra","Pilosa",2019,9,1993,0.451580531861515
+"2249","Xenarthra","Pilosa",2020,9,2044,0.440313111545988
+"2250","Xenarthra","Pilosa",2021,5,1234,0.405186385737439
+"2251","Xenarthra","Pilosa",NA,3,2276,0.131810193321617
