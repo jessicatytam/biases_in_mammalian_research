@@ -6,18 +6,18 @@ library(letsR)
 library(geosphere)
 
 #saving and loading
-write.csv(combinedf2, file = "outputs/data/combinedf2.csv")
-combinedf2 <- read.csv(file = "outputs/data/combinedf2.csv", header = T)[-c(1)]
-includeh <- read.csv(file = "outputs/data/includeh.csv")[-c(1)]
-domestication_h <- read.csv(file = "data/intermediate_data/domestication_h.csv", header = T)
+# write.csv(combinedf2, file = "outputs/data/combinedf2.csv")
+# combinedf2 <- read.csv(file = "outputs/data/combinedf2.csv", header = T)[-c(1)]
+includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
+# domestication_h <- read.csv(file = "data/intermediate_data/domestication_h.csv", header = T)
 
 #datasets
-mass <- read.csv(file = "data/intermediate_data/EltonTraits.csv", header = T)
-phylogeny <- read.csv(file = "data/intermediate_data/species_list_from_phylo.csv", header = T)
-location <- read.csv(file = "data/intermediate_data/gbif_lat_medians.csv", header = T)
-humanuse <- read.csv(file = "data/intermediate_data/IUCN_use.csv", header = T)
-redlist <- read.csv(file = "data/intermediate_data/IUCN_redlist.csv", header = T)
-domestication <- read.csv(file = "data/intermediate_data/domestication_h.csv", header = T)
+mass <- read.csv(file = "data/intermediate/EltonTraits.csv", header = T)
+phylogeny <- read.csv(file = "data/intermediate/species_list_from_phylo.csv", header = T)
+location <- read.csv(file = "data/intermediate/gbif_lat_medians.csv", header = T)
+humanuse <- read.csv(file = "data/intermediate/IUCN_use.csv", header = T)
+redlist <- read.csv(file = "data/intermediate/IUCN_redlist.csv", header = T)
+domestication <- read.csv(file = "data/intermediate/domestication_h.csv", header = T)
 
 #synonym matching
 
@@ -338,5 +338,30 @@ names(combinedf2)[names(combinedf2) == "domestication"] <- "domestication_error"
 combinedf2$genus_species <- str_replace(combinedf2$genus_species, " ", "_")
 combinedf2 <- merge(combinedf2, includeh[, c("genus_species", "domestication")], by = "genus_species")
 
-#assign domestication categories again
+#fill in Near Threatened
+
+nt <- redlist$scientificName[redlist$redlistCategory=="Near Threatened"] #393 names
+includeh_nt <- data.frame()
+for (i in 1:nrow(includeh)) {
+  if (includeh$genus_species[i] %in% nt) {
+    includeh_nt <- rbind(includeh[i,], includeh_nt)
+  }
+}
+table(is.na(includeh_nt$redlistCategory)) #340 NT; 17 NA
+
+table(includeh$redlistCategory)
+# Critically Endangered        Data Deficient            Endangered               Extinct 
+# 208                          774                       512                      66 
+# Extinct in the Wild         Least Concern            Vulnerable 
+# 2                           3152                     530 
+for (i in 1:nrow(includeh)) {
+  if ((includeh$genus_species[i] %in% includeh_nt$genus_species) & is.na(includeh$redlistCategory[i])) {
+    includeh$redlistCategory[i] <- "Near Threatened"
+  }
+}
+table(includeh$redlistCategory)
+# Critically Endangered        Data Deficient            Endangered               Extinct 
+# 208                          774                       512                      66 
+# Extinct in the Wild         Least Concern       Near Threatened            Vulnerable 
+# 2                           3152                340                        530 
 
