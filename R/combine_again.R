@@ -9,6 +9,7 @@ library(geosphere)
 # write.csv(combinedf2, file = "outputs/data/combinedf2.csv")
 # combinedf2 <- read.csv(file = "outputs/data/combinedf2.csv", header = T)[-c(1)]
 includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
+# write.csv(includeh, file = "data/intermediate/includeh.csv")
 # domestication_h <- read.csv(file = "data/intermediate_data/domestication_h.csv", header = T)
 
 #datasets
@@ -364,4 +365,3 @@ table(includeh$redlistCategory)
 # 208                          774                       512                      66 
 # Extinct in the Wild         Least Concern       Near Threatened            Vulnerable 
 # 2                           3152                340                        530 
-
