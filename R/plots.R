@@ -727,11 +727,11 @@ ggplot2::ggsave("outputs/doughnut.png", doughnut, width = 8, height = 8, units =
 #grid arrange
 
 mass_combine <- ggplot(includeh, aes(x = logmass,
-                                  y = logh1,
-                                  colour = clade)) +
+                                     y = logh1,
+                                     colour = clade)) +
   geom_point(size = 3,
              alpha = 0.2) +
-  labs(x = "(a) Body mass (kg)") +
+  labs(title = "(a) Body mass (kg)") +
   ylim(c(0, 500)) +
   coord_trans(x = "log1p") +
   scale_x_continuous(breaks = c(0.3, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 8.0),
@@ -752,8 +752,8 @@ mass_combine <- ggplot(includeh, aes(x = logmass,
   themebyjess_light_point()
 
 lat_combine <- ggplot(includeh, aes(x = median_lat,
-                                 y = logh1,
-                                 colour = clade)) +
+                                    y = logh1,
+                                    colour = clade)) +
   geom_point(size = 3,
              alpha = 0.2) +
   geom_smooth(colour = "black",
@@ -761,7 +761,7 @@ lat_combine <- ggplot(includeh, aes(x = median_lat,
   geom_rug(sides = "t",
            col = rgb(0.5, 0, 0,
                      alpha = 0.05)) +
-  labs(x = "(b) Latitude") +
+  labs(title = "(b) Latitude") +
   ylim(c(0, 500)) +
   scale_x_continuous(breaks = c(-40, 0, 40, 80),
                      labels = c("-40°", 0, "40°", "80°")) +
@@ -792,7 +792,7 @@ humanuse_combine <- ggplot(includeh, aes(x = factor(humanuse_bin),
                width = 0.4,
                alpha = 0.2,
                outlier.shape = NA) +
-  labs(x = "(c) Human use") +
+  labs(title = "(c) Human use") +
   ylim(c(0, 500)) +
   scale_x_discrete(breaks = c(0, 1),
                      labels = c("No documented use", "Use documented")) +
@@ -813,7 +813,7 @@ domestication_combine <- ggplot(includeh, aes(x = factor(domestication_bin),
                width = 0.4,
                alpha = 0.2,
                outlier.shape = NA) +
-  labs(x = "(d) Domestication") +
+  labs(title = "(d) Domestication") +
   ylim(c(0, 500)) +
   scale_x_discrete(breaks = c(1, 2, 3),
                      labels = c("Domesticated", "Partially-domesticated", "Wild")) +
@@ -835,7 +835,7 @@ iucn_combine <- ggplot(includeh %>%
                width = 0.4,
                alpha = 0.2,
                outlier.shape = NA) +
-  labs(x = "(e) IUCN Red List status") +
+  labs(title = "(e) IUCN Red List status") +
   ylim(c(0, 500)) +
   scale_x_discrete(breaks = c(1, 2, 3, 4, 5, 6),
                    labels = c("LC", "NT", "VU", "EN", "CE", "EW")) +
@@ -851,7 +851,7 @@ gtrends_combine <- ggplot(includeh, aes(x = log_sumgtrends,
                                      colour = clade)) +
   geom_point(size = 3,
              alpha = 0.2) +
-  labs(x = "(f) Google Trends index") +
+  labs(title = "(f) Google Trends index") +
   ylim(c(0, 500)) +
   scale_x_continuous(breaks = c(0, 2, 3, 4),
                      labels = c(0, 100, "1,000", "10,000")) +
@@ -864,8 +864,9 @@ gtrends_combine <- ggplot(includeh, aes(x = log_sumgtrends,
 
 grid_plot <- ggarrange(mass_combine + rremove("ylab"), lat_combine + rremove("ylab"), humanuse_combine + rremove("ylab"),
                        domestication_combine + rremove("ylab"), iucn_combine + rremove("ylab"), gtrends_combine + rremove("ylab"),
-          common.legend = TRUE,
-          nrow = 2, ncol = 3)
+                       common.legend = TRUE,
+                       legend = "bottom",
+                       nrow = 2, ncol = 3)
 
 grid_plot_an <- annotate_figure(grid_plot, left = text_grob(expression(bold(paste("species ", italic(h), "-index"))),
                                             rot = 90,

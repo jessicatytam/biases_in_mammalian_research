@@ -3,10 +3,7 @@ library(sysfonts)
 font_add_google("Roboto")
 
 themebyjess_light_point <- function() {
-  theme(axis.title = element_text(family = "Lato",
-                                  face = "bold",
-                                  size = 20,
-                                  colour = "black"),
+  theme(axis.title = element_blank(),
         axis.text = element_text(family = "Lato",
                                  size = 12,
                                  colour = "grey30"),
@@ -20,6 +17,10 @@ themebyjess_light_point <- function() {
         legend.key = element_rect(fill = "white"),
         legend.position = "top",
         legend.justification = "centre",
+        plot.title = element_text(family = "Lato",
+                                  face = "bold",
+                                  size = 20,
+                                  colour = "black"),
         plot.background = element_rect(fill = "white"),
         panel.background = element_rect(fill = "white"),
         panel.grid.major = element_line(colour = "grey90"),
@@ -90,10 +91,7 @@ themebyjess_light_col <- function() {
 }
 
 themebyjess_light_quasirandom <- function() {
-  theme(axis.title = element_text(family = "Lato",
-                                    face = "bold",
-                                    size = 20,
-                                    colour = "black"),
+  theme(axis.title = element_blank(),
         axis.text.x = element_text(family = "Lato",
                                    size = 14,
                                    colour = "black"),
@@ -110,6 +108,10 @@ themebyjess_light_quasirandom <- function() {
         legend.key = element_rect(fill = "white"),
         legend.position = "top",
         legend.justification = "centre",
+        plot.title = element_text(family = "Lato",
+                                  face = "bold",
+                                  size = 20,
+                                  colour = "black"),
         plot.background = element_rect(fill = "white"),
         panel.background = element_rect(fill = "white"),
         panel.grid.major.x = element_blank(),
