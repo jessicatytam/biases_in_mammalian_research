@@ -59,12 +59,12 @@ scopus_results2 <- readRDS("data/intermediate/scopus_results2.RDS")
 # includeh <- includeh %>%
 #   mutate(log_sumgtrends = log10(sum_gtrends+1), .after = sum_gtrends)
 
-#sorting
+#sorting for plots
 
 includeh$clade <- factor(includeh$clade, levels = c("Afrotheria", "Xenarthra", "Euarchontoglires", "Laurasiatheria", "Marsupials & monotremes"))
-includeh$order <- factor(includeh$order, levels = med_mass$order)
+# includeh$order <- factor(includeh$order, levels = med_mass$order)
 unique(includeh$redlistCategory)
-includeh$redlistCategory <- factor(includeh$redlistCategory, levels = c("Least Concern", "Near Threaten", "Vulnerable",
+includeh$redlistCategory <- factor(includeh$redlistCategory, levels = c("Least Concern", "Near Threatened", "Vulnerable",
                                                                         "Endangered", "Critically Endangered",
                                                                         "Extinct in the Wild", "Extinct", "Data Deficient"))
 
@@ -800,7 +800,7 @@ gtrends_combine <- ggplot(includeh, aes(x = log_sumgtrends,
 
 iucn_combine <- ggplot(includeh %>% 
                          drop_na(iucn_bin), aes(x = factor(iucn_bin),
-                                     y = logh1)) +
+                                                y = logh1)) +
   geom_quasirandom(aes(colour = clade),
                    size = 3,
                    alpha = 0.2) +
@@ -811,10 +811,10 @@ iucn_combine <- ggplot(includeh %>%
                outlier.shape = NA) +
   labs(x = "(d) IUCN Red List status") +
   ylim(c(0, 500)) +
-  scale_x_discrete(breaks = c(1, 2, 3, 4, 5),
-                     labels = c("LC", "VU", "EN", "CE", "EW")) +
+  scale_x_discrete(breaks = c(1, 2, 3, 4, 5, 6),
+                   labels = c("LC", "NT", "VU", "EN", "CE", "EW")) +
   scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
-                       labels = c(0, 2, 9, 31, 99, 316)) +
+                     labels = c(0, 2, 9, 31, 99, 316)) +
   scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
                       guide = guide_legend(override.aes = list(size = 5,
                                                                alpha = 1))) +
