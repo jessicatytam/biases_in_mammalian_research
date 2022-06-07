@@ -865,7 +865,7 @@ gtrends_combine <- ggplot(includeh, aes(x = log_sumgtrends,
 grid_plot <- ggarrange(mass_combine + rremove("ylab"), lat_combine + rremove("ylab"), humanuse_combine + rremove("ylab"),
                        domestication_combine + rremove("ylab"), iucn_combine + rremove("ylab"), gtrends_combine + rremove("ylab"),
                        common.legend = TRUE,
-                       legend = "bottom",
+                       legend = "top",
                        nrow = 2, ncol = 3)
 
 grid_plot_an <- annotate_figure(grid_plot, left = text_grob(expression(bold(paste("species ", italic(h), "-index"))),

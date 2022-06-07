@@ -29,13 +29,13 @@ library(ggrepel)
 library(ggpubr)
 
 #load data
-includeh <- read.csv(file = "outputs/data/includeh.csv")[-c(1)]
+includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
 
 includeh[includeh$domestication_bin==1,] #domesticated spp
 sum(includeh$domestication_bin==1) #12
-View(includeh[includeh$domestication_bin==2,]) #partially-domesticated spp)
+# View(includeh[includeh$domestication_bin==2,]) #partially-domesticated spp)
 sum(includeh$domestication_bin==2) #136
-View(includeh[includeh$humanuse_bin==1,])
+# View(includeh[includeh$humanuse_bin==1,])
 
 includeh <- includeh %>% 
   filter(domestication_bin==3)
@@ -188,10 +188,10 @@ includeh_wo_dom$genus_species <- str_replace(includeh_wo_dom$genus_species, " ",
 
 # new imputation list
 
-imp_list <- readRDS("data/intermediate_data/MCMCglmm/imp_list.rds")
+imp_list <- readRDS("MCMCglmm/data/imp_list_2.rds")
 
 table(imp_list[[1]]$animal %in% includeh_wo_dom$genus_species) #5343 
-table(!imp_list[[1]]$animal %in% includeh_wo_dom$genus_species) #155
+table(!imp_list[[1]]$animal %in% includeh_wo_dom$genus_species) #154
 
 imp_list_new <- imp_list
 for (j in 1:length(imp_list)) {
@@ -202,11 +202,11 @@ for (j in 1:length(imp_list)) {
   }
 }
 
-saveRDS(imp_list_new, "data/intermediate_data/MCMCglmm/imp_list_new.rds")
+saveRDS(imp_list_new, "MCMCglmm/data/imp_list_2_wo_dom.rds")
 
 #new tree list
 
-random_trees <- readRDS("data/intermediate_data/random_trees.rds")
+random_trees <- readRDS("MCMCglmm/data/random_trees.rds")
 length(random_trees$tree_9522$tip.label) #5498
 
 random_trees_new <- random_trees
