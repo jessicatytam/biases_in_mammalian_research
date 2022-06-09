@@ -29,16 +29,16 @@ library(ggrepel)
 library(ggpubr)
 
 #load data
-includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
-
-includeh[includeh$domestication_bin==1,] #domesticated spp
-sum(includeh$domestication_bin==1) #12
-# View(includeh[includeh$domestication_bin==2,]) #partially-domesticated spp)
-sum(includeh$domestication_bin==2) #136
-# View(includeh[includeh$humanuse_bin==1,])
-
-includeh <- includeh %>% 
-  filter(domestication_bin==3)
+# includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
+# 
+# includeh[includeh$domestication_bin==1,] #domesticated spp
+# sum(includeh$domestication_bin==1) #12
+# # View(includeh[includeh$domestication_bin==2,]) #partially-domesticated spp)
+# sum(includeh$domestication_bin==2) #136
+# # View(includeh[includeh$humanuse_bin==1,])
+# 
+# includeh_wild <- includeh %>% 
+#   filter(domestication_bin==3)
 
 #domestication 
 ##get the data
@@ -175,6 +175,8 @@ domestication <- domestication %>%
 
 #check if spp are in the domestication list
 
+includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
+
 includeh_dom <- data.frame()
 for (i in 1:length(includeh$genus_species)) {
   if (length(grep(includeh$genus_species[i], domestication$species))!=0) {
@@ -185,6 +187,8 @@ for (i in 1:length(includeh$genus_species)) {
 
 includeh_wo_dom <- includeh[!includeh$genus_species %in% includeh_dom$X.Acinonyx.jubatus.,]
 includeh_wo_dom$genus_species <- str_replace(includeh_wo_dom$genus_species, " ", "_")
+
+write.csv(includeh_wo_dom, "data/intermediate/includeh_wo_dom.csv")
 
 # new imputation list
 
