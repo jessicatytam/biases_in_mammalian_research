@@ -7,7 +7,7 @@ library(MCMCglmm)
 library(stringr)
 
 #load data
-#includeh <- read.csv(file = "outputs/data/includeh.csv")[-c(1)] 
+includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)]
 #includeh$genus_species <- str_replace(includeh$genus_species, " ", "_")
 #tree100 <- tree100 <- readRDS("data/intermediate_data/tree100.nex")
 mod_list_1 <- readRDS("MCMCglmm/without_domestication/outputs/mod_list3_1.rds")
