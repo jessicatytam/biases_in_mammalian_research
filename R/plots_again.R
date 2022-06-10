@@ -31,12 +31,12 @@ library(ggpubr)
 
 # combinedf_dup <- read.csv(file = "outputs/data/combinedf_dup.csv", header = T)[-c(1)]
 # indices_df <- read.csv(file = "outputs/data/hindex.csv", header = T)[-c(1)]
-includeh <- read.csv(file = "outputs/data/includeh.csv")[-c(1)] 
-tree100 <- tree100 <- readRDS("data/intermediate_data/tree100.nex")
-scopus_results1 <- readRDS("data/intermediate_data/scopus_results1.RDS")
-scopus_results2 <- readRDS("data/intermediate_data/scopus_results2.RDS")
+includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)] 
+tree100 <- tree100 <- readRDS("data/intermediate/tree100.nex")
+scopus_results1 <- readRDS("data/intermediate/scopus_results1.RDS")
+scopus_results2 <- readRDS("data/intermediate/scopus_results2.RDS")
 
-write.csv(includeh, file = "outputs/data/includeh.csv")
+# write.csv(includeh, file = "outputs/data/includeh.csv")
 
 #combining
 
@@ -501,7 +501,8 @@ ggplot2::ggsave("outputs/map_lc.png", map_lc, width = 16, height = 9, units = "i
 map_endangered <- ggplot(data = world) + #endangered
   geom_sf() +
   geom_point(data = includeh %>% 
-               filter(redlistCategory==list("Near Threatened", "Vulnerable", "Endangered", "Critically Endangered", "Extinct in the Wild")) %>% 
+               filter(redlistCategory==list("Near Threatened", "Vulnerable", "Endangered",
+                                            "Critically Endangered", "Extinct in the Wild")) %>% 
                drop_na(iucn_bin), aes(x = x,
                                       y = y,
                                       colour = logh1),
