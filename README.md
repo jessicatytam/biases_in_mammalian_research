@@ -23,4 +23,4 @@ Please refer to the following links to code and data to recreate the plots.
 
 ## MCMCglmm
 Data used to run the models in Table 2 & 3 can be found [here](MCMCglmm/data).\
-Output of models can be found [here](10.5281/zenodo.6644032).\
+Output of models can be found [here](10.5281/zenodo.6644032).
