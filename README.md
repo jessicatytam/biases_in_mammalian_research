@@ -1,7 +1,7 @@
 # Biases in mammalian research
 
 ## Data
-The main [dataset](data/intermediate/includeh.csv) was created from combining the raw data (data [here](data/raw); code [here](R/combine_again.R)) with citation data extracted from Scopus (data [here](data/intermediate/scopus_results1.RDS) and [here](data/intermediate/scopus_results2.RDS); code [here](R/mammal_list_query_script.R)).
+The main [dataset](data/intermediate/includeh.csv) was created from combining the raw data (data [here](data/raw); code [here](R/combine_again.R)) with citation data extracted from Scopus (data [here](10.5281/zenodo.5711932); code [here](R/mammal_list_query_script.R)).
 
 ## Plots
 Please refer to the following links to code and data to recreate the plots.
@@ -23,5 +23,4 @@ Please refer to the following links to code and data to recreate the plots.
 
 ## MCMCglmm
 Data used to run the models in Table 2 & 3 can be found [here](MCMCglmm/data).\
-[Code](MCMCglmm/model_1/R) and [output](MCMCglmm/model_1/outputs) of the model in Table 2 can be found [here](MCMCglmm/model_1).\
-[Code](MCMCglmm/model_2/R) and [output](MCMCglmm/model_2/outputs) of the model in Table 3 can be found [here](MCMCglmm/model_2).
+Output of models can be found [here](10.5281/zenodo.6644032).\
