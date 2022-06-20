@@ -23,7 +23,6 @@ Figure 4 - [here](https://github.com/jessicatytam/biases_in_mammalian_research/b
 
 ## MCMCglmm
 Data used to run the models in Table 2 & 3 can be found [here](MCMCglmm/data).\
-<<<<<<< HEAD
 Scripts to run and clean the model in Table 2 can be found [here](MCMCglmm/model_1_nt/R).\
 Scripts to run and clean the model in Table 3 can be found [here](MCMCglmm/model_2_nt/R).\
 Results of models were uploaded to [zenodo](https://zenodo.org/record/6644032#.Yq_RSSYRVGo).
