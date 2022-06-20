@@ -535,7 +535,7 @@ maps_iucn_an <- annotate_figure(maps_iucn,
                                                    size = 22,
                                                    face = "bold"))
 
-ggplot2::ggsave("outputs/maps_iucn_an.png", maps_iucn_an, width = 16, height = 13, units = "in", dpi = 300)
+ggplot2::ggsave("outputs/maps_iucn_an.pdf", maps_iucn_an)
 
 iucnmap_plot <- ggplot(data = world) +
   geom_sf() +

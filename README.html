@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type="text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -171,34 +175,35 @@ pre code {
 <h1>Biases in mammalian research</h1>
 <div id="data" class="section level2">
 <h2>Data</h2>
-<p>The main <a href="data/intermediate/includeh.csv">dataset</a> was created from combining the raw data (data <a href="data/raw">here</a>; code <a href="R/combine_again.R">here</a>) with citation data extracted from Scopus (data <a href="data/intermediate/scopus_results1.RDS">here</a> and <a href="data/intermediate/scopus_results2.RDS">here</a>; code <a href="R/mammal_list_query_script.R">here</a>).</p>
+<p>The main <a href="data/intermediate/includeh.csv">dataset</a> was created from combining the raw data (data <a href="data/raw">here</a>; code <a href="R/combine_again.R">here</a>) with citation data extracted from Scopus (data <a href="https://zenodo.org/record/6644032#.Yq_R2iYRVGo">here</a>; code <a href="R/mammal_list_query_script.R">here</a>).</p>
 </div>
 <div id="plots" class="section level2">
 <h2>Plots</h2>
 <p>Please refer to the following links to code and data to recreate the plots.</p>
 <div id="main-text" class="section level3">
 <h3>Main text</h3>
-<p><a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L85-L143">Figure 1</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L437-L725">Figure 2</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L368-L394">Figure 3</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L727-L876">Figure 4</a></p>
+<p>Figure 1 - <a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots.R#L87-L130">here</a> and <a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/model_without_domesticated_spp.R#L272-L306">here</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L948-L1037">Figure 2</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L477-L621">Figure 3</a><br />
+Figure 4 - <a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L1111-L1260">here</a> and <a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/model_without_domesticated_spp.R#L308-L458">here</a></p>
 </div>
 <div id="supplementary-materials" class="section level3">
 <h3>Supplementary materials</h3>
 <p><a href="R/table_data_completeness.R">Table S1</a><br />
-<a href="data/h-index.xlsx">Figure S2</a><br />
 <a href="R/vif.R">Table S3</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L75-L83">Figure S4</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L176-L199">Figure S5</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L203-L301">Figure S6</a><br />
-<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/829ecc425e0d7459211a2c78cc29f258e12de641/R/plots.R#L396-L435">Figure S7</a></p>
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots_again.R#L77-L85">Figure S4</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots_again.R#L305-L328">Figure S5</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots_again.R#L332-L430">Figure S6</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots_again.R#L718-L757">Figure S7</a><br />
+<a href="https://github.com/jessicatytam/biases_in_mammalian_research/blob/2c86092f1f6c71fbc819beb37d8104d93ac81c2e/R/plots_again.R#L108-L165">Figure S8</a></p>
 </div>
 </div>
 <div id="mcmcglmm" class="section level2">
 <h2>MCMCglmm</h2>
 <p>Data used to run the models in Table 2 &amp; 3 can be found <a href="MCMCglmm/data">here</a>.<br />
-<a href="MCMCglmm/model_1/R">Code</a> and <a href="MCMCglmm/model_1/outputs">output</a> of the model in Table 2 can be found <a href="MCMCglmm/model_1">here</a>.<br />
-<a href="MCMCglmm/model_2/R">Code</a> and <a href="MCMCglmm/model_2/outputs">output</a> of the model in Table 3 can be found <a href="MCMCglmm/model_2">here</a>.</p>
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Scripts to run and clean the model in Table 2 can be found <a href="MCMCglmm/model_1_nt/R">here</a>.<br />
+Scripts to run and clean the model in Table 3 can be found <a href="MCMCglmm/model_2_nt/R">here</a>.<br />
+Results of models were uploaded to <a href="https://zenodo.org/record/6644032#.Yq_RSSYRVGo">zenodo</a>.</p>
 </div>
 </div>
 
