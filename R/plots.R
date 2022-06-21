@@ -29,40 +29,42 @@ library(ggpubr)
 
 #loading df
 
+# combinedf_dup <- read.csv(file = "outputs/data/combinedf_dup.csv", header = T)[-c(1)]
+# indices_df <- read.csv(file = "outputs/data/hindex.csv", header = T)[-c(1)]
 includeh <- read.csv(file = "data/intermediate/includeh.csv")[-c(1)] 
-tree100 <- readRDS("data/intermediate/tree100.nex")
+tree100 <- tree100 <- readRDS("data/intermediate/tree100.nex")
 scopus_results1 <- readRDS("data/intermediate/scopus_results1.RDS")
 scopus_results2 <- readRDS("data/intermediate/scopus_results2.RDS")
 
-# write.csv(includeh, file = "data/intermediate/includeh.csv")
+# write.csv(includeh, file = "outputs/data/includeh.csv")
 
-# #combining
-# 
-# indices_df$genus_species <- str_replace(indices_df$genus_species, "_", " ")
-# names(combinedf_dup)[names(combinedf_dup) == "species"] <- "genus_species"
-# includeh <- left_join(indices_df, combinedf_dup,
-#                       by = "genus_species")
-# 
-# #some cleaning
-# includeh$domestication[includeh$genus_species == "Bos taurus"] <- "Domesticated" #making the cow domesticated
-# includeh <- includeh[-c(2886),] #remove homo sapiens
-# 
-# #TRANSFORMATIONS
-# 
-# includeh <- includeh %>%
-#   mutate(logh = log10(h),
-#          logmass = log10(BodyMass.Value))
-# 
-# includeh <- includeh %>%
-#   mutate(logh1 = log10(h+1), .after = logh)
-# 
-# includeh <- includeh %>%
-#   mutate(log_sumgtrends = log10(sum_gtrends+1), .after = sum_gtrends)
+#combining
 
-#sorting for plots
+indices_df$genus_species <- str_replace(indices_df$genus_species, "_", " ")
+names(combinedf_dup)[names(combinedf_dup) == "species"] <- "genus_species"
+includeh <- left_join(indices_df, combinedf_dup,
+                      by = "genus_species")
+
+#some cleaning
+includeh$domestication[includeh$genus_species == "Bos taurus"] <- "Domesticated" #making the cow domesticated
+includeh <- includeh[-c(2886),] #remove homo sapiens
+
+#TRANSFORMATIONS
+
+includeh <- includeh %>%
+  mutate(logh = log10(h),
+         logmass = log10(BodyMass.Value))
+
+includeh <- includeh %>%
+  mutate(logh1 = log10(h+1), .after = logh)
+
+includeh <- includeh %>%
+  mutate(log_sumgtrends = log10(sum_gtrends+1), .after = sum_gtrends)
+
+#sorting
 
 includeh$clade <- factor(includeh$clade, levels = c("Afrotheria", "Xenarthra", "Euarchontoglires", "Laurasiatheria", "Marsupials & monotremes"))
-# includeh$order <- factor(includeh$order, levels = med_mass$order)
+includeh$order <- factor(includeh$order, levels = med_mass$order)
 unique(includeh$redlistCategory)
 includeh$redlistCategory <- factor(includeh$redlistCategory, levels = c("Least Concern", "Near Threatened", "Vulnerable",
                                                                         "Endangered", "Critically Endangered",
@@ -81,6 +83,86 @@ h_dist <- ggplot(includeh, aes(x = h)) +
   themebyjess_light_point()
 
 ggplot2::ggsave("outputs/h_dist.png", h_dist, width = 16, height = 9, units = "in", dpi = 300)
+
+#h by order
+ggplot(includeh, aes(x = logh1,
+                     y = order)) +
+  geom_boxplot() +
+  geom_jitter(aes(colour = redlistCategory),
+              size = 2,
+              alpha = 0.5) +
+  labs(x = "h-index",
+       y = "Order",
+       colour = "IUCN Red List Category") +
+  theme(axis.title = element_text(size = 14),
+        axis.text = element_text(size = 10),
+        legend.title = element_text(size = 12),
+        legend.text = element_text(size = 10),
+        legend.position = c(0.88, 0.862)) +
+  scale_x_continuous() +
+  scale_colour_manual(values = c("#0d1e7d", "#194cb3", "#6b40e1", "#aa55ea",
+                                 "#ea559d", "#cd2d54", "#951433"),
+                      na.value = c("#a5a5a5")) +
+  scale_y_discrete(limits = rev)
+
+#m-index
+m1 <- ggplot(includeh %>% filter(m>1),
+             aes(x = m,
+                 y = reorder(genus_species, m),
+                 fill = order)) +
+  geom_segment(aes(x = 0,
+                   xend = m,
+                   y = reorder(genus_species, m),
+                   yend = reorder(genus_species, m)),
+               size = 1,
+               colour = "grey70") +
+  geom_point(size = 4.5,
+             alpha = 0.8,
+             shape = 21,
+             stroke = 1.5) +
+  labs(x = expression(bold(paste("species ", italic(m), "-index")))) +
+  # scale_fill_manual(values = c("#f1c40f", "#E98935", "#e74c3c", "#8e44ad", "#3498db", "#2ECC71"),
+  #                   guide = guide_legend(override.aes = list(size = 4,
+  #                                                            alpha = 1),
+  #                                        nrow = 1)) +
+  themebyjess_light_col()
+
+ggplot2::ggsave("outputs/m1.png", m1, width = 16, height = 13, units = "in", dpi = 300)
+
+allm <- ggplot(includeh,
+               aes(x = m,
+                   y = reorder(genus_species, m))) +
+  geom_point(size = 1,
+             alpha = 0.2) +
+  labs(x = "m-index") + 
+  scale_y_discrete(expand = c(0.005, 0.005)) +
+  theme(axis.title = element_blank(),
+        axis.text.x = element_text(family = "Lato",
+                                   size = 12,
+                                   colour = "grey30"),
+        axis.text.y = element_blank(),
+        axis.line = element_line(size = 1.05,
+                                 colour = "grey20"),
+        legend.background = element_rect(fill = "white"),
+        legend.title = element_blank(),
+        legend.text = element_text(family = "Roboto",
+                                   size = 20,
+                                   colour = "black"),
+        legend.key = element_rect(fill = "white"),
+        legend.position = "top",
+        legend.justification = "centre",
+        plot.background = element_rect(fill = "white"),
+        panel.border = element_rect(colour = "black",
+                                    fill = NA,
+                                    size = 3),
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major.x = element_line(colour = "grey90"),
+        panel.grid.minor.x = element_line(colour = "grey90",
+                                          linetype = "longdash"),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank())
+
+ggplot2::ggsave("outputs/allm.png", allm, width = 9, height = 16, units = "in", dpi = 300)
 
 #h-index
 h100 <- ggplot(includeh %>% filter(h>99),
@@ -141,6 +223,53 @@ allh <- ggplot(includeh,
         panel.grid.minor.y = element_blank())
 
 ggplot2::ggsave("outputs/allh.png", allh, width = 9, height = 16, units = "in", dpi = 300)
+
+ggplot(includeh %>%
+         filter(h == 0),
+       aes(y = reorder(order, desc(order)))) +
+  geom_bar() +
+  themebyjess_light_col()
+
+orders_sum <- includeh %>% 
+  group_by(order) %>% 
+  summarise(n = n())
+# Compute percentages
+orders_sum$fraction = orders_sum$n / sum(orders_sum$n)
+# Compute the cumulative percentages (top of each rectangle)
+orders_sum$ymax = cumsum(orders_sum$fraction)
+# Compute the bottom of each rectangle
+orders_sum$ymin = c(0, head(orders_sum$ymax, n = -1))
+
+doughnut <- ggplot(orders_sum,
+       aes(xmax = 4,
+           xmin = 3,
+           ymax = ymax,
+           ymin = ymin,
+           fill = order)) +
+  geom_rect() +
+  coord_polar(theta = "y") +
+  xlim(c(2, 4)) +
+  labs(title = "Species diversity") +
+  scale_fill_manual(values = c("#FAEBB3",
+                               "#F7E28D", "#F6DB6E", "#F4D34E", "#F3CC2F",
+                               "#f1c40f", "#EFB519", "#EDA722", "#EB982C",
+                               "#E98935", "#E97A37", "#E86B39", "#E85B3A",
+                               "#e74c3c", "#D14A58", "#BB4875", "#A44691",
+                               "#8e44ad", "#7859B9", "#616EC4", "#4B83D0",
+                               "#3498db", "#33A5C1", "#31B2A6", "#30BF8C",
+                               "#2ECC71", "#4AD384", "#65DA97", "#81E0AA",
+                               "#8CE3B2")) +
+  theme(plot.title = element_text(family = "Lato",
+                                  face = "bold",
+                                  size = 36,
+                                  colour = "black",
+                                  hjust = 0.5),
+        axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        panel.background = element_blank(),
+        legend.position = "none")
+
+ggplot2::ggsave("outputs/doughnut.png", doughnut, width = 8, height = 8, units = "in", dpi = 300)
 
 #mass
 mass_plot <- ggplot(includeh, aes(x = logmass,
@@ -345,29 +474,90 @@ lat_plot <- ggplot(includeh, aes(x = median_lat,
 
 ggplot2::ggsave("outputs/logh_vs_lat.png", lat_plot, width = 16, height = 9, units = "in", dpi = 300)
 
-#google trends
-
-gtrends_plot <- ggplot(includeh, aes(x = log_sumgtrends,
-                     y = logh1,
-                     colour = clade)) +
-  geom_point(size = 3,
-             alpha = 0.4) +
-  labs(x = "Google Trends index (sum)",
-       y = "h-index") +
-  scale_x_continuous(breaks = c(0, 2, 3, 4),
-                     labels = c(0, 100, "1,000", "10,000")) +
-  scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
-                     labels = c(0, 2, 9, 31, 99, 316)) +
-  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
-                      guide = guide_legend(override.aes = list(size = 4,
-                                                               alpha = 1))) +
-  themebyjess_light_point()
-
-ggplot2::ggsave("outputs/logh_vs_logsumgtrends.png", gtrends_plot, width = 16, height = 9, units = "in", dpi = 300)
-
 #map
 
 world <- ne_countries(scale = "large", returnclass = "sf")
+
+map_lc <- ggplot(data = world) + #LC
+  geom_sf() +
+  geom_point(data = includeh %>% 
+               filter(redlistCategory=="Least Concern") %>% 
+               drop_na(iucn_bin), aes(x = x,
+                                      y = y,
+                                      colour = logh1),
+             size = 3,
+             alpha = 0.5) + 
+  coord_sf(expand = FALSE) +
+  labs(title = "(a) Non-threatened species",
+       x = "Longitude",
+       y = "Latitude",
+       colour = expression(bold(paste("species ", italic(h), "-index")))) +
+  scale_colour_gradientn(colours = wes_palette("Zissou1", 100, type = "continuous"),
+                         labels = c(0, 2, 9, 31, 99, 316)) +
+  themebyjess_light_map()
+
+ggplot2::ggsave("outputs/map_lc.png", map_lc, width = 16, height = 9, units = "in", dpi = 300)
+
+map_endangered <- ggplot(data = world) + #endangered
+  geom_sf() +
+  geom_point(data = includeh %>% 
+               filter(redlistCategory==list("Near Threatened", "Vulnerable", "Endangered",
+                                            "Critically Endangered", "Extinct in the Wild")) %>% 
+               drop_na(iucn_bin), aes(x = x,
+                                      y = y,
+                                      colour = logh1),
+             size = 3,
+             alpha = 0.5) + 
+  coord_sf(expand = FALSE) +
+  labs(title = "(b) Threatened species",
+       x = "Longitude",
+       y = "Latitude",
+       colour = expression(bold(paste("species ", italic(h), "-index")))) +
+  scale_colour_gradientn(colours = wes_palette("Zissou1", 100, type = "continuous"),
+                         labels = c(0, 2, 9, 31, 99, 316)) +
+  themebyjess_light_map()
+
+ggplot2::ggsave("outputs/map_endangered.png", map_endangered, width = 16, height = 9, units = "in", dpi = 300)
+
+maps_iucn <- ggarrange(map_lc + rremove("xlab") + rremove("ylab"), map_endangered + rremove("xlab") + rremove("ylab"),
+                       nrow = 2,
+                       heights = c(1, 1),
+                       align = c("v"))
+
+maps_iucn_an <- annotate_figure(maps_iucn,
+                                left = text_grob("Latitude",
+                                                 rot = 90,
+                                                 family = "Lato",
+                                                 size = 22,
+                                                 face = "bold"),
+                                bottom = text_grob("Longitude",
+                                                   family = "Lato",
+                                                   size = 22,
+                                                   face = "bold"))
+
+ggplot2::ggsave("outputs/maps_iucn_an.pdf", maps_iucn_an)
+
+iucnmap_plot <- ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = includeh %>% 
+               drop_na(iucn_bin), aes(x = x,
+                                      y = y,
+                                      colour = factor(iucn_bin),
+                                      size = logh1*3,
+                                      alpha = logh1*3)) + 
+  coord_sf(expand = FALSE) +
+  labs(x = "Longitude",
+       y = "Latitude",
+       colour = "IUCN Red List status",
+       size = expression(bold(paste("species ", italic(h), "-index"))),
+       alpha = expression(bold(paste("species ", italic(h), "-index")))) +
+  scale_colour_manual(values = c("#6B97DB", "#876CD9", "#A340D7", "#B83480", "#CC2828"),
+                      labels = c("Least Concern", "Vulnerable", "Endangered", "Critically Endangered", "Extinct in the Wild"),
+                      guide = guide_legend(override.aes = list(size = 4,
+                                                               alpha = 1))) +
+  themebyjess_light_map()
+
+ggplot2::ggsave("outputs/iucn_map2.png", iucnmap_plot, width = 16, height = 9, units = "in", dpi = 300)
 
 iucnmap2_plot <- ggplot(data = world) +
   geom_sf() +
@@ -393,7 +583,139 @@ iucnmap2_plot <- ggplot(data = world) +
 
 ggplot2::ggsave("outputs/iucn_map3.png", iucnmap2_plot, width = 16, height = 9, units = "in", dpi = 300)
 
-# tree from vertlife 
+map_plot <- ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = includeh, aes(x = x,
+                                  y = y,
+                                  colour = logh1),
+             size = 3,
+             alpha = 0.4) +
+  coord_sf(expand = FALSE) +
+  labs(title = "  (b)",
+       x = "Longitude",
+       y = "Latitude",
+       colour = expression(bold(paste("species ", italic(h), "-index")))) +
+  scale_colour_gradientn(colours = wes_palette("Zissou1", 100, type = "continuous"),
+                         labels = c(0, 2, 9, 31, 99, 316)) +
+  themebyjess_light_map()
+
+ggplot2::ggsave("outputs/logh_map.png", map_plot, width = 16, height = 9, units = "in", dpi = 300)
+
+
+maps <- ggarrange(iucnmap_plot + rremove("xlab") + rremove("ylab"), map_plot + rremove("xlab") + rremove("ylab"),
+                  nrow = 2,
+                  heights = c(1, 1),
+                  align = c("v"))
+
+maps_an <- annotate_figure(maps,
+                           left = text_grob("Latitude",
+                                            rot = 90,
+                                            family = "Lato",
+                                            size = 22,
+                                            face = "bold"),
+                           bottom = text_grob("Longitude",
+                                              family = "Lato",
+                                              size = 22,
+                                              face = "bold"))
+
+ggplot2::ggsave("outputs/maps_plot.png", maps_an, width = 16, height = 13, units = "in", dpi = 300)
+
+
+#phylogenetic tree
+
+saveRDS(tree, "outputs/tree.rds")
+tree <- readRDS("outputs/tree.rds")
+
+table(includeh_join$label %in% tree$tip.label) #checking
+includeh_join <- includeh_join %>%
+  filter(label %in% tree$tip.label)
+table(includeh_join$label %in% tree$tip.label) #checking
+
+tree3 <- tol_induced_subtree(ott_ids = includeh_join$id, label_format = "name")
+
+tree_join_3 <- treeio::full_join(tree3, includeh_join)
+
+length(tree3$tip.label) #7148
+length(includeh_join$label) #7148
+
+
+
+includeh_join <- includeh %>%
+  rename(label = genus_species)
+includeh_join$label <- str_replace_all(includeh_join$label, " ", "_")
+
+#all_names <- tnrs_match_names(includeh_join$label)
+in_tree <- is_in_tree(ott_ids = includeh_join$id) #this takes forever
+in_tree_tbl <- tibble(in_tree)
+all_names_clean <- cbind(includeh_join, in_tree)
+table(all_names_clean$in_tree) #checking
+
+for (i in 1:length(all_names_clean$in_tree)) {
+  if (isFALSE(all_names_clean$in_tree[i])) {
+    all_names_clean <- all_names_clean[-i,]
+  }
+}
+
+tree_again <- tol_induced_subtree(ott_ids = all_names_clean$id, label_format = "name")
+tree_tips <- tree_again$tip.label
+
+table(includeh_join$label %in% tree_again$tip.label) #checking
+includeh_join <- includeh_join %>%
+  filter(label %in% tree_again$tip.label)
+table(includeh_join$label %in% tree_again$tip.label) #checking
+
+length(tree_again$tip.label) #7445
+length(includeh_join$label) #7
+
+tree_join <- treeio::full_join(tree_again, includeh_join)
+
+tree_plot <- ggtree(tree_join_3,
+       layout = "circular") +
+  geom_tippoint(aes(colour = clade)) +
+  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
+                      guide = guide_legend(override.aes = list(size = 4,
+                                                               alpha = 1))) + #shape of legend icons not changing need to find out why
+  theme(legend.position = "top",
+        legend.title = element_blank(),
+        legend.text = element_text(family = "Roboto",
+                                   size = 20)) +
+  new_scale_colour() +
+  geom_fruit(geom = geom_bar,
+             mapping = aes(x = h, 
+                           colour = clade),
+             pwidth = 0.4,
+             orientation = "y", 
+             stat = "identity") +
+  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db")) +
+  guides(colour = FALSE)
+
+ggplot2::ggsave("outputs/h_tree.png", tree_plot, width = 16, height = 9, units = "in", dpi = 300)
+
+
+
+
+
+plot_check <- ggtree(tree_join, layout = "circular") +
+  geom_point(aes(y = h)) +
+  geom_fruit(geom = geom_bar,
+             mapping = aes(x = h, 
+                           colour = label),
+             pwidth = 0.4,
+             orientation = "y", 
+             stat = "identity") +
+  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"))
+ggplotly(plot_check)
+
+ggtree(tree_again, layout = "circular") +
+  geom_fruit(data = all_names_clean,
+             geom = geom_bar,
+             mapping = aes(x = h, 
+                           colour = clade),
+             pwidth = 0.4,
+             orientation = "y", 
+             stat = "identity")
+
+## tree from vertlife 
 
 for (i in 1:length(tree100$tree_9684$tip.label)) { #run this 3 times
   if (!tree100$tree_9684$tip.label[i] %in% includeh_join$label) {
@@ -434,6 +756,26 @@ tree_plot2 <- ggtree(tree100_combine,
 
 ggplot2::ggsave("outputs/h_tree2.png", tree_plot, width = 16, height = 9, units = "in", dpi = 300)
 
+#google trends
+
+gtrends_plot <- ggplot(includeh, aes(x = log_sumgtrends,
+                     y = logh1,
+                     colour = clade)) +
+  geom_point(size = 3,
+             alpha = 0.4) +
+  labs(x = "Google Trends index (sum)",
+       y = "h-index") +
+  scale_x_continuous(breaks = c(0, 2, 3, 4),
+                     labels = c(0, 100, "1,000", "10,000")) +
+  scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
+                     labels = c(0, 2, 9, 31, 99, 316)) +
+  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
+                      guide = guide_legend(override.aes = list(size = 4,
+                                                               alpha = 1))) +
+  themebyjess_light_point()
+
+ggplot2::ggsave("outputs/logh_vs_logsumgtrends.png", gtrends_plot, width = 16, height = 9, units = "in", dpi = 300)
+
 #trying ggstream
 
 scopus_results1 <- scopus_results1[-2886] #remove homo sapiens
@@ -442,9 +784,9 @@ scopus1_melt <- melt(scopus_results1)
 scopus2_melt <- melt(scopus_results2)
 
 scopus1_df <- scopus1_melt %>%
-  select(cover_date, L1) 
+  dplyr::select(cover_date, L1) 
 scopus2_df <- scopus2_melt %>%
-  select(cover_date, L1) 
+  dplyr::select(cover_date, L1) 
 
 scopus2_df$L1 <- scopus2_df$L1+3999
 
@@ -458,7 +800,7 @@ unique(scopus_df_year$L1) #7521
 scopus_df_summ <- scopus_df_year %>%
   group_by(L1, year) %>%
   summarise(n())
-  
+
 scopus_df_summ <- scopus_df_summ %>%
   rename(sp = L1,
          count = `n()`)
@@ -542,6 +884,12 @@ scopus_order_1950 <- scopus_order %>%
 scopus_order_1940 <- scopus_order %>%
   filter(year > 1939)
 
+scopus_order_1990 <- scopus_order %>%
+  filter(year > 1989)
+
+scopus_order_1980 <- scopus_order %>%
+  filter(year > 1979)
+
 #check percentages
 
 scopus_order_sum <- unique(scopus_order %>% 
@@ -554,6 +902,11 @@ scopus_order_yrperc <- left_join(scopus_order, scopus_order_yr)
 scopus_order_yrperc <- scopus_order_yrperc %>% 
   mutate(perc = count/sum*100)
 write.csv(scopus_order_yrperc, file = "outputs/data/scopus_order_yrperc.csv")
+
+scopus_order_yrperc %>%
+  group_by(year) %>% 
+  summarise(sum(sum)) %>% 
+  View()
 
 scopus_order_1960 <- scopus_order %>% 
   filter(year == 1960)
@@ -683,46 +1036,77 @@ pub_plot_combine <- ggarrange(pub_ridge_plot, pub_proportion_plot,
 ggplot2::ggsave("outputs/pub_plot_combine.png", pub_plot_combine, width = 16, height = 9, units = "in", dpi = 300)
 ggplot2::ggsave("outputs/pub_plot_combine_text.png", pub_plot_combine, width = 16, height = 13, units = "in", dpi = 300)
 
-orders_sum <- includeh %>% 
-  group_by(order) %>% 
-  summarise(n = n())
-# Compute percentages
-orders_sum$fraction = orders_sum$n / sum(orders_sum$n)
-# Compute the cumulative percentages (top of each rectangle)
-orders_sum$ymax = cumsum(orders_sum$fraction)
-# Compute the bottom of each rectangle
-orders_sum$ymin = c(0, head(orders_sum$ymax, n = -1))
+#facet plot
+newdata <- includeh %>%
+  select(genus_species, clade, h, logh1, 
+         logmass, median_lat, humanuse_bin, iucn_bin, domestication_bin, log_sumgtrends) 
+newdata <- newdata %>% pivot_longer(cols = c(5:10),
+                         names_to = "var",
+                         values_to = "val")
 
-doughnut <- ggplot(orders_sum,
-                   aes(xmax = 4,
-                       xmin = 3,
-                       ymax = ymax,
-                       ymin = ymin,
-                       fill = order)) +
-  geom_rect() +
-  coord_polar(theta = "y") +
-  xlim(c(2, 4)) +
-  labs(title = "Species diversity") +
-  scale_fill_manual(values = c("#FAEBB3",
-                               "#F7E28D", "#F6DB6E", "#F4D34E", "#F3CC2F",
-                               "#f1c40f", "#EFB519", "#EDA722", "#EB982C",
-                               "#E98935", "#E97A37", "#E86B39", "#E85B3A",
-                               "#e74c3c", "#D14A58", "#BB4875", "#A44691",
-                               "#8e44ad", "#7859B9", "#616EC4", "#4B83D0",
-                               "#3498db", "#33A5C1", "#31B2A6", "#30BF8C",
-                               "#2ECC71", "#4AD384", "#65DA97", "#81E0AA",
-                               "#8CE3B2")) +
-  theme(plot.title = element_text(family = "Lato",
-                                  face = "bold",
-                                  size = 36,
-                                  colour = "black",
-                                  hjust = 0.5),
-        axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.background = element_blank(),
-        legend.position = "none")
+newdata$var <- factor(newdata$var, levels = c("logmass", "median_lat", "log_sumgtrends", "iucn_bin", "humanuse_bin", "domestication_bin"))
 
-ggplot2::ggsave("outputs/doughnut.png", doughnut, width = 8, height = 8, units = "in", dpi = 300)
+replace_val <- function(data, res, x, output) {
+  for (i in 1:nrow(data)) {
+    if (data$var[i]==res & newdata$val[i]==x) {
+      data$val[i] <- output
+    }
+  }
+}
+
+replace_val(newdata, "domestication_bin", 3, "Wild")
+
+labs <- c("Body mass", "Latitude", "Google Trends", "IUCN Red List status", "Human use", "Domestication")
+levels(newdata$var) <- labs
+
+ggplot(newdata %>%
+         drop_na(val), aes(y = logh1)) +
+  geom_point(data = subset(newdata, var == "Body mass"), #mass
+             aes(x = val,
+                 colour = clade),
+             size = 3,
+             alpha = 0.4) +
+  geom_point(data = subset(newdata, var == "Latitude"), #latitude
+             aes(x = val,
+                 colour = clade),
+             size = 3,
+             alpha = 0.4) +
+  geom_smooth(data = subset(newdata, var == "Latitude"),
+              aes(x = val,
+                  colour = clade),
+              colour = "black",
+              size = 1.2) +
+  geom_point(data = subset(newdata, var == "Google Trends"), #google trends
+             aes(x = val,
+                 colour = clade),
+             size = 3,
+             alpha = 0.4) +
+  geom_quasirandom(data = subset(newdata, var == "IUCN Red List status"), #iucn
+                   aes(x = val,
+                       colour = clade),
+                   size = 3,
+                   alpha = 0.4) +
+  geom_quasirandom(data = subset(newdata, var == "Human use"), #human use
+                   aes(x = val,
+                       colour = clade),
+                   size = 3,
+                   alpha = 0.4) +
+  geom_quasirandom(data = subset(newdata, var == "Domestication"), #domestication
+                   aes(x = val,
+                       colour = clade),
+                   size = 3,
+                   alpha = 0.4) +
+  labs(y = "h-index") +
+  scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
+                     labels = c(0, 2, 9, 31, 99, 316)) +
+  facet_wrap(~var,
+             scales = "free") +
+  scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
+                      guide = guide_legend(override.aes = list(size = 6,
+                                                               alpha = 1))) +
+  themebyjess_light_facet()
+
+ggplot2::ggsave("outputs/facet_plot.png", facet_plot, width = 16, height = 9, units = "in", dpi = 300)
 
 #grid arrange
 
@@ -746,7 +1130,7 @@ mass_combine <- ggplot(includeh, aes(x = logmass,
                 quantiles = 0.5,
                 size = 2.5,
                 alpha = 0.8,
-                 lineend = "round") +
+                lineend = "round") +
   scale_colour_manual(values = c("#d4ac0d", "#ca6f1e", "#cb4335", "#7d3c98", "#2e86c1")) +
   guides(colour = FALSE) +
   themebyjess_light_point()
@@ -773,9 +1157,9 @@ lat_combine <- ggplot(includeh, aes(x = median_lat,
   themebyjess_light_point()
 
 lat_combine_margin <- ggMarginal(lat_combine, 
-           margins = "x",
-           groupColour = TRUE,
-           groupFill = TRUE)
+                                 margins = "x",
+                                 groupColour = TRUE,
+                                 groupFill = TRUE)
 
 ggMarginal(lat_combine, 
            margins = "x",
@@ -783,7 +1167,7 @@ ggMarginal(lat_combine,
            xparams = list(binwidth = 1))
 
 humanuse_combine <- ggplot(includeh, aes(x = factor(humanuse_bin),
-                                     y = logh1)) +
+                                         y = logh1)) +
   geom_quasirandom(aes(colour = clade),
                    size = 3,
                    alpha = 0.2) +
@@ -795,7 +1179,7 @@ humanuse_combine <- ggplot(includeh, aes(x = factor(humanuse_bin),
   labs(title = "(c) Human use") +
   ylim(c(0, 500)) +
   scale_x_discrete(breaks = c(0, 1),
-                     labels = c("No documented use", "Use documented")) +
+                   labels = c("No documented use", "Use documented")) +
   scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
                      labels = c(0, 2, 9, 31, 99, 316)) +
   scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
@@ -804,7 +1188,7 @@ humanuse_combine <- ggplot(includeh, aes(x = factor(humanuse_bin),
   themebyjess_light_quasirandom()
 
 domestication_combine <- ggplot(includeh, aes(x = factor(domestication_bin),
-                                         y = logh1)) +
+                                              y = logh1)) +
   geom_quasirandom(aes(colour = clade),
                    size = 3,
                    alpha = 0.2) +
@@ -816,7 +1200,7 @@ domestication_combine <- ggplot(includeh, aes(x = factor(domestication_bin),
   labs(title = "(d) Domestication") +
   ylim(c(0, 500)) +
   scale_x_discrete(breaks = c(1, 2, 3),
-                     labels = c("Domesticated", "Partially-domesticated", "Wild")) +
+                   labels = c("Domesticated", "Partially-domesticated", "Wild")) +
   scale_y_continuous(breaks = c(0, 0.477, 1, 1.505, 2, 2.501),
                      labels = c(0, 2, 9, 31, 99, 316)) +
   scale_colour_manual(values = c("#f1c40f", "#e67e22", "#e74c3c", "#8e44ad", "#3498db"),
@@ -847,8 +1231,8 @@ iucn_combine <- ggplot(includeh %>%
   themebyjess_light_quasirandom()
 
 gtrends_combine <- ggplot(includeh, aes(x = log_sumgtrends,
-                                     y = logh1,
-                                     colour = clade)) +
+                                        y = logh1,
+                                        colour = clade)) +
   geom_point(size = 3,
              alpha = 0.2) +
   labs(title = "(f) Google Trends index") +
@@ -869,8 +1253,9 @@ grid_plot <- ggarrange(mass_combine + rremove("ylab"), lat_combine + rremove("yl
                        nrow = 2, ncol = 3)
 
 grid_plot_an <- annotate_figure(grid_plot, left = text_grob(expression(bold(paste("species ", italic(h), "-index"))),
-                                            rot = 90,
-                                            family = "Lato",
-                                            size = 22))
+                                                            rot = 90,
+                                                            family = "Lato",
+                                                            size = 22))
 
 ggplot2::ggsave("outputs/grid_plot.png", grid_plot_an, width = 20, height = 11, units = "in", dpi = 300)
+
